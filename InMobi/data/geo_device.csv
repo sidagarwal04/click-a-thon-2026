@@ -1,0 +1,5001 @@
+geo_device_id,region,country,device_model,os_version
+gd_00000,NAM,US,Galaxy A54,Android 12
+gd_00001,APAC,PH,iPhone 13,iOS 16.4
+gd_00002,EU,ES,Pixel 7,Android 14
+gd_00003,EU,ES,iPhone 13,iOS 17.2
+gd_00004,MEA,AE,Galaxy A54,Android 14
+gd_00005,APAC,ID,Pixel 8,Android 14
+gd_00006,EU,ES,Galaxy A54,Android 15
+gd_00007,MEA,ZA,iPhone 15,iOS 16.4
+gd_00008,NAM,CA,iPhone 14,iOS 17.2
+gd_00009,MEA,AE,iPhone 15,iOS 16.4
+gd_00010,APAC,JP,iPhone 14,iOS 18.1
+gd_00011,APAC,ID,Redmi Note 12,Android 15
+gd_00012,MEA,NG,Pixel 7,Android 14
+gd_00013,APAC,JP,Pixel 8,Android 13
+gd_00014,EU,UK,Redmi Note 12,Android 14
+gd_00015,NAM,CA,iPhone 15,iOS 16.4
+gd_00016,APAC,PH,Galaxy S23,Android 14
+gd_00017,APAC,IN,iPhone 13,iOS 17.5
+gd_00018,NAM,CA,Pixel 7,Android 13
+gd_00019,APAC,IN,Galaxy S23,Android 14
+gd_00020,APAC,JP,Redmi Note 12,Android 13
+gd_00021,EU,ES,iPhone 14,iOS 18.1
+gd_00022,NAM,US,Redmi Note 12,Android 12
+gd_00023,EU,UK,iPhone 14,iOS 18.1
+gd_00024,NAM,US,Pixel 7,Android 13
+gd_00025,NAM,CA,iPhone 14,iOS 18.1
+gd_00026,EU,ES,iPhone 14,iOS 18.1
+gd_00027,NAM,US,iPhone 13,iOS 17.2
+gd_00028,EU,ES,iPhone 15,iOS 18.1
+gd_00029,APAC,ID,Pixel 8,Android 13
+gd_00030,EU,UK,Redmi Note 12,Android 14
+gd_00031,MEA,AE,iPhone 15,iOS 16.4
+gd_00032,MEA,NG,iPhone 15,iOS 17.2
+gd_00033,APAC,ID,Pixel 7,Android 12
+gd_00034,MEA,NG,Redmi Note 12,Android 13
+gd_00035,LATAM,MX,iPhone 14,iOS 17.2
+gd_00036,EU,DE,iPhone 15,iOS 17.5
+gd_00037,APAC,JP,iPhone 13,iOS 16.4
+gd_00038,NAM,US,iPhone 15,iOS 16.4
+gd_00039,APAC,IN,iPhone 13,iOS 17.2
+gd_00040,EU,ES,Galaxy A54,Android 13
+gd_00041,NAM,US,Pixel 8,Android 14
+gd_00042,EU,FR,iPhone 15,iOS 18.1
+gd_00043,MEA,NG,iPhone 15,iOS 17.2
+gd_00044,EU,UK,Galaxy S23,Android 15
+gd_00045,NAM,CA,iPhone 14,iOS 17.5
+gd_00046,NAM,US,iPhone 13,iOS 17.2
+gd_00047,EU,FR,iPhone 13,iOS 17.2
+gd_00048,LATAM,MX,iPhone 15,iOS 17.5
+gd_00049,APAC,PH,Redmi Note 12,Android 13
+gd_00050,EU,UK,iPhone 15,iOS 18.1
+gd_00051,NAM,US,iPhone 13,iOS 18.1
+gd_00052,NAM,US,iPhone 13,iOS 17.5
+gd_00053,EU,UK,Galaxy A54,Android 15
+gd_00054,LATAM,BR,Pixel 8,Android 13
+gd_00055,APAC,JP,Pixel 8,Android 13
+gd_00056,EU,ES,iPhone 13,iOS 18.1
+gd_00057,APAC,JP,Redmi Note 12,Android 12
+gd_00058,EU,DE,Redmi Note 12,Android 15
+gd_00059,APAC,PH,Pixel 7,Android 13
+gd_00060,APAC,ID,Redmi Note 12,Android 14
+gd_00061,APAC,IN,iPhone 14,iOS 16.4
+gd_00062,APAC,PH,Redmi Note 12,Android 14
+gd_00063,MEA,AE,Galaxy A54,Android 15
+gd_00064,EU,DE,Galaxy A54,Android 13
+gd_00065,NAM,CA,Galaxy S23,Android 15
+gd_00066,NAM,CA,Galaxy A54,Android 12
+gd_00067,APAC,IN,iPhone 15,iOS 17.5
+gd_00068,APAC,IN,Galaxy S23,Android 12
+gd_00069,APAC,JP,Pixel 7,Android 13
+gd_00070,APAC,IN,iPhone 13,iOS 17.2
+gd_00071,EU,FR,iPhone 14,iOS 17.2
+gd_00072,APAC,ID,iPhone 14,iOS 17.5
+gd_00073,APAC,IN,Redmi Note 12,Android 12
+gd_00074,EU,FR,iPhone 13,iOS 17.2
+gd_00075,EU,DE,Redmi Note 12,Android 14
+gd_00076,NAM,US,iPhone 13,iOS 16.4
+gd_00077,EU,UK,Galaxy S23,Android 15
+gd_00078,LATAM,AR,Galaxy S23,Android 13
+gd_00079,LATAM,AR,iPhone 14,iOS 17.5
+gd_00080,APAC,JP,iPhone 13,iOS 17.5
+gd_00081,EU,UK,Galaxy A54,Android 13
+gd_00082,APAC,PH,iPhone 13,iOS 16.4
+gd_00083,APAC,IN,Galaxy A54,Android 13
+gd_00084,EU,DE,Galaxy S23,Android 12
+gd_00085,LATAM,BR,iPhone 15,iOS 17.2
+gd_00086,NAM,CA,Redmi Note 12,Android 15
+gd_00087,NAM,US,Redmi Note 12,Android 13
+gd_00088,NAM,CA,iPhone 14,iOS 17.2
+gd_00089,NAM,US,Galaxy S23,Android 13
+gd_00090,LATAM,BR,iPhone 14,iOS 18.1
+gd_00091,EU,FR,Galaxy A54,Android 14
+gd_00092,EU,ES,iPhone 15,iOS 18.1
+gd_00093,EU,UK,Galaxy S23,Android 15
+gd_00094,EU,UK,Galaxy S23,Android 15
+gd_00095,EU,DE,iPhone 13,iOS 16.4
+gd_00096,NAM,CA,iPhone 13,iOS 18.1
+gd_00097,APAC,IN,iPhone 15,iOS 17.2
+gd_00098,NAM,US,iPhone 15,iOS 18.1
+gd_00099,LATAM,MX,iPhone 14,iOS 17.2
+gd_00100,NAM,US,Pixel 8,Android 12
+gd_00101,APAC,IN,iPhone 13,iOS 17.2
+gd_00102,LATAM,MX,Pixel 7,Android 12
+gd_00103,NAM,CA,iPhone 15,iOS 18.1
+gd_00104,NAM,US,Galaxy A54,Android 15
+gd_00105,MEA,NG,Pixel 8,Android 15
+gd_00106,EU,UK,Pixel 7,Android 12
+gd_00107,APAC,JP,iPhone 13,iOS 18.1
+gd_00108,NAM,US,Galaxy A54,Android 13
+gd_00109,EU,UK,Galaxy A54,Android 13
+gd_00110,APAC,IN,iPhone 13,iOS 17.2
+gd_00111,LATAM,AR,iPhone 15,iOS 18.1
+gd_00112,NAM,CA,Redmi Note 12,Android 15
+gd_00113,LATAM,AR,iPhone 14,iOS 17.5
+gd_00114,APAC,IN,iPhone 13,iOS 16.4
+gd_00115,NAM,US,Pixel 7,Android 14
+gd_00116,EU,UK,Galaxy A54,Android 15
+gd_00117,NAM,US,Galaxy S23,Android 13
+gd_00118,EU,DE,Pixel 8,Android 13
+gd_00119,APAC,PH,iPhone 13,iOS 17.5
+gd_00120,EU,ES,iPhone 15,iOS 17.5
+gd_00121,NAM,US,Redmi Note 12,Android 15
+gd_00122,APAC,ID,Galaxy S23,Android 14
+gd_00123,APAC,ID,iPhone 13,iOS 18.1
+gd_00124,APAC,JP,iPhone 14,iOS 17.5
+gd_00125,APAC,JP,iPhone 15,iOS 17.2
+gd_00126,NAM,CA,iPhone 14,iOS 16.4
+gd_00127,APAC,IN,iPhone 13,iOS 18.1
+gd_00128,EU,DE,Pixel 7,Android 12
+gd_00129,EU,ES,Pixel 7,Android 13
+gd_00130,NAM,US,Galaxy S23,Android 14
+gd_00131,APAC,IN,iPhone 14,iOS 17.5
+gd_00132,APAC,IN,iPhone 14,iOS 17.2
+gd_00133,EU,UK,Galaxy A54,Android 14
+gd_00134,LATAM,AR,Pixel 7,Android 14
+gd_00135,LATAM,BR,Redmi Note 12,Android 12
+gd_00136,NAM,CA,iPhone 13,iOS 16.4
+gd_00137,APAC,ID,iPhone 14,iOS 18.1
+gd_00138,EU,UK,Pixel 8,Android 12
+gd_00139,MEA,NG,Pixel 8,Android 14
+gd_00140,NAM,CA,Redmi Note 12,Android 12
+gd_00141,EU,ES,iPhone 13,iOS 18.1
+gd_00142,EU,ES,iPhone 14,iOS 18.1
+gd_00143,NAM,CA,iPhone 14,iOS 18.1
+gd_00144,APAC,JP,iPhone 14,iOS 16.4
+gd_00145,EU,FR,iPhone 14,iOS 16.4
+gd_00146,NAM,CA,Pixel 8,Android 14
+gd_00147,APAC,ID,iPhone 15,iOS 17.5
+gd_00148,LATAM,BR,Pixel 8,Android 14
+gd_00149,LATAM,MX,iPhone 14,iOS 18.1
+gd_00150,EU,DE,Pixel 8,Android 15
+gd_00151,EU,UK,iPhone 15,iOS 17.2
+gd_00152,NAM,CA,iPhone 15,iOS 17.2
+gd_00153,LATAM,AR,Redmi Note 12,Android 12
+gd_00154,APAC,ID,Pixel 7,Android 14
+gd_00155,APAC,ID,iPhone 13,iOS 17.2
+gd_00156,LATAM,AR,Pixel 8,Android 12
+gd_00157,NAM,US,iPhone 14,iOS 17.2
+gd_00158,APAC,JP,Pixel 7,Android 13
+gd_00159,NAM,CA,Redmi Note 12,Android 12
+gd_00160,NAM,US,Redmi Note 12,Android 13
+gd_00161,EU,ES,iPhone 14,iOS 17.5
+gd_00162,EU,UK,iPhone 15,iOS 17.5
+gd_00163,MEA,ZA,Galaxy S23,Android 13
+gd_00164,EU,FR,iPhone 14,iOS 17.5
+gd_00165,LATAM,AR,Redmi Note 12,Android 13
+gd_00166,APAC,PH,iPhone 13,iOS 17.2
+gd_00167,APAC,JP,iPhone 13,iOS 17.5
+gd_00168,MEA,ZA,iPhone 14,iOS 16.4
+gd_00169,EU,ES,iPhone 15,iOS 16.4
+gd_00170,EU,DE,iPhone 14,iOS 17.5
+gd_00171,NAM,US,iPhone 14,iOS 18.1
+gd_00172,EU,FR,iPhone 13,iOS 17.2
+gd_00173,LATAM,BR,iPhone 14,iOS 16.4
+gd_00174,EU,DE,Pixel 8,Android 15
+gd_00175,EU,DE,Pixel 8,Android 12
+gd_00176,NAM,US,Redmi Note 12,Android 13
+gd_00177,EU,ES,Galaxy S23,Android 13
+gd_00178,APAC,JP,iPhone 13,iOS 16.4
+gd_00179,EU,ES,Pixel 7,Android 12
+gd_00180,APAC,ID,Pixel 8,Android 14
+gd_00181,APAC,JP,iPhone 13,iOS 18.1
+gd_00182,LATAM,AR,Galaxy S23,Android 14
+gd_00183,NAM,US,Galaxy S23,Android 15
+gd_00184,APAC,PH,Redmi Note 12,Android 12
+gd_00185,NAM,US,iPhone 14,iOS 16.4
+gd_00186,EU,ES,Pixel 8,Android 12
+gd_00187,APAC,JP,Galaxy A54,Android 15
+gd_00188,APAC,JP,Galaxy A54,Android 12
+gd_00189,NAM,US,Pixel 7,Android 14
+gd_00190,LATAM,MX,Pixel 7,Android 12
+gd_00191,NAM,CA,iPhone 13,iOS 18.1
+gd_00192,APAC,PH,Galaxy A54,Android 15
+gd_00193,MEA,NG,iPhone 13,iOS 17.2
+gd_00194,APAC,ID,iPhone 15,iOS 18.1
+gd_00195,LATAM,MX,iPhone 14,iOS 17.2
+gd_00196,APAC,ID,Redmi Note 12,Android 13
+gd_00197,LATAM,MX,Pixel 8,Android 15
+gd_00198,APAC,IN,Galaxy S23,Android 15
+gd_00199,APAC,IN,iPhone 13,iOS 17.2
+gd_00200,NAM,CA,Redmi Note 12,Android 13
+gd_00201,APAC,ID,Galaxy S23,Android 14
+gd_00202,NAM,US,Pixel 7,Android 14
+gd_00203,MEA,NG,Galaxy A54,Android 12
+gd_00204,NAM,CA,iPhone 15,iOS 17.2
+gd_00205,NAM,US,iPhone 15,iOS 18.1
+gd_00206,LATAM,AR,Redmi Note 12,Android 14
+gd_00207,NAM,US,Pixel 8,Android 12
+gd_00208,EU,DE,iPhone 14,iOS 18.1
+gd_00209,APAC,IN,iPhone 15,iOS 17.2
+gd_00210,NAM,CA,Galaxy A54,Android 13
+gd_00211,NAM,US,iPhone 14,iOS 18.1
+gd_00212,EU,ES,iPhone 15,iOS 18.1
+gd_00213,NAM,CA,Galaxy A54,Android 15
+gd_00214,NAM,US,iPhone 13,iOS 16.4
+gd_00215,NAM,CA,iPhone 13,iOS 17.2
+gd_00216,EU,DE,Galaxy A54,Android 15
+gd_00217,EU,FR,Pixel 8,Android 15
+gd_00218,NAM,US,iPhone 14,iOS 17.5
+gd_00219,APAC,JP,Galaxy S23,Android 15
+gd_00220,APAC,IN,iPhone 14,iOS 17.2
+gd_00221,NAM,US,iPhone 13,iOS 16.4
+gd_00222,EU,FR,iPhone 13,iOS 17.5
+gd_00223,LATAM,MX,Galaxy A54,Android 12
+gd_00224,APAC,ID,iPhone 13,iOS 16.4
+gd_00225,EU,UK,iPhone 13,iOS 17.2
+gd_00226,EU,DE,Redmi Note 12,Android 14
+gd_00227,NAM,CA,Pixel 7,Android 12
+gd_00228,LATAM,AR,Galaxy S23,Android 12
+gd_00229,MEA,ZA,Pixel 7,Android 15
+gd_00230,MEA,NG,iPhone 15,iOS 17.2
+gd_00231,NAM,US,Pixel 7,Android 15
+gd_00232,EU,FR,iPhone 14,iOS 17.5
+gd_00233,NAM,US,Galaxy S23,Android 15
+gd_00234,EU,DE,Galaxy A54,Android 14
+gd_00235,EU,ES,iPhone 13,iOS 17.2
+gd_00236,APAC,ID,iPhone 14,iOS 17.2
+gd_00237,NAM,US,Galaxy S23,Android 12
+gd_00238,MEA,ZA,Pixel 8,Android 12
+gd_00239,NAM,CA,iPhone 13,iOS 17.2
+gd_00240,NAM,CA,iPhone 15,iOS 17.5
+gd_00241,LATAM,BR,Galaxy S23,Android 15
+gd_00242,APAC,PH,Galaxy S23,Android 14
+gd_00243,EU,ES,iPhone 15,iOS 17.2
+gd_00244,APAC,ID,Galaxy S23,Android 13
+gd_00245,NAM,CA,iPhone 15,iOS 17.2
+gd_00246,NAM,US,iPhone 15,iOS 18.1
+gd_00247,EU,UK,iPhone 14,iOS 16.4
+gd_00248,EU,FR,Pixel 8,Android 13
+gd_00249,APAC,IN,iPhone 14,iOS 17.2
+gd_00250,NAM,US,iPhone 13,iOS 17.2
+gd_00251,APAC,ID,iPhone 15,iOS 17.2
+gd_00252,APAC,IN,iPhone 13,iOS 17.2
+gd_00253,NAM,CA,iPhone 15,iOS 16.4
+gd_00254,NAM,CA,Galaxy A54,Android 12
+gd_00255,EU,ES,Galaxy S23,Android 14
+gd_00256,LATAM,MX,iPhone 13,iOS 17.5
+gd_00257,APAC,IN,Pixel 7,Android 14
+gd_00258,APAC,ID,Galaxy A54,Android 12
+gd_00259,EU,DE,iPhone 15,iOS 17.5
+gd_00260,NAM,CA,iPhone 13,iOS 16.4
+gd_00261,APAC,IN,Pixel 7,Android 14
+gd_00262,NAM,CA,iPhone 13,iOS 16.4
+gd_00263,APAC,IN,iPhone 15,iOS 18.1
+gd_00264,NAM,CA,iPhone 14,iOS 16.4
+gd_00265,EU,FR,Pixel 7,Android 14
+gd_00266,APAC,ID,Pixel 7,Android 15
+gd_00267,EU,DE,iPhone 13,iOS 17.5
+gd_00268,APAC,ID,iPhone 15,iOS 17.5
+gd_00269,EU,UK,Galaxy A54,Android 12
+gd_00270,MEA,AE,Galaxy S23,Android 12
+gd_00271,LATAM,AR,iPhone 15,iOS 18.1
+gd_00272,LATAM,BR,iPhone 13,iOS 17.5
+gd_00273,APAC,JP,iPhone 14,iOS 17.2
+gd_00274,APAC,JP,iPhone 13,iOS 17.5
+gd_00275,APAC,PH,Redmi Note 12,Android 12
+gd_00276,EU,ES,Galaxy S23,Android 13
+gd_00277,EU,UK,Redmi Note 12,Android 14
+gd_00278,APAC,IN,Galaxy S23,Android 12
+gd_00279,NAM,CA,Galaxy S23,Android 14
+gd_00280,NAM,US,Redmi Note 12,Android 12
+gd_00281,LATAM,MX,iPhone 15,iOS 17.5
+gd_00282,NAM,CA,iPhone 14,iOS 17.5
+gd_00283,APAC,JP,Pixel 8,Android 12
+gd_00284,APAC,IN,iPhone 14,iOS 17.5
+gd_00285,NAM,US,Pixel 7,Android 14
+gd_00286,LATAM,AR,iPhone 14,iOS 17.2
+gd_00287,NAM,CA,iPhone 15,iOS 16.4
+gd_00288,LATAM,MX,iPhone 15,iOS 18.1
+gd_00289,APAC,JP,iPhone 14,iOS 16.4
+gd_00290,NAM,CA,iPhone 14,iOS 17.2
+gd_00291,NAM,CA,iPhone 15,iOS 18.1
+gd_00292,EU,FR,iPhone 13,iOS 16.4
+gd_00293,EU,FR,iPhone 13,iOS 17.2
+gd_00294,NAM,CA,Pixel 7,Android 12
+gd_00295,MEA,NG,iPhone 13,iOS 17.5
+gd_00296,NAM,US,Redmi Note 12,Android 15
+gd_00297,LATAM,AR,iPhone 13,iOS 16.4
+gd_00298,NAM,US,Pixel 8,Android 13
+gd_00299,MEA,NG,Galaxy A54,Android 12
+gd_00300,NAM,US,Galaxy A54,Android 13
+gd_00301,EU,UK,Redmi Note 12,Android 13
+gd_00302,APAC,ID,iPhone 15,iOS 16.4
+gd_00303,NAM,US,Galaxy S23,Android 14
+gd_00304,LATAM,MX,iPhone 13,iOS 17.5
+gd_00305,EU,FR,Pixel 7,Android 13
+gd_00306,APAC,PH,iPhone 15,iOS 17.5
+gd_00307,APAC,JP,iPhone 14,iOS 18.1
+gd_00308,APAC,JP,Redmi Note 12,Android 13
+gd_00309,NAM,CA,Pixel 8,Android 15
+gd_00310,NAM,US,Galaxy A54,Android 15
+gd_00311,NAM,CA,Galaxy A54,Android 13
+gd_00312,EU,UK,Galaxy A54,Android 12
+gd_00313,NAM,CA,Galaxy A54,Android 12
+gd_00314,MEA,NG,Pixel 8,Android 15
+gd_00315,APAC,PH,iPhone 13,iOS 17.2
+gd_00316,APAC,JP,Pixel 7,Android 15
+gd_00317,EU,DE,Galaxy S23,Android 13
+gd_00318,EU,ES,Redmi Note 12,Android 12
+gd_00319,APAC,PH,Galaxy A54,Android 12
+gd_00320,EU,DE,Galaxy A54,Android 14
+gd_00321,EU,UK,Pixel 8,Android 13
+gd_00322,EU,FR,iPhone 14,iOS 16.4
+gd_00323,APAC,JP,Galaxy S23,Android 14
+gd_00324,MEA,NG,Pixel 7,Android 13
+gd_00325,NAM,CA,Galaxy A54,Android 15
+gd_00326,EU,UK,Pixel 8,Android 15
+gd_00327,NAM,US,Galaxy S23,Android 15
+gd_00328,EU,ES,iPhone 14,iOS 16.4
+gd_00329,APAC,ID,Pixel 7,Android 13
+gd_00330,NAM,US,Redmi Note 12,Android 15
+gd_00331,APAC,ID,Pixel 8,Android 15
+gd_00332,EU,DE,Galaxy A54,Android 12
+gd_00333,NAM,CA,Galaxy A54,Android 15
+gd_00334,MEA,ZA,Pixel 7,Android 15
+gd_00335,EU,DE,iPhone 13,iOS 16.4
+gd_00336,LATAM,MX,Galaxy S23,Android 15
+gd_00337,EU,UK,Redmi Note 12,Android 13
+gd_00338,MEA,NG,Galaxy A54,Android 12
+gd_00339,EU,ES,iPhone 14,iOS 17.2
+gd_00340,EU,DE,Redmi Note 12,Android 15
+gd_00341,APAC,IN,iPhone 14,iOS 17.5
+gd_00342,EU,FR,iPhone 15,iOS 18.1
+gd_00343,EU,FR,iPhone 15,iOS 17.5
+gd_00344,MEA,AE,Pixel 7,Android 15
+gd_00345,APAC,JP,iPhone 14,iOS 18.1
+gd_00346,APAC,JP,iPhone 13,iOS 16.4
+gd_00347,APAC,IN,iPhone 13,iOS 16.4
+gd_00348,LATAM,BR,Pixel 7,Android 15
+gd_00349,LATAM,BR,iPhone 13,iOS 17.2
+gd_00350,APAC,IN,Pixel 7,Android 14
+gd_00351,EU,ES,iPhone 15,iOS 16.4
+gd_00352,NAM,CA,Galaxy S23,Android 15
+gd_00353,APAC,JP,Galaxy S23,Android 13
+gd_00354,LATAM,AR,iPhone 15,iOS 17.2
+gd_00355,EU,UK,Redmi Note 12,Android 15
+gd_00356,NAM,US,iPhone 14,iOS 17.5
+gd_00357,EU,ES,Galaxy S23,Android 15
+gd_00358,APAC,ID,Galaxy A54,Android 12
+gd_00359,LATAM,MX,iPhone 14,iOS 18.1
+gd_00360,NAM,CA,iPhone 14,iOS 16.4
+gd_00361,APAC,IN,iPhone 13,iOS 17.5
+gd_00362,APAC,PH,iPhone 13,iOS 16.4
+gd_00363,MEA,NG,Pixel 7,Android 14
+gd_00364,NAM,US,iPhone 14,iOS 16.4
+gd_00365,MEA,AE,iPhone 15,iOS 16.4
+gd_00366,APAC,IN,iPhone 14,iOS 16.4
+gd_00367,APAC,IN,Pixel 7,Android 15
+gd_00368,NAM,US,Galaxy A54,Android 15
+gd_00369,APAC,PH,Redmi Note 12,Android 13
+gd_00370,APAC,IN,iPhone 14,iOS 16.4
+gd_00371,EU,DE,Pixel 7,Android 12
+gd_00372,EU,UK,Pixel 7,Android 15
+gd_00373,APAC,ID,iPhone 14,iOS 16.4
+gd_00374,APAC,IN,Redmi Note 12,Android 14
+gd_00375,NAM,US,iPhone 13,iOS 16.4
+gd_00376,EU,FR,Galaxy A54,Android 14
+gd_00377,NAM,CA,Galaxy A54,Android 12
+gd_00378,MEA,AE,Pixel 7,Android 15
+gd_00379,MEA,NG,iPhone 13,iOS 18.1
+gd_00380,EU,FR,Pixel 7,Android 14
+gd_00381,NAM,CA,Galaxy S23,Android 14
+gd_00382,NAM,CA,iPhone 13,iOS 17.5
+gd_00383,EU,UK,Redmi Note 12,Android 13
+gd_00384,LATAM,MX,iPhone 13,iOS 18.1
+gd_00385,APAC,PH,iPhone 14,iOS 18.1
+gd_00386,NAM,US,Galaxy A54,Android 14
+gd_00387,NAM,CA,iPhone 13,iOS 17.2
+gd_00388,NAM,US,iPhone 13,iOS 16.4
+gd_00389,LATAM,BR,iPhone 15,iOS 18.1
+gd_00390,APAC,IN,Pixel 7,Android 14
+gd_00391,APAC,IN,iPhone 14,iOS 17.2
+gd_00392,EU,FR,iPhone 13,iOS 17.5
+gd_00393,MEA,NG,Pixel 7,Android 13
+gd_00394,EU,FR,iPhone 14,iOS 18.1
+gd_00395,LATAM,BR,Galaxy S23,Android 12
+gd_00396,LATAM,BR,Pixel 8,Android 12
+gd_00397,EU,FR,Redmi Note 12,Android 14
+gd_00398,LATAM,BR,Pixel 7,Android 15
+gd_00399,EU,FR,iPhone 14,iOS 18.1
+gd_00400,APAC,PH,iPhone 13,iOS 18.1
+gd_00401,NAM,US,iPhone 15,iOS 17.5
+gd_00402,EU,FR,iPhone 14,iOS 18.1
+gd_00403,NAM,CA,Galaxy A54,Android 14
+gd_00404,NAM,US,Pixel 7,Android 12
+gd_00405,NAM,CA,Galaxy S23,Android 13
+gd_00406,EU,ES,iPhone 13,iOS 18.1
+gd_00407,APAC,ID,Pixel 8,Android 13
+gd_00408,EU,DE,Redmi Note 12,Android 13
+gd_00409,EU,FR,Galaxy A54,Android 12
+gd_00410,MEA,AE,Pixel 7,Android 15
+gd_00411,MEA,AE,Pixel 8,Android 15
+gd_00412,NAM,US,iPhone 15,iOS 17.2
+gd_00413,EU,FR,iPhone 13,iOS 17.2
+gd_00414,APAC,IN,Galaxy A54,Android 15
+gd_00415,APAC,IN,iPhone 13,iOS 18.1
+gd_00416,EU,UK,iPhone 14,iOS 17.5
+gd_00417,APAC,ID,Redmi Note 12,Android 14
+gd_00418,NAM,US,Galaxy A54,Android 12
+gd_00419,EU,DE,iPhone 13,iOS 17.2
+gd_00420,APAC,IN,iPhone 13,iOS 16.4
+gd_00421,APAC,ID,Pixel 8,Android 14
+gd_00422,LATAM,AR,Galaxy S23,Android 14
+gd_00423,NAM,US,iPhone 13,iOS 17.5
+gd_00424,NAM,CA,Redmi Note 12,Android 14
+gd_00425,NAM,US,iPhone 13,iOS 17.2
+gd_00426,NAM,US,Galaxy S23,Android 14
+gd_00427,NAM,CA,iPhone 15,iOS 16.4
+gd_00428,APAC,JP,Pixel 8,Android 13
+gd_00429,APAC,IN,Galaxy S23,Android 14
+gd_00430,APAC,JP,Pixel 7,Android 12
+gd_00431,EU,UK,Galaxy A54,Android 14
+gd_00432,NAM,US,iPhone 15,iOS 17.5
+gd_00433,APAC,ID,iPhone 15,iOS 17.5
+gd_00434,NAM,CA,iPhone 13,iOS 17.5
+gd_00435,LATAM,MX,iPhone 14,iOS 16.4
+gd_00436,NAM,CA,iPhone 15,iOS 17.5
+gd_00437,APAC,IN,iPhone 15,iOS 17.2
+gd_00438,LATAM,BR,Galaxy S23,Android 14
+gd_00439,APAC,JP,iPhone 15,iOS 17.2
+gd_00440,APAC,PH,iPhone 13,iOS 17.2
+gd_00441,APAC,JP,Galaxy A54,Android 13
+gd_00442,NAM,CA,Galaxy S23,Android 12
+gd_00443,APAC,IN,iPhone 15,iOS 17.2
+gd_00444,LATAM,AR,Galaxy S23,Android 13
+gd_00445,MEA,NG,iPhone 14,iOS 17.2
+gd_00446,EU,FR,Redmi Note 12,Android 14
+gd_00447,EU,DE,iPhone 15,iOS 16.4
+gd_00448,APAC,JP,Redmi Note 12,Android 12
+gd_00449,APAC,JP,Pixel 7,Android 12
+gd_00450,NAM,CA,iPhone 14,iOS 17.5
+gd_00451,NAM,US,Galaxy A54,Android 13
+gd_00452,NAM,CA,iPhone 15,iOS 18.1
+gd_00453,EU,FR,Pixel 8,Android 13
+gd_00454,NAM,US,iPhone 15,iOS 17.2
+gd_00455,NAM,CA,Galaxy S23,Android 12
+gd_00456,NAM,US,Pixel 8,Android 14
+gd_00457,MEA,ZA,Redmi Note 12,Android 15
+gd_00458,NAM,CA,iPhone 14,iOS 17.5
+gd_00459,NAM,US,iPhone 14,iOS 18.1
+gd_00460,EU,DE,iPhone 13,iOS 18.1
+gd_00461,NAM,US,Pixel 7,Android 14
+gd_00462,MEA,NG,Galaxy S23,Android 15
+gd_00463,MEA,ZA,Galaxy A54,Android 13
+gd_00464,EU,DE,Pixel 8,Android 14
+gd_00465,EU,ES,iPhone 15,iOS 16.4
+gd_00466,EU,DE,Galaxy A54,Android 14
+gd_00467,NAM,CA,Galaxy A54,Android 14
+gd_00468,EU,ES,Redmi Note 12,Android 13
+gd_00469,NAM,CA,Redmi Note 12,Android 12
+gd_00470,NAM,CA,Galaxy A54,Android 15
+gd_00471,APAC,PH,Redmi Note 12,Android 13
+gd_00472,NAM,CA,Galaxy A54,Android 14
+gd_00473,NAM,CA,iPhone 15,iOS 17.2
+gd_00474,EU,FR,Pixel 7,Android 13
+gd_00475,EU,ES,iPhone 14,iOS 18.1
+gd_00476,NAM,CA,Redmi Note 12,Android 14
+gd_00477,NAM,US,Galaxy S23,Android 15
+gd_00478,NAM,CA,Pixel 7,Android 14
+gd_00479,NAM,US,iPhone 15,iOS 17.2
+gd_00480,LATAM,MX,iPhone 14,iOS 18.1
+gd_00481,MEA,ZA,iPhone 15,iOS 16.4
+gd_00482,EU,DE,Pixel 7,Android 15
+gd_00483,EU,DE,iPhone 13,iOS 17.5
+gd_00484,APAC,JP,Galaxy S23,Android 12
+gd_00485,APAC,ID,iPhone 13,iOS 18.1
+gd_00486,NAM,US,Galaxy S23,Android 15
+gd_00487,NAM,US,Pixel 8,Android 14
+gd_00488,EU,DE,Pixel 8,Android 14
+gd_00489,APAC,ID,Galaxy A54,Android 13
+gd_00490,NAM,CA,iPhone 13,iOS 16.4
+gd_00491,EU,DE,Redmi Note 12,Android 15
+gd_00492,EU,UK,iPhone 13,iOS 16.4
+gd_00493,NAM,US,iPhone 14,iOS 18.1
+gd_00494,EU,FR,iPhone 15,iOS 18.1
+gd_00495,APAC,IN,iPhone 13,iOS 18.1
+gd_00496,APAC,IN,Redmi Note 12,Android 15
+gd_00497,NAM,US,iPhone 13,iOS 17.2
+gd_00498,NAM,US,Galaxy A54,Android 12
+gd_00499,LATAM,MX,iPhone 15,iOS 17.2
+gd_00500,EU,UK,Pixel 8,Android 15
+gd_00501,NAM,CA,Pixel 8,Android 13
+gd_00502,NAM,US,iPhone 15,iOS 18.1
+gd_00503,LATAM,AR,iPhone 13,iOS 16.4
+gd_00504,APAC,JP,iPhone 13,iOS 17.2
+gd_00505,LATAM,BR,iPhone 13,iOS 17.2
+gd_00506,APAC,ID,iPhone 14,iOS 18.1
+gd_00507,EU,UK,Redmi Note 12,Android 15
+gd_00508,EU,FR,iPhone 14,iOS 16.4
+gd_00509,NAM,US,Galaxy S23,Android 12
+gd_00510,APAC,ID,iPhone 15,iOS 17.5
+gd_00511,APAC,IN,iPhone 13,iOS 16.4
+gd_00512,NAM,US,Redmi Note 12,Android 12
+gd_00513,LATAM,MX,Pixel 8,Android 13
+gd_00514,EU,UK,Pixel 8,Android 15
+gd_00515,NAM,CA,Redmi Note 12,Android 12
+gd_00516,EU,DE,iPhone 14,iOS 17.5
+gd_00517,LATAM,BR,Galaxy S23,Android 14
+gd_00518,MEA,AE,iPhone 13,iOS 17.2
+gd_00519,EU,DE,Galaxy S23,Android 13
+gd_00520,MEA,AE,Galaxy A54,Android 15
+gd_00521,LATAM,AR,iPhone 13,iOS 16.4
+gd_00522,LATAM,BR,Pixel 7,Android 15
+gd_00523,LATAM,MX,iPhone 13,iOS 17.2
+gd_00524,EU,UK,iPhone 14,iOS 18.1
+gd_00525,APAC,IN,iPhone 15,iOS 17.5
+gd_00526,APAC,IN,iPhone 13,iOS 17.2
+gd_00527,APAC,IN,Galaxy A54,Android 13
+gd_00528,NAM,US,iPhone 15,iOS 18.1
+gd_00529,APAC,PH,Galaxy S23,Android 12
+gd_00530,MEA,NG,iPhone 15,iOS 18.1
+gd_00531,EU,UK,Redmi Note 12,Android 13
+gd_00532,MEA,NG,Galaxy A54,Android 15
+gd_00533,EU,FR,Pixel 8,Android 12
+gd_00534,NAM,CA,iPhone 13,iOS 17.2
+gd_00535,NAM,CA,iPhone 15,iOS 17.5
+gd_00536,LATAM,MX,iPhone 14,iOS 18.1
+gd_00537,APAC,ID,iPhone 13,iOS 16.4
+gd_00538,EU,FR,iPhone 15,iOS 17.2
+gd_00539,APAC,JP,iPhone 14,iOS 17.2
+gd_00540,EU,FR,Redmi Note 12,Android 15
+gd_00541,EU,UK,iPhone 15,iOS 18.1
+gd_00542,LATAM,AR,Pixel 7,Android 15
+gd_00543,APAC,ID,Redmi Note 12,Android 12
+gd_00544,APAC,PH,Redmi Note 12,Android 12
+gd_00545,APAC,ID,Galaxy A54,Android 15
+gd_00546,MEA,ZA,Pixel 8,Android 13
+gd_00547,NAM,CA,iPhone 15,iOS 17.2
+gd_00548,NAM,CA,iPhone 15,iOS 17.5
+gd_00549,NAM,US,Redmi Note 12,Android 13
+gd_00550,APAC,IN,iPhone 14,iOS 16.4
+gd_00551,APAC,IN,iPhone 15,iOS 17.2
+gd_00552,APAC,IN,iPhone 14,iOS 16.4
+gd_00553,EU,ES,Pixel 8,Android 13
+gd_00554,NAM,US,iPhone 15,iOS 18.1
+gd_00555,APAC,IN,iPhone 14,iOS 16.4
+gd_00556,MEA,NG,Pixel 8,Android 13
+gd_00557,EU,ES,Galaxy A54,Android 13
+gd_00558,NAM,US,Pixel 8,Android 13
+gd_00559,EU,FR,iPhone 14,iOS 17.2
+gd_00560,EU,FR,Pixel 8,Android 14
+gd_00561,NAM,CA,iPhone 15,iOS 17.2
+gd_00562,EU,DE,Redmi Note 12,Android 12
+gd_00563,APAC,PH,Galaxy S23,Android 12
+gd_00564,EU,ES,iPhone 15,iOS 17.2
+gd_00565,EU,FR,iPhone 13,iOS 18.1
+gd_00566,NAM,CA,iPhone 15,iOS 16.4
+gd_00567,MEA,ZA,iPhone 13,iOS 18.1
+gd_00568,EU,FR,Redmi Note 12,Android 13
+gd_00569,EU,ES,iPhone 15,iOS 17.5
+gd_00570,NAM,CA,Pixel 7,Android 12
+gd_00571,APAC,PH,Pixel 7,Android 15
+gd_00572,LATAM,MX,iPhone 15,iOS 17.2
+gd_00573,NAM,CA,iPhone 15,iOS 17.5
+gd_00574,NAM,CA,iPhone 15,iOS 16.4
+gd_00575,NAM,CA,Pixel 7,Android 12
+gd_00576,APAC,JP,iPhone 14,iOS 17.2
+gd_00577,MEA,AE,Pixel 8,Android 14
+gd_00578,EU,DE,iPhone 15,iOS 17.5
+gd_00579,EU,FR,Redmi Note 12,Android 13
+gd_00580,APAC,PH,iPhone 15,iOS 17.2
+gd_00581,APAC,IN,iPhone 14,iOS 17.5
+gd_00582,NAM,US,iPhone 13,iOS 17.2
+gd_00583,NAM,US,Redmi Note 12,Android 12
+gd_00584,EU,DE,iPhone 13,iOS 16.4
+gd_00585,LATAM,MX,iPhone 13,iOS 16.4
+gd_00586,APAC,ID,Pixel 7,Android 12
+gd_00587,APAC,JP,Galaxy S23,Android 12
+gd_00588,LATAM,BR,iPhone 13,iOS 17.5
+gd_00589,EU,DE,iPhone 14,iOS 18.1
+gd_00590,EU,FR,iPhone 13,iOS 18.1
+gd_00591,NAM,US,Redmi Note 12,Android 14
+gd_00592,LATAM,AR,iPhone 14,iOS 18.1
+gd_00593,APAC,JP,Pixel 7,Android 14
+gd_00594,EU,DE,iPhone 15,iOS 17.2
+gd_00595,NAM,US,iPhone 14,iOS 17.2
+gd_00596,APAC,PH,iPhone 13,iOS 18.1
+gd_00597,APAC,PH,iPhone 14,iOS 16.4
+gd_00598,APAC,IN,Redmi Note 12,Android 13
+gd_00599,NAM,CA,iPhone 15,iOS 18.1
+gd_00600,MEA,AE,iPhone 14,iOS 17.5
+gd_00601,APAC,IN,Redmi Note 12,Android 12
+gd_00602,APAC,JP,iPhone 13,iOS 16.4
+gd_00603,APAC,IN,iPhone 15,iOS 18.1
+gd_00604,LATAM,BR,Redmi Note 12,Android 15
+gd_00605,MEA,NG,Galaxy S23,Android 13
+gd_00606,APAC,PH,Galaxy S23,Android 12
+gd_00607,EU,DE,Galaxy S23,Android 12
+gd_00608,EU,ES,iPhone 13,iOS 18.1
+gd_00609,LATAM,AR,Redmi Note 12,Android 15
+gd_00610,APAC,ID,Galaxy A54,Android 15
+gd_00611,NAM,US,iPhone 15,iOS 18.1
+gd_00612,NAM,CA,Pixel 7,Android 15
+gd_00613,LATAM,BR,iPhone 15,iOS 16.4
+gd_00614,LATAM,AR,iPhone 14,iOS 17.5
+gd_00615,MEA,AE,iPhone 15,iOS 17.5
+gd_00616,EU,ES,Redmi Note 12,Android 13
+gd_00617,LATAM,AR,Redmi Note 12,Android 12
+gd_00618,LATAM,MX,iPhone 15,iOS 18.1
+gd_00619,EU,ES,iPhone 13,iOS 17.5
+gd_00620,NAM,CA,Pixel 8,Android 12
+gd_00621,MEA,NG,iPhone 13,iOS 17.5
+gd_00622,NAM,US,iPhone 14,iOS 18.1
+gd_00623,APAC,ID,iPhone 15,iOS 17.5
+gd_00624,APAC,PH,Galaxy A54,Android 15
+gd_00625,APAC,PH,Galaxy S23,Android 13
+gd_00626,NAM,US,iPhone 15,iOS 17.2
+gd_00627,APAC,IN,Pixel 7,Android 15
+gd_00628,NAM,US,Galaxy A54,Android 13
+gd_00629,LATAM,MX,iPhone 14,iOS 17.5
+gd_00630,NAM,CA,Pixel 8,Android 12
+gd_00631,APAC,PH,iPhone 14,iOS 17.2
+gd_00632,LATAM,BR,iPhone 15,iOS 16.4
+gd_00633,NAM,US,iPhone 15,iOS 18.1
+gd_00634,NAM,US,Redmi Note 12,Android 14
+gd_00635,LATAM,AR,iPhone 15,iOS 17.5
+gd_00636,NAM,US,iPhone 14,iOS 18.1
+gd_00637,NAM,US,Pixel 7,Android 15
+gd_00638,EU,DE,Redmi Note 12,Android 15
+gd_00639,MEA,ZA,iPhone 14,iOS 18.1
+gd_00640,APAC,JP,iPhone 14,iOS 16.4
+gd_00641,EU,FR,Pixel 7,Android 13
+gd_00642,MEA,AE,Redmi Note 12,Android 13
+gd_00643,EU,ES,Redmi Note 12,Android 15
+gd_00644,EU,DE,Redmi Note 12,Android 15
+gd_00645,EU,DE,Pixel 7,Android 13
+gd_00646,EU,DE,iPhone 15,iOS 16.4
+gd_00647,EU,ES,iPhone 14,iOS 17.2
+gd_00648,APAC,JP,Pixel 7,Android 13
+gd_00649,NAM,US,Galaxy S23,Android 12
+gd_00650,APAC,JP,iPhone 14,iOS 18.1
+gd_00651,NAM,CA,iPhone 14,iOS 18.1
+gd_00652,EU,UK,Pixel 7,Android 13
+gd_00653,NAM,CA,iPhone 14,iOS 18.1
+gd_00654,APAC,JP,iPhone 15,iOS 17.2
+gd_00655,APAC,IN,Galaxy A54,Android 15
+gd_00656,EU,UK,iPhone 15,iOS 17.5
+gd_00657,NAM,CA,iPhone 14,iOS 17.5
+gd_00658,NAM,CA,iPhone 15,iOS 16.4
+gd_00659,LATAM,AR,iPhone 13,iOS 18.1
+gd_00660,NAM,US,Galaxy A54,Android 15
+gd_00661,LATAM,MX,iPhone 14,iOS 17.2
+gd_00662,EU,ES,iPhone 14,iOS 17.2
+gd_00663,NAM,US,iPhone 14,iOS 17.2
+gd_00664,APAC,JP,iPhone 15,iOS 16.4
+gd_00665,EU,UK,Pixel 8,Android 12
+gd_00666,NAM,US,iPhone 14,iOS 17.5
+gd_00667,MEA,NG,Galaxy A54,Android 14
+gd_00668,NAM,US,iPhone 14,iOS 18.1
+gd_00669,EU,FR,Pixel 8,Android 13
+gd_00670,EU,FR,iPhone 14,iOS 16.4
+gd_00671,EU,ES,iPhone 15,iOS 17.5
+gd_00672,LATAM,MX,iPhone 15,iOS 18.1
+gd_00673,NAM,CA,iPhone 13,iOS 16.4
+gd_00674,MEA,NG,iPhone 14,iOS 18.1
+gd_00675,APAC,PH,iPhone 15,iOS 18.1
+gd_00676,MEA,NG,iPhone 13,iOS 18.1
+gd_00677,LATAM,BR,Pixel 7,Android 12
+gd_00678,MEA,ZA,Pixel 7,Android 14
+gd_00679,APAC,ID,Galaxy S23,Android 14
+gd_00680,EU,FR,iPhone 14,iOS 16.4
+gd_00681,EU,FR,Pixel 8,Android 13
+gd_00682,APAC,PH,Pixel 7,Android 15
+gd_00683,EU,UK,Galaxy A54,Android 14
+gd_00684,APAC,IN,iPhone 15,iOS 17.5
+gd_00685,NAM,US,Pixel 8,Android 14
+gd_00686,LATAM,MX,Galaxy A54,Android 14
+gd_00687,NAM,CA,iPhone 15,iOS 17.5
+gd_00688,MEA,ZA,Galaxy S23,Android 14
+gd_00689,NAM,CA,Galaxy S23,Android 13
+gd_00690,NAM,US,Pixel 7,Android 14
+gd_00691,LATAM,MX,Redmi Note 12,Android 13
+gd_00692,LATAM,AR,Redmi Note 12,Android 14
+gd_00693,APAC,IN,Galaxy A54,Android 15
+gd_00694,MEA,NG,Redmi Note 12,Android 14
+gd_00695,NAM,CA,iPhone 14,iOS 18.1
+gd_00696,LATAM,AR,Galaxy A54,Android 12
+gd_00697,EU,UK,Redmi Note 12,Android 13
+gd_00698,APAC,ID,Pixel 7,Android 14
+gd_00699,EU,UK,iPhone 13,iOS 18.1
+gd_00700,NAM,US,iPhone 13,iOS 17.5
+gd_00701,APAC,PH,Galaxy A54,Android 13
+gd_00702,APAC,PH,Pixel 8,Android 15
+gd_00703,NAM,CA,Pixel 8,Android 15
+gd_00704,MEA,AE,iPhone 14,iOS 17.2
+gd_00705,APAC,PH,Galaxy A54,Android 15
+gd_00706,NAM,CA,Galaxy S23,Android 14
+gd_00707,APAC,PH,iPhone 13,iOS 17.2
+gd_00708,NAM,CA,iPhone 15,iOS 16.4
+gd_00709,NAM,CA,iPhone 14,iOS 17.2
+gd_00710,APAC,IN,Pixel 7,Android 15
+gd_00711,NAM,US,Galaxy A54,Android 14
+gd_00712,NAM,CA,Pixel 8,Android 12
+gd_00713,APAC,ID,Galaxy S23,Android 13
+gd_00714,NAM,US,iPhone 15,iOS 18.1
+gd_00715,LATAM,AR,Pixel 8,Android 15
+gd_00716,LATAM,MX,iPhone 15,iOS 17.2
+gd_00717,NAM,CA,iPhone 14,iOS 17.5
+gd_00718,APAC,ID,iPhone 15,iOS 17.2
+gd_00719,NAM,US,Redmi Note 12,Android 14
+gd_00720,APAC,ID,Redmi Note 12,Android 12
+gd_00721,NAM,US,Pixel 8,Android 13
+gd_00722,MEA,AE,Galaxy A54,Android 15
+gd_00723,NAM,US,iPhone 14,iOS 17.2
+gd_00724,APAC,PH,Redmi Note 12,Android 15
+gd_00725,NAM,US,iPhone 15,iOS 17.2
+gd_00726,NAM,US,Galaxy A54,Android 14
+gd_00727,EU,ES,Redmi Note 12,Android 13
+gd_00728,APAC,ID,Galaxy S23,Android 14
+gd_00729,MEA,ZA,iPhone 13,iOS 17.2
+gd_00730,NAM,US,Redmi Note 12,Android 15
+gd_00731,NAM,US,Galaxy S23,Android 14
+gd_00732,EU,FR,iPhone 13,iOS 16.4
+gd_00733,EU,ES,Pixel 7,Android 12
+gd_00734,LATAM,BR,Galaxy A54,Android 14
+gd_00735,MEA,AE,iPhone 15,iOS 18.1
+gd_00736,LATAM,BR,iPhone 15,iOS 18.1
+gd_00737,NAM,US,iPhone 14,iOS 17.5
+gd_00738,EU,DE,Pixel 8,Android 12
+gd_00739,APAC,ID,Galaxy S23,Android 15
+gd_00740,EU,UK,Pixel 8,Android 12
+gd_00741,APAC,IN,Pixel 8,Android 13
+gd_00742,NAM,CA,Pixel 7,Android 14
+gd_00743,EU,UK,Galaxy S23,Android 14
+gd_00744,LATAM,BR,iPhone 13,iOS 18.1
+gd_00745,NAM,US,Pixel 7,Android 14
+gd_00746,MEA,ZA,iPhone 13,iOS 17.5
+gd_00747,EU,UK,Galaxy A54,Android 12
+gd_00748,NAM,US,iPhone 14,iOS 17.5
+gd_00749,NAM,US,Galaxy S23,Android 15
+gd_00750,NAM,US,Galaxy S23,Android 13
+gd_00751,APAC,ID,Galaxy S23,Android 12
+gd_00752,NAM,US,iPhone 14,iOS 18.1
+gd_00753,APAC,IN,Redmi Note 12,Android 12
+gd_00754,LATAM,BR,Galaxy A54,Android 14
+gd_00755,EU,ES,iPhone 13,iOS 17.5
+gd_00756,NAM,CA,Redmi Note 12,Android 14
+gd_00757,EU,UK,iPhone 13,iOS 17.5
+gd_00758,LATAM,BR,iPhone 13,iOS 17.2
+gd_00759,APAC,ID,Galaxy S23,Android 13
+gd_00760,NAM,CA,Pixel 8,Android 13
+gd_00761,APAC,PH,iPhone 15,iOS 17.5
+gd_00762,EU,ES,Galaxy A54,Android 13
+gd_00763,EU,UK,Pixel 7,Android 13
+gd_00764,NAM,US,Galaxy S23,Android 14
+gd_00765,MEA,AE,Galaxy A54,Android 15
+gd_00766,NAM,CA,Galaxy A54,Android 14
+gd_00767,NAM,CA,iPhone 14,iOS 18.1
+gd_00768,NAM,US,iPhone 14,iOS 17.2
+gd_00769,APAC,JP,iPhone 14,iOS 16.4
+gd_00770,EU,DE,Pixel 8,Android 12
+gd_00771,NAM,US,Galaxy S23,Android 13
+gd_00772,EU,DE,Galaxy A54,Android 13
+gd_00773,APAC,JP,iPhone 13,iOS 16.4
+gd_00774,EU,DE,Galaxy A54,Android 13
+gd_00775,MEA,NG,Pixel 8,Android 14
+gd_00776,EU,FR,Pixel 7,Android 13
+gd_00777,NAM,US,Galaxy A54,Android 12
+gd_00778,MEA,NG,iPhone 14,iOS 16.4
+gd_00779,LATAM,BR,iPhone 14,iOS 18.1
+gd_00780,EU,ES,Galaxy A54,Android 13
+gd_00781,LATAM,BR,Galaxy S23,Android 12
+gd_00782,APAC,ID,Galaxy A54,Android 12
+gd_00783,EU,ES,Redmi Note 12,Android 12
+gd_00784,LATAM,AR,Galaxy A54,Android 12
+gd_00785,APAC,ID,iPhone 13,iOS 17.5
+gd_00786,EU,ES,Pixel 8,Android 12
+gd_00787,APAC,IN,iPhone 14,iOS 17.5
+gd_00788,EU,FR,iPhone 14,iOS 18.1
+gd_00789,NAM,CA,iPhone 14,iOS 18.1
+gd_00790,MEA,ZA,Pixel 7,Android 13
+gd_00791,APAC,PH,Pixel 7,Android 15
+gd_00792,APAC,PH,Pixel 7,Android 13
+gd_00793,APAC,IN,iPhone 15,iOS 17.2
+gd_00794,APAC,IN,Pixel 8,Android 13
+gd_00795,EU,UK,iPhone 15,iOS 17.5
+gd_00796,MEA,AE,iPhone 14,iOS 16.4
+gd_00797,APAC,ID,iPhone 13,iOS 17.2
+gd_00798,APAC,JP,Galaxy S23,Android 15
+gd_00799,EU,FR,iPhone 15,iOS 18.1
+gd_00800,EU,UK,iPhone 14,iOS 17.2
+gd_00801,NAM,US,iPhone 13,iOS 17.2
+gd_00802,EU,ES,Pixel 8,Android 13
+gd_00803,NAM,CA,Redmi Note 12,Android 14
+gd_00804,APAC,ID,iPhone 13,iOS 17.5
+gd_00805,LATAM,BR,iPhone 15,iOS 16.4
+gd_00806,EU,UK,iPhone 15,iOS 17.5
+gd_00807,EU,DE,Pixel 8,Android 13
+gd_00808,APAC,ID,iPhone 14,iOS 16.4
+gd_00809,NAM,US,iPhone 14,iOS 17.5
+gd_00810,MEA,ZA,iPhone 15,iOS 16.4
+gd_00811,EU,DE,iPhone 15,iOS 18.1
+gd_00812,NAM,US,iPhone 13,iOS 17.2
+gd_00813,NAM,US,iPhone 13,iOS 17.2
+gd_00814,MEA,ZA,iPhone 15,iOS 16.4
+gd_00815,NAM,CA,Pixel 8,Android 13
+gd_00816,APAC,ID,iPhone 13,iOS 18.1
+gd_00817,NAM,US,Galaxy A54,Android 15
+gd_00818,NAM,CA,iPhone 13,iOS 18.1
+gd_00819,LATAM,AR,iPhone 13,iOS 17.2
+gd_00820,NAM,US,iPhone 15,iOS 17.2
+gd_00821,NAM,US,Pixel 7,Android 15
+gd_00822,APAC,IN,Redmi Note 12,Android 12
+gd_00823,LATAM,MX,iPhone 13,iOS 17.5
+gd_00824,EU,DE,Pixel 7,Android 13
+gd_00825,NAM,US,Galaxy A54,Android 12
+gd_00826,MEA,AE,iPhone 13,iOS 16.4
+gd_00827,APAC,JP,Pixel 8,Android 13
+gd_00828,LATAM,BR,iPhone 14,iOS 16.4
+gd_00829,APAC,IN,iPhone 14,iOS 17.2
+gd_00830,APAC,PH,Galaxy S23,Android 13
+gd_00831,EU,ES,iPhone 13,iOS 18.1
+gd_00832,EU,ES,iPhone 13,iOS 17.2
+gd_00833,APAC,PH,iPhone 13,iOS 16.4
+gd_00834,APAC,ID,Pixel 7,Android 12
+gd_00835,MEA,NG,Galaxy A54,Android 13
+gd_00836,APAC,PH,iPhone 14,iOS 17.2
+gd_00837,EU,ES,iPhone 13,iOS 18.1
+gd_00838,EU,UK,iPhone 13,iOS 17.5
+gd_00839,APAC,IN,Galaxy A54,Android 15
+gd_00840,EU,DE,Pixel 8,Android 14
+gd_00841,LATAM,MX,iPhone 14,iOS 17.5
+gd_00842,APAC,PH,Galaxy A54,Android 12
+gd_00843,NAM,US,Galaxy A54,Android 15
+gd_00844,APAC,PH,iPhone 15,iOS 17.5
+gd_00845,APAC,PH,iPhone 14,iOS 17.2
+gd_00846,MEA,NG,iPhone 14,iOS 17.5
+gd_00847,EU,UK,Redmi Note 12,Android 12
+gd_00848,APAC,IN,Redmi Note 12,Android 15
+gd_00849,EU,UK,iPhone 13,iOS 17.5
+gd_00850,APAC,JP,iPhone 15,iOS 16.4
+gd_00851,NAM,CA,iPhone 15,iOS 17.2
+gd_00852,LATAM,MX,iPhone 15,iOS 18.1
+gd_00853,MEA,ZA,iPhone 13,iOS 16.4
+gd_00854,APAC,JP,iPhone 14,iOS 16.4
+gd_00855,APAC,JP,Pixel 7,Android 13
+gd_00856,NAM,US,Pixel 7,Android 14
+gd_00857,APAC,ID,iPhone 14,iOS 17.2
+gd_00858,EU,FR,Pixel 8,Android 12
+gd_00859,APAC,JP,Pixel 8,Android 12
+gd_00860,NAM,CA,Pixel 8,Android 13
+gd_00861,APAC,PH,Galaxy S23,Android 15
+gd_00862,EU,DE,Pixel 7,Android 15
+gd_00863,APAC,JP,iPhone 15,iOS 17.5
+gd_00864,APAC,PH,Galaxy A54,Android 15
+gd_00865,NAM,US,iPhone 15,iOS 16.4
+gd_00866,EU,DE,Redmi Note 12,Android 15
+gd_00867,LATAM,BR,iPhone 14,iOS 17.2
+gd_00868,APAC,ID,iPhone 14,iOS 16.4
+gd_00869,NAM,US,iPhone 15,iOS 16.4
+gd_00870,EU,FR,iPhone 14,iOS 16.4
+gd_00871,EU,UK,iPhone 14,iOS 18.1
+gd_00872,APAC,JP,Galaxy S23,Android 13
+gd_00873,APAC,JP,Pixel 7,Android 13
+gd_00874,NAM,CA,iPhone 15,iOS 16.4
+gd_00875,APAC,ID,iPhone 15,iOS 17.5
+gd_00876,APAC,ID,iPhone 15,iOS 17.2
+gd_00877,APAC,IN,iPhone 13,iOS 17.2
+gd_00878,NAM,CA,Redmi Note 12,Android 13
+gd_00879,EU,UK,Pixel 7,Android 13
+gd_00880,EU,UK,iPhone 13,iOS 17.2
+gd_00881,NAM,CA,iPhone 13,iOS 17.5
+gd_00882,EU,FR,Pixel 8,Android 15
+gd_00883,NAM,US,Pixel 8,Android 12
+gd_00884,NAM,CA,iPhone 15,iOS 17.2
+gd_00885,APAC,ID,Pixel 8,Android 15
+gd_00886,NAM,US,iPhone 15,iOS 17.2
+gd_00887,APAC,ID,iPhone 13,iOS 17.5
+gd_00888,NAM,CA,Galaxy S23,Android 13
+gd_00889,APAC,IN,Galaxy S23,Android 12
+gd_00890,EU,DE,iPhone 15,iOS 16.4
+gd_00891,LATAM,AR,Galaxy A54,Android 14
+gd_00892,LATAM,MX,iPhone 15,iOS 17.2
+gd_00893,EU,UK,Redmi Note 12,Android 13
+gd_00894,APAC,ID,iPhone 13,iOS 17.5
+gd_00895,NAM,CA,Pixel 7,Android 14
+gd_00896,APAC,PH,Galaxy S23,Android 15
+gd_00897,NAM,CA,Pixel 7,Android 14
+gd_00898,EU,UK,Galaxy S23,Android 15
+gd_00899,NAM,CA,Galaxy S23,Android 12
+gd_00900,LATAM,AR,iPhone 13,iOS 16.4
+gd_00901,EU,FR,Pixel 7,Android 12
+gd_00902,APAC,PH,iPhone 15,iOS 18.1
+gd_00903,EU,ES,Pixel 8,Android 13
+gd_00904,EU,UK,iPhone 15,iOS 17.2
+gd_00905,NAM,US,Galaxy A54,Android 13
+gd_00906,MEA,AE,iPhone 14,iOS 18.1
+gd_00907,LATAM,MX,Galaxy A54,Android 13
+gd_00908,NAM,CA,iPhone 13,iOS 18.1
+gd_00909,APAC,JP,iPhone 13,iOS 18.1
+gd_00910,EU,UK,iPhone 15,iOS 17.2
+gd_00911,NAM,CA,Galaxy A54,Android 14
+gd_00912,APAC,IN,iPhone 13,iOS 16.4
+gd_00913,NAM,CA,iPhone 14,iOS 17.2
+gd_00914,NAM,US,iPhone 14,iOS 18.1
+gd_00915,APAC,IN,iPhone 15,iOS 17.2
+gd_00916,NAM,CA,Galaxy S23,Android 15
+gd_00917,LATAM,BR,iPhone 13,iOS 17.5
+gd_00918,APAC,IN,iPhone 15,iOS 17.2
+gd_00919,LATAM,MX,iPhone 15,iOS 17.5
+gd_00920,APAC,PH,iPhone 14,iOS 17.2
+gd_00921,LATAM,BR,Galaxy A54,Android 13
+gd_00922,EU,DE,iPhone 13,iOS 18.1
+gd_00923,APAC,ID,iPhone 13,iOS 17.2
+gd_00924,APAC,PH,Redmi Note 12,Android 14
+gd_00925,LATAM,BR,Galaxy A54,Android 13
+gd_00926,NAM,US,iPhone 13,iOS 18.1
+gd_00927,APAC,JP,Galaxy A54,Android 12
+gd_00928,APAC,IN,Pixel 8,Android 13
+gd_00929,EU,FR,iPhone 13,iOS 17.2
+gd_00930,LATAM,BR,Galaxy S23,Android 14
+gd_00931,EU,FR,iPhone 14,iOS 17.5
+gd_00932,NAM,US,iPhone 15,iOS 16.4
+gd_00933,APAC,JP,Galaxy S23,Android 12
+gd_00934,EU,FR,Pixel 8,Android 15
+gd_00935,NAM,US,Galaxy A54,Android 13
+gd_00936,NAM,US,iPhone 14,iOS 17.5
+gd_00937,NAM,US,iPhone 13,iOS 18.1
+gd_00938,APAC,IN,Galaxy A54,Android 12
+gd_00939,LATAM,AR,iPhone 14,iOS 17.2
+gd_00940,APAC,ID,Galaxy S23,Android 14
+gd_00941,NAM,CA,iPhone 13,iOS 17.5
+gd_00942,APAC,ID,iPhone 14,iOS 17.2
+gd_00943,LATAM,AR,iPhone 14,iOS 16.4
+gd_00944,APAC,JP,Galaxy A54,Android 13
+gd_00945,EU,FR,iPhone 15,iOS 16.4
+gd_00946,NAM,CA,Redmi Note 12,Android 14
+gd_00947,LATAM,AR,Galaxy S23,Android 15
+gd_00948,LATAM,AR,iPhone 14,iOS 16.4
+gd_00949,NAM,CA,iPhone 14,iOS 16.4
+gd_00950,LATAM,MX,Pixel 8,Android 15
+gd_00951,NAM,CA,iPhone 13,iOS 16.4
+gd_00952,NAM,CA,iPhone 15,iOS 18.1
+gd_00953,APAC,JP,Pixel 8,Android 14
+gd_00954,APAC,JP,iPhone 15,iOS 17.2
+gd_00955,EU,UK,Galaxy A54,Android 13
+gd_00956,LATAM,MX,iPhone 15,iOS 18.1
+gd_00957,LATAM,BR,iPhone 13,iOS 18.1
+gd_00958,NAM,US,Pixel 8,Android 15
+gd_00959,APAC,ID,Galaxy A54,Android 13
+gd_00960,APAC,ID,iPhone 14,iOS 17.5
+gd_00961,APAC,JP,Galaxy A54,Android 15
+gd_00962,MEA,NG,Galaxy A54,Android 12
+gd_00963,APAC,PH,iPhone 15,iOS 16.4
+gd_00964,NAM,US,iPhone 13,iOS 18.1
+gd_00965,NAM,US,iPhone 13,iOS 17.2
+gd_00966,LATAM,AR,Galaxy S23,Android 13
+gd_00967,MEA,ZA,Galaxy S23,Android 14
+gd_00968,NAM,CA,iPhone 15,iOS 16.4
+gd_00969,NAM,CA,Pixel 7,Android 14
+gd_00970,APAC,JP,Pixel 8,Android 15
+gd_00971,NAM,US,Redmi Note 12,Android 15
+gd_00972,NAM,CA,Galaxy A54,Android 13
+gd_00973,LATAM,AR,iPhone 15,iOS 17.5
+gd_00974,LATAM,BR,iPhone 13,iOS 17.2
+gd_00975,LATAM,BR,Galaxy A54,Android 15
+gd_00976,APAC,JP,iPhone 14,iOS 18.1
+gd_00977,EU,DE,iPhone 15,iOS 17.5
+gd_00978,LATAM,AR,Pixel 7,Android 13
+gd_00979,EU,DE,Pixel 8,Android 13
+gd_00980,EU,ES,Galaxy A54,Android 14
+gd_00981,LATAM,BR,Galaxy A54,Android 15
+gd_00982,APAC,ID,Redmi Note 12,Android 15
+gd_00983,LATAM,BR,iPhone 15,iOS 17.2
+gd_00984,NAM,US,iPhone 13,iOS 17.2
+gd_00985,MEA,ZA,iPhone 13,iOS 17.2
+gd_00986,APAC,PH,Pixel 8,Android 13
+gd_00987,APAC,ID,Redmi Note 12,Android 12
+gd_00988,MEA,ZA,Galaxy S23,Android 14
+gd_00989,EU,DE,Redmi Note 12,Android 14
+gd_00990,APAC,JP,Pixel 7,Android 14
+gd_00991,APAC,PH,iPhone 15,iOS 16.4
+gd_00992,LATAM,AR,Pixel 7,Android 13
+gd_00993,LATAM,BR,Redmi Note 12,Android 14
+gd_00994,APAC,PH,Redmi Note 12,Android 15
+gd_00995,NAM,US,iPhone 13,iOS 17.5
+gd_00996,NAM,CA,Pixel 8,Android 14
+gd_00997,MEA,ZA,iPhone 14,iOS 18.1
+gd_00998,MEA,AE,iPhone 15,iOS 17.2
+gd_00999,MEA,NG,iPhone 13,iOS 17.5
+gd_01000,NAM,US,iPhone 13,iOS 17.5
+gd_01001,EU,ES,Galaxy A54,Android 15
+gd_01002,APAC,IN,iPhone 15,iOS 17.2
+gd_01003,APAC,PH,iPhone 13,iOS 17.2
+gd_01004,NAM,CA,Redmi Note 12,Android 12
+gd_01005,APAC,PH,Redmi Note 12,Android 12
+gd_01006,NAM,CA,Redmi Note 12,Android 12
+gd_01007,EU,DE,iPhone 13,iOS 17.2
+gd_01008,NAM,US,iPhone 15,iOS 18.1
+gd_01009,NAM,CA,Pixel 7,Android 15
+gd_01010,NAM,US,iPhone 13,iOS 16.4
+gd_01011,MEA,ZA,Pixel 7,Android 14
+gd_01012,APAC,IN,iPhone 14,iOS 17.2
+gd_01013,MEA,NG,iPhone 15,iOS 17.2
+gd_01014,EU,UK,Pixel 7,Android 15
+gd_01015,EU,DE,iPhone 13,iOS 17.5
+gd_01016,EU,DE,Pixel 8,Android 12
+gd_01017,APAC,ID,iPhone 13,iOS 18.1
+gd_01018,EU,ES,Redmi Note 12,Android 12
+gd_01019,APAC,PH,iPhone 13,iOS 18.1
+gd_01020,LATAM,MX,iPhone 13,iOS 18.1
+gd_01021,LATAM,AR,Pixel 8,Android 14
+gd_01022,NAM,US,Pixel 8,Android 12
+gd_01023,APAC,PH,Redmi Note 12,Android 12
+gd_01024,NAM,US,Pixel 8,Android 14
+gd_01025,NAM,US,iPhone 14,iOS 18.1
+gd_01026,APAC,IN,Galaxy S23,Android 14
+gd_01027,APAC,IN,Pixel 8,Android 13
+gd_01028,APAC,PH,Galaxy S23,Android 15
+gd_01029,NAM,US,iPhone 13,iOS 18.1
+gd_01030,MEA,NG,Galaxy S23,Android 12
+gd_01031,MEA,AE,iPhone 13,iOS 17.2
+gd_01032,EU,UK,iPhone 14,iOS 16.4
+gd_01033,LATAM,MX,iPhone 14,iOS 16.4
+gd_01034,NAM,US,Pixel 8,Android 13
+gd_01035,APAC,ID,iPhone 13,iOS 17.5
+gd_01036,LATAM,MX,iPhone 15,iOS 17.5
+gd_01037,LATAM,AR,Pixel 7,Android 12
+gd_01038,LATAM,MX,iPhone 13,iOS 18.1
+gd_01039,EU,UK,iPhone 13,iOS 17.2
+gd_01040,LATAM,AR,Redmi Note 12,Android 12
+gd_01041,APAC,JP,Pixel 8,Android 12
+gd_01042,NAM,US,iPhone 14,iOS 17.2
+gd_01043,NAM,CA,iPhone 15,iOS 17.5
+gd_01044,APAC,PH,iPhone 13,iOS 17.2
+gd_01045,APAC,JP,Pixel 7,Android 13
+gd_01046,APAC,ID,iPhone 13,iOS 17.2
+gd_01047,LATAM,MX,iPhone 15,iOS 16.4
+gd_01048,APAC,ID,iPhone 15,iOS 17.5
+gd_01049,EU,UK,iPhone 14,iOS 18.1
+gd_01050,EU,DE,Redmi Note 12,Android 14
+gd_01051,APAC,IN,iPhone 15,iOS 16.4
+gd_01052,APAC,IN,Pixel 8,Android 15
+gd_01053,APAC,JP,iPhone 13,iOS 17.5
+gd_01054,APAC,IN,iPhone 13,iOS 17.5
+gd_01055,APAC,ID,iPhone 15,iOS 16.4
+gd_01056,APAC,ID,iPhone 15,iOS 17.5
+gd_01057,LATAM,BR,iPhone 15,iOS 18.1
+gd_01058,NAM,CA,Galaxy S23,Android 13
+gd_01059,APAC,PH,Redmi Note 12,Android 14
+gd_01060,APAC,JP,Redmi Note 12,Android 12
+gd_01061,NAM,CA,iPhone 15,iOS 16.4
+gd_01062,APAC,IN,iPhone 15,iOS 18.1
+gd_01063,APAC,PH,Pixel 7,Android 13
+gd_01064,APAC,PH,Galaxy A54,Android 13
+gd_01065,LATAM,MX,Redmi Note 12,Android 12
+gd_01066,EU,FR,Pixel 8,Android 12
+gd_01067,NAM,CA,Redmi Note 12,Android 12
+gd_01068,EU,FR,Pixel 8,Android 15
+gd_01069,EU,UK,Pixel 8,Android 12
+gd_01070,APAC,ID,Galaxy A54,Android 12
+gd_01071,LATAM,BR,iPhone 13,iOS 17.5
+gd_01072,APAC,ID,iPhone 14,iOS 18.1
+gd_01073,NAM,CA,Redmi Note 12,Android 13
+gd_01074,EU,UK,Pixel 7,Android 14
+gd_01075,NAM,CA,Pixel 7,Android 14
+gd_01076,APAC,ID,Redmi Note 12,Android 13
+gd_01077,NAM,US,Galaxy A54,Android 14
+gd_01078,APAC,JP,iPhone 14,iOS 16.4
+gd_01079,LATAM,BR,iPhone 14,iOS 17.5
+gd_01080,APAC,IN,iPhone 15,iOS 17.2
+gd_01081,EU,DE,Galaxy A54,Android 13
+gd_01082,EU,UK,Redmi Note 12,Android 14
+gd_01083,APAC,PH,iPhone 13,iOS 17.2
+gd_01084,APAC,JP,iPhone 14,iOS 17.2
+gd_01085,NAM,CA,iPhone 15,iOS 18.1
+gd_01086,LATAM,AR,Pixel 7,Android 15
+gd_01087,APAC,ID,iPhone 14,iOS 16.4
+gd_01088,EU,ES,Pixel 7,Android 15
+gd_01089,NAM,US,iPhone 15,iOS 17.2
+gd_01090,EU,DE,iPhone 15,iOS 17.5
+gd_01091,EU,FR,Pixel 7,Android 13
+gd_01092,NAM,US,Galaxy S23,Android 13
+gd_01093,APAC,JP,Pixel 7,Android 14
+gd_01094,EU,ES,iPhone 15,iOS 16.4
+gd_01095,LATAM,MX,iPhone 13,iOS 16.4
+gd_01096,MEA,ZA,iPhone 14,iOS 18.1
+gd_01097,NAM,CA,Pixel 7,Android 12
+gd_01098,NAM,CA,iPhone 13,iOS 17.5
+gd_01099,LATAM,AR,Redmi Note 12,Android 13
+gd_01100,MEA,NG,iPhone 14,iOS 17.5
+gd_01101,LATAM,BR,Pixel 7,Android 15
+gd_01102,NAM,US,iPhone 15,iOS 17.2
+gd_01103,NAM,CA,Pixel 8,Android 13
+gd_01104,NAM,US,Galaxy S23,Android 12
+gd_01105,LATAM,MX,iPhone 15,iOS 16.4
+gd_01106,APAC,PH,Galaxy A54,Android 12
+gd_01107,APAC,JP,iPhone 13,iOS 17.2
+gd_01108,APAC,ID,Pixel 8,Android 12
+gd_01109,NAM,CA,Pixel 8,Android 13
+gd_01110,APAC,ID,iPhone 14,iOS 16.4
+gd_01111,NAM,CA,iPhone 15,iOS 17.2
+gd_01112,APAC,IN,iPhone 14,iOS 17.5
+gd_01113,APAC,JP,Pixel 8,Android 15
+gd_01114,APAC,ID,iPhone 13,iOS 17.2
+gd_01115,EU,UK,Redmi Note 12,Android 15
+gd_01116,LATAM,BR,Galaxy A54,Android 12
+gd_01117,APAC,JP,Galaxy A54,Android 15
+gd_01118,NAM,US,Pixel 7,Android 14
+gd_01119,NAM,US,iPhone 13,iOS 17.5
+gd_01120,APAC,IN,Pixel 8,Android 12
+gd_01121,EU,UK,Galaxy S23,Android 13
+gd_01122,NAM,US,iPhone 15,iOS 16.4
+gd_01123,NAM,US,Redmi Note 12,Android 13
+gd_01124,NAM,CA,iPhone 14,iOS 18.1
+gd_01125,EU,FR,iPhone 14,iOS 16.4
+gd_01126,APAC,JP,Galaxy S23,Android 14
+gd_01127,NAM,CA,iPhone 15,iOS 17.5
+gd_01128,APAC,IN,Pixel 8,Android 14
+gd_01129,EU,FR,iPhone 14,iOS 17.2
+gd_01130,EU,UK,Galaxy A54,Android 12
+gd_01131,NAM,CA,iPhone 14,iOS 17.5
+gd_01132,LATAM,MX,Galaxy S23,Android 15
+gd_01133,MEA,AE,Galaxy A54,Android 15
+gd_01134,EU,UK,Pixel 8,Android 14
+gd_01135,NAM,CA,Pixel 7,Android 14
+gd_01136,NAM,US,Galaxy A54,Android 14
+gd_01137,NAM,CA,iPhone 14,iOS 17.5
+gd_01138,LATAM,BR,Pixel 8,Android 15
+gd_01139,NAM,US,Pixel 7,Android 12
+gd_01140,MEA,NG,iPhone 15,iOS 17.5
+gd_01141,APAC,PH,iPhone 15,iOS 17.2
+gd_01142,APAC,PH,Pixel 8,Android 13
+gd_01143,LATAM,MX,iPhone 14,iOS 17.5
+gd_01144,NAM,CA,Galaxy S23,Android 13
+gd_01145,LATAM,BR,iPhone 13,iOS 16.4
+gd_01146,NAM,CA,Pixel 8,Android 13
+gd_01147,LATAM,MX,Pixel 7,Android 13
+gd_01148,APAC,ID,Redmi Note 12,Android 12
+gd_01149,NAM,US,Redmi Note 12,Android 13
+gd_01150,LATAM,MX,Redmi Note 12,Android 15
+gd_01151,NAM,US,Pixel 8,Android 14
+gd_01152,NAM,CA,iPhone 15,iOS 18.1
+gd_01153,LATAM,BR,Pixel 8,Android 14
+gd_01154,EU,DE,Redmi Note 12,Android 15
+gd_01155,LATAM,BR,iPhone 13,iOS 17.2
+gd_01156,APAC,ID,iPhone 13,iOS 17.5
+gd_01157,APAC,ID,Galaxy S23,Android 13
+gd_01158,EU,UK,Redmi Note 12,Android 12
+gd_01159,NAM,CA,iPhone 13,iOS 17.2
+gd_01160,MEA,NG,iPhone 14,iOS 18.1
+gd_01161,NAM,US,iPhone 15,iOS 17.5
+gd_01162,APAC,IN,Galaxy S23,Android 13
+gd_01163,NAM,CA,Galaxy A54,Android 12
+gd_01164,NAM,CA,iPhone 14,iOS 17.2
+gd_01165,APAC,JP,iPhone 13,iOS 16.4
+gd_01166,LATAM,MX,iPhone 13,iOS 17.5
+gd_01167,LATAM,BR,iPhone 14,iOS 17.2
+gd_01168,LATAM,MX,Pixel 7,Android 15
+gd_01169,EU,UK,iPhone 13,iOS 17.5
+gd_01170,EU,FR,Redmi Note 12,Android 13
+gd_01171,NAM,CA,iPhone 13,iOS 17.2
+gd_01172,APAC,JP,iPhone 13,iOS 18.1
+gd_01173,EU,FR,Galaxy A54,Android 15
+gd_01174,APAC,JP,Galaxy S23,Android 13
+gd_01175,NAM,CA,iPhone 13,iOS 17.5
+gd_01176,LATAM,BR,Pixel 7,Android 13
+gd_01177,LATAM,BR,Redmi Note 12,Android 12
+gd_01178,LATAM,BR,iPhone 14,iOS 17.2
+gd_01179,NAM,CA,Galaxy S23,Android 15
+gd_01180,MEA,AE,Pixel 7,Android 15
+gd_01181,NAM,CA,Pixel 8,Android 12
+gd_01182,EU,DE,iPhone 13,iOS 16.4
+gd_01183,NAM,CA,iPhone 15,iOS 18.1
+gd_01184,NAM,CA,Galaxy A54,Android 12
+gd_01185,APAC,IN,Galaxy S23,Android 15
+gd_01186,NAM,CA,Galaxy A54,Android 13
+gd_01187,EU,ES,iPhone 13,iOS 17.2
+gd_01188,APAC,IN,Redmi Note 12,Android 12
+gd_01189,LATAM,MX,iPhone 14,iOS 17.2
+gd_01190,APAC,PH,iPhone 14,iOS 18.1
+gd_01191,APAC,PH,Redmi Note 12,Android 12
+gd_01192,NAM,US,Pixel 7,Android 12
+gd_01193,LATAM,MX,iPhone 14,iOS 18.1
+gd_01194,NAM,US,iPhone 13,iOS 18.1
+gd_01195,NAM,CA,Galaxy S23,Android 14
+gd_01196,NAM,CA,Pixel 8,Android 12
+gd_01197,APAC,ID,iPhone 14,iOS 16.4
+gd_01198,EU,DE,Galaxy A54,Android 13
+gd_01199,APAC,PH,Pixel 8,Android 12
+gd_01200,EU,DE,Pixel 7,Android 13
+gd_01201,EU,DE,Pixel 7,Android 13
+gd_01202,EU,DE,iPhone 15,iOS 17.2
+gd_01203,NAM,US,Galaxy S23,Android 15
+gd_01204,EU,DE,Redmi Note 12,Android 15
+gd_01205,APAC,JP,iPhone 15,iOS 17.2
+gd_01206,APAC,PH,iPhone 13,iOS 17.2
+gd_01207,NAM,CA,iPhone 15,iOS 17.2
+gd_01208,APAC,IN,Pixel 7,Android 15
+gd_01209,EU,DE,Pixel 7,Android 15
+gd_01210,NAM,CA,iPhone 15,iOS 17.5
+gd_01211,NAM,CA,Galaxy S23,Android 13
+gd_01212,EU,ES,iPhone 15,iOS 17.2
+gd_01213,EU,DE,iPhone 13,iOS 16.4
+gd_01214,APAC,ID,iPhone 14,iOS 17.2
+gd_01215,NAM,CA,iPhone 13,iOS 16.4
+gd_01216,LATAM,BR,Redmi Note 12,Android 14
+gd_01217,EU,FR,Galaxy A54,Android 14
+gd_01218,APAC,PH,iPhone 15,iOS 17.2
+gd_01219,LATAM,AR,Pixel 8,Android 12
+gd_01220,EU,DE,iPhone 15,iOS 17.2
+gd_01221,NAM,CA,Redmi Note 12,Android 12
+gd_01222,APAC,JP,Galaxy A54,Android 15
+gd_01223,MEA,AE,Galaxy S23,Android 15
+gd_01224,MEA,NG,Redmi Note 12,Android 14
+gd_01225,NAM,US,iPhone 15,iOS 17.2
+gd_01226,APAC,PH,iPhone 13,iOS 17.2
+gd_01227,EU,FR,iPhone 15,iOS 17.2
+gd_01228,NAM,CA,iPhone 13,iOS 17.2
+gd_01229,APAC,IN,Galaxy A54,Android 12
+gd_01230,APAC,PH,Pixel 8,Android 13
+gd_01231,APAC,IN,Redmi Note 12,Android 15
+gd_01232,LATAM,AR,iPhone 15,iOS 16.4
+gd_01233,EU,ES,iPhone 15,iOS 17.5
+gd_01234,APAC,ID,Galaxy A54,Android 13
+gd_01235,EU,DE,Galaxy S23,Android 13
+gd_01236,NAM,US,iPhone 15,iOS 18.1
+gd_01237,EU,DE,iPhone 13,iOS 17.2
+gd_01238,MEA,ZA,iPhone 14,iOS 18.1
+gd_01239,EU,ES,iPhone 13,iOS 17.2
+gd_01240,NAM,CA,Pixel 7,Android 12
+gd_01241,APAC,IN,Redmi Note 12,Android 15
+gd_01242,MEA,NG,iPhone 14,iOS 17.2
+gd_01243,LATAM,BR,iPhone 13,iOS 16.4
+gd_01244,APAC,JP,Redmi Note 12,Android 13
+gd_01245,EU,UK,iPhone 15,iOS 16.4
+gd_01246,APAC,IN,Galaxy A54,Android 15
+gd_01247,LATAM,BR,Pixel 8,Android 14
+gd_01248,LATAM,BR,iPhone 15,iOS 18.1
+gd_01249,LATAM,AR,iPhone 15,iOS 17.5
+gd_01250,EU,ES,iPhone 13,iOS 18.1
+gd_01251,NAM,CA,iPhone 13,iOS 18.1
+gd_01252,APAC,JP,Redmi Note 12,Android 14
+gd_01253,NAM,CA,Redmi Note 12,Android 14
+gd_01254,NAM,US,iPhone 15,iOS 17.2
+gd_01255,EU,DE,iPhone 13,iOS 17.2
+gd_01256,APAC,PH,Pixel 8,Android 12
+gd_01257,LATAM,MX,Pixel 8,Android 13
+gd_01258,LATAM,MX,Galaxy S23,Android 13
+gd_01259,LATAM,BR,iPhone 15,iOS 17.5
+gd_01260,APAC,ID,iPhone 15,iOS 18.1
+gd_01261,APAC,JP,iPhone 13,iOS 16.4
+gd_01262,NAM,US,iPhone 13,iOS 18.1
+gd_01263,APAC,JP,Pixel 8,Android 13
+gd_01264,NAM,CA,iPhone 13,iOS 17.5
+gd_01265,NAM,US,iPhone 15,iOS 17.5
+gd_01266,NAM,CA,iPhone 13,iOS 18.1
+gd_01267,LATAM,AR,Redmi Note 12,Android 14
+gd_01268,APAC,ID,Galaxy A54,Android 12
+gd_01269,MEA,NG,Pixel 7,Android 15
+gd_01270,MEA,ZA,iPhone 15,iOS 16.4
+gd_01271,LATAM,BR,Galaxy S23,Android 14
+gd_01272,NAM,US,iPhone 13,iOS 16.4
+gd_01273,LATAM,MX,iPhone 13,iOS 17.5
+gd_01274,LATAM,AR,iPhone 14,iOS 18.1
+gd_01275,LATAM,MX,iPhone 13,iOS 17.2
+gd_01276,NAM,CA,Galaxy S23,Android 15
+gd_01277,NAM,US,Galaxy A54,Android 15
+gd_01278,MEA,NG,Pixel 7,Android 12
+gd_01279,NAM,US,iPhone 13,iOS 18.1
+gd_01280,EU,FR,Galaxy A54,Android 14
+gd_01281,EU,FR,Galaxy S23,Android 13
+gd_01282,NAM,CA,iPhone 13,iOS 18.1
+gd_01283,NAM,CA,Pixel 8,Android 14
+gd_01284,MEA,AE,iPhone 13,iOS 17.2
+gd_01285,LATAM,MX,iPhone 15,iOS 17.5
+gd_01286,MEA,AE,iPhone 15,iOS 16.4
+gd_01287,EU,FR,iPhone 14,iOS 16.4
+gd_01288,NAM,CA,iPhone 14,iOS 17.2
+gd_01289,EU,FR,Pixel 8,Android 12
+gd_01290,EU,FR,Pixel 8,Android 14
+gd_01291,NAM,US,Redmi Note 12,Android 12
+gd_01292,LATAM,BR,iPhone 13,iOS 18.1
+gd_01293,MEA,ZA,iPhone 15,iOS 17.5
+gd_01294,APAC,ID,iPhone 13,iOS 16.4
+gd_01295,EU,DE,Pixel 8,Android 12
+gd_01296,EU,FR,iPhone 15,iOS 17.2
+gd_01297,NAM,CA,Redmi Note 12,Android 14
+gd_01298,NAM,CA,iPhone 15,iOS 18.1
+gd_01299,APAC,PH,iPhone 13,iOS 17.5
+gd_01300,EU,FR,iPhone 14,iOS 16.4
+gd_01301,APAC,PH,iPhone 13,iOS 17.2
+gd_01302,LATAM,AR,iPhone 13,iOS 16.4
+gd_01303,NAM,US,Pixel 8,Android 13
+gd_01304,NAM,CA,iPhone 13,iOS 18.1
+gd_01305,NAM,CA,Pixel 7,Android 14
+gd_01306,NAM,CA,Galaxy S23,Android 12
+gd_01307,APAC,JP,Galaxy A54,Android 15
+gd_01308,LATAM,BR,Pixel 8,Android 14
+gd_01309,LATAM,BR,iPhone 14,iOS 17.2
+gd_01310,APAC,IN,iPhone 15,iOS 16.4
+gd_01311,EU,UK,Redmi Note 12,Android 15
+gd_01312,NAM,US,iPhone 14,iOS 17.5
+gd_01313,EU,ES,Pixel 8,Android 14
+gd_01314,EU,DE,Galaxy A54,Android 13
+gd_01315,LATAM,AR,Pixel 7,Android 13
+gd_01316,EU,ES,iPhone 13,iOS 17.5
+gd_01317,NAM,CA,iPhone 14,iOS 17.5
+gd_01318,EU,DE,Pixel 8,Android 12
+gd_01319,NAM,US,iPhone 13,iOS 16.4
+gd_01320,MEA,NG,iPhone 13,iOS 17.5
+gd_01321,NAM,CA,Redmi Note 12,Android 12
+gd_01322,NAM,CA,iPhone 15,iOS 17.2
+gd_01323,NAM,US,iPhone 15,iOS 17.5
+gd_01324,LATAM,BR,Pixel 7,Android 15
+gd_01325,APAC,IN,iPhone 15,iOS 17.5
+gd_01326,APAC,JP,Pixel 8,Android 15
+gd_01327,EU,FR,Galaxy A54,Android 15
+gd_01328,NAM,US,Galaxy S23,Android 13
+gd_01329,LATAM,BR,iPhone 13,iOS 17.2
+gd_01330,NAM,CA,iPhone 13,iOS 17.2
+gd_01331,NAM,CA,Pixel 7,Android 15
+gd_01332,APAC,PH,iPhone 15,iOS 16.4
+gd_01333,NAM,US,Galaxy S23,Android 12
+gd_01334,NAM,CA,Galaxy A54,Android 12
+gd_01335,LATAM,BR,Redmi Note 12,Android 14
+gd_01336,EU,ES,Pixel 7,Android 15
+gd_01337,NAM,US,iPhone 13,iOS 17.5
+gd_01338,EU,DE,Pixel 7,Android 12
+gd_01339,APAC,JP,Pixel 7,Android 13
+gd_01340,NAM,CA,Redmi Note 12,Android 15
+gd_01341,NAM,US,Galaxy A54,Android 12
+gd_01342,APAC,JP,iPhone 14,iOS 16.4
+gd_01343,APAC,IN,Pixel 8,Android 15
+gd_01344,MEA,ZA,Galaxy S23,Android 12
+gd_01345,EU,DE,iPhone 14,iOS 17.2
+gd_01346,NAM,CA,iPhone 13,iOS 17.2
+gd_01347,APAC,ID,iPhone 13,iOS 17.2
+gd_01348,APAC,PH,Galaxy S23,Android 13
+gd_01349,NAM,CA,Galaxy S23,Android 15
+gd_01350,APAC,ID,iPhone 15,iOS 18.1
+gd_01351,NAM,US,iPhone 14,iOS 16.4
+gd_01352,LATAM,MX,Pixel 7,Android 15
+gd_01353,LATAM,BR,Redmi Note 12,Android 13
+gd_01354,EU,FR,Galaxy S23,Android 12
+gd_01355,MEA,NG,iPhone 15,iOS 16.4
+gd_01356,MEA,AE,Pixel 7,Android 15
+gd_01357,NAM,US,iPhone 13,iOS 16.4
+gd_01358,EU,ES,Pixel 7,Android 12
+gd_01359,APAC,JP,Galaxy A54,Android 12
+gd_01360,NAM,US,Pixel 8,Android 12
+gd_01361,EU,UK,Galaxy A54,Android 12
+gd_01362,NAM,CA,iPhone 15,iOS 18.1
+gd_01363,MEA,AE,Galaxy A54,Android 12
+gd_01364,EU,FR,iPhone 15,iOS 17.5
+gd_01365,APAC,ID,iPhone 15,iOS 18.1
+gd_01366,EU,UK,Galaxy A54,Android 13
+gd_01367,NAM,US,Redmi Note 12,Android 13
+gd_01368,LATAM,AR,iPhone 14,iOS 17.2
+gd_01369,NAM,US,Pixel 8,Android 15
+gd_01370,NAM,CA,iPhone 13,iOS 16.4
+gd_01371,EU,ES,iPhone 14,iOS 17.5
+gd_01372,APAC,IN,iPhone 14,iOS 17.5
+gd_01373,EU,UK,iPhone 14,iOS 17.5
+gd_01374,NAM,US,iPhone 13,iOS 17.5
+gd_01375,EU,ES,iPhone 14,iOS 17.5
+gd_01376,NAM,CA,iPhone 14,iOS 18.1
+gd_01377,NAM,CA,Redmi Note 12,Android 14
+gd_01378,APAC,PH,Redmi Note 12,Android 14
+gd_01379,NAM,US,iPhone 14,iOS 17.5
+gd_01380,EU,UK,iPhone 15,iOS 17.5
+gd_01381,APAC,ID,Pixel 8,Android 13
+gd_01382,APAC,JP,iPhone 15,iOS 16.4
+gd_01383,NAM,US,iPhone 15,iOS 18.1
+gd_01384,EU,UK,iPhone 13,iOS 17.2
+gd_01385,NAM,CA,Galaxy A54,Android 12
+gd_01386,MEA,ZA,iPhone 14,iOS 16.4
+gd_01387,NAM,CA,Pixel 8,Android 14
+gd_01388,NAM,CA,iPhone 14,iOS 17.5
+gd_01389,EU,FR,Redmi Note 12,Android 12
+gd_01390,NAM,CA,Redmi Note 12,Android 12
+gd_01391,NAM,US,iPhone 14,iOS 18.1
+gd_01392,NAM,CA,iPhone 14,iOS 18.1
+gd_01393,APAC,PH,iPhone 14,iOS 17.5
+gd_01394,APAC,PH,Galaxy A54,Android 14
+gd_01395,APAC,IN,Galaxy S23,Android 12
+gd_01396,LATAM,BR,iPhone 14,iOS 17.2
+gd_01397,EU,UK,iPhone 15,iOS 17.5
+gd_01398,MEA,NG,iPhone 14,iOS 18.1
+gd_01399,APAC,ID,Pixel 8,Android 14
+gd_01400,LATAM,MX,Pixel 8,Android 15
+gd_01401,APAC,ID,iPhone 13,iOS 18.1
+gd_01402,EU,FR,iPhone 14,iOS 18.1
+gd_01403,EU,ES,iPhone 14,iOS 17.2
+gd_01404,EU,DE,Pixel 7,Android 12
+gd_01405,NAM,CA,iPhone 15,iOS 17.2
+gd_01406,EU,DE,Pixel 8,Android 14
+gd_01407,NAM,US,Pixel 7,Android 12
+gd_01408,NAM,US,iPhone 15,iOS 17.2
+gd_01409,MEA,AE,Pixel 8,Android 15
+gd_01410,APAC,JP,Galaxy A54,Android 14
+gd_01411,APAC,PH,iPhone 15,iOS 17.5
+gd_01412,EU,ES,iPhone 15,iOS 16.4
+gd_01413,APAC,JP,iPhone 15,iOS 17.5
+gd_01414,LATAM,MX,iPhone 14,iOS 18.1
+gd_01415,APAC,IN,iPhone 14,iOS 18.1
+gd_01416,APAC,PH,Galaxy A54,Android 14
+gd_01417,EU,DE,Pixel 8,Android 15
+gd_01418,EU,ES,Redmi Note 12,Android 13
+gd_01419,APAC,JP,Galaxy S23,Android 14
+gd_01420,MEA,NG,iPhone 14,iOS 17.2
+gd_01421,EU,ES,iPhone 15,iOS 17.2
+gd_01422,EU,FR,Pixel 7,Android 15
+gd_01423,EU,FR,Galaxy S23,Android 12
+gd_01424,EU,UK,iPhone 15,iOS 17.2
+gd_01425,MEA,ZA,Galaxy A54,Android 14
+gd_01426,APAC,JP,iPhone 13,iOS 17.2
+gd_01427,EU,FR,Pixel 7,Android 14
+gd_01428,EU,FR,Pixel 7,Android 15
+gd_01429,EU,DE,iPhone 15,iOS 18.1
+gd_01430,NAM,CA,Pixel 8,Android 13
+gd_01431,APAC,PH,Pixel 7,Android 13
+gd_01432,LATAM,BR,Galaxy S23,Android 15
+gd_01433,APAC,ID,Redmi Note 12,Android 12
+gd_01434,NAM,CA,iPhone 13,iOS 17.5
+gd_01435,APAC,IN,iPhone 13,iOS 17.2
+gd_01436,APAC,ID,iPhone 13,iOS 17.5
+gd_01437,NAM,US,iPhone 13,iOS 16.4
+gd_01438,APAC,JP,Pixel 8,Android 13
+gd_01439,APAC,ID,iPhone 13,iOS 17.5
+gd_01440,LATAM,AR,Galaxy A54,Android 13
+gd_01441,NAM,US,iPhone 13,iOS 16.4
+gd_01442,NAM,US,iPhone 14,iOS 17.5
+gd_01443,EU,FR,iPhone 14,iOS 18.1
+gd_01444,NAM,US,iPhone 14,iOS 16.4
+gd_01445,EU,ES,Galaxy A54,Android 14
+gd_01446,LATAM,AR,Galaxy S23,Android 12
+gd_01447,NAM,CA,Redmi Note 12,Android 14
+gd_01448,EU,DE,Pixel 7,Android 14
+gd_01449,MEA,AE,iPhone 14,iOS 16.4
+gd_01450,APAC,PH,Pixel 8,Android 14
+gd_01451,EU,UK,iPhone 14,iOS 16.4
+gd_01452,APAC,ID,Pixel 7,Android 14
+gd_01453,NAM,US,Pixel 8,Android 13
+gd_01454,NAM,US,Redmi Note 12,Android 14
+gd_01455,APAC,ID,iPhone 15,iOS 18.1
+gd_01456,EU,FR,iPhone 14,iOS 17.2
+gd_01457,EU,UK,iPhone 13,iOS 17.2
+gd_01458,NAM,CA,iPhone 14,iOS 16.4
+gd_01459,LATAM,AR,Pixel 8,Android 14
+gd_01460,NAM,US,Pixel 8,Android 12
+gd_01461,APAC,PH,iPhone 13,iOS 17.2
+gd_01462,EU,DE,iPhone 13,iOS 16.4
+gd_01463,APAC,IN,iPhone 13,iOS 16.4
+gd_01464,NAM,US,iPhone 13,iOS 17.5
+gd_01465,NAM,CA,Galaxy S23,Android 13
+gd_01466,APAC,PH,Redmi Note 12,Android 15
+gd_01467,APAC,JP,Pixel 7,Android 12
+gd_01468,NAM,CA,Pixel 7,Android 15
+gd_01469,EU,DE,iPhone 13,iOS 18.1
+gd_01470,EU,ES,iPhone 14,iOS 17.5
+gd_01471,NAM,CA,Redmi Note 12,Android 13
+gd_01472,APAC,IN,iPhone 13,iOS 17.2
+gd_01473,NAM,US,Pixel 7,Android 15
+gd_01474,APAC,ID,Pixel 7,Android 14
+gd_01475,NAM,US,iPhone 14,iOS 16.4
+gd_01476,EU,DE,iPhone 14,iOS 17.2
+gd_01477,EU,ES,Pixel 8,Android 13
+gd_01478,EU,UK,Pixel 8,Android 13
+gd_01479,EU,FR,iPhone 15,iOS 17.2
+gd_01480,LATAM,AR,Pixel 8,Android 13
+gd_01481,EU,DE,iPhone 15,iOS 18.1
+gd_01482,LATAM,AR,Galaxy A54,Android 13
+gd_01483,NAM,US,iPhone 13,iOS 18.1
+gd_01484,EU,DE,iPhone 13,iOS 18.1
+gd_01485,NAM,CA,iPhone 15,iOS 18.1
+gd_01486,EU,FR,iPhone 15,iOS 17.2
+gd_01487,APAC,ID,iPhone 14,iOS 17.2
+gd_01488,LATAM,AR,iPhone 13,iOS 17.2
+gd_01489,APAC,PH,Pixel 8,Android 14
+gd_01490,APAC,PH,iPhone 15,iOS 18.1
+gd_01491,NAM,CA,iPhone 15,iOS 18.1
+gd_01492,NAM,US,Pixel 7,Android 14
+gd_01493,LATAM,MX,Galaxy A54,Android 15
+gd_01494,NAM,US,iPhone 13,iOS 17.2
+gd_01495,NAM,CA,iPhone 13,iOS 17.5
+gd_01496,MEA,NG,iPhone 14,iOS 18.1
+gd_01497,MEA,AE,Pixel 8,Android 14
+gd_01498,APAC,JP,Galaxy A54,Android 13
+gd_01499,EU,ES,Pixel 7,Android 12
+gd_01500,LATAM,BR,iPhone 15,iOS 17.2
+gd_01501,NAM,US,iPhone 14,iOS 18.1
+gd_01502,EU,FR,iPhone 13,iOS 16.4
+gd_01503,EU,UK,Redmi Note 12,Android 13
+gd_01504,MEA,NG,Galaxy S23,Android 15
+gd_01505,MEA,ZA,Galaxy S23,Android 14
+gd_01506,APAC,PH,iPhone 13,iOS 17.5
+gd_01507,NAM,CA,iPhone 15,iOS 18.1
+gd_01508,EU,ES,Redmi Note 12,Android 15
+gd_01509,NAM,CA,iPhone 13,iOS 18.1
+gd_01510,LATAM,MX,Redmi Note 12,Android 14
+gd_01511,NAM,CA,Galaxy A54,Android 12
+gd_01512,NAM,US,iPhone 14,iOS 18.1
+gd_01513,APAC,JP,Redmi Note 12,Android 12
+gd_01514,EU,ES,iPhone 14,iOS 17.2
+gd_01515,LATAM,BR,iPhone 15,iOS 18.1
+gd_01516,NAM,US,iPhone 13,iOS 17.5
+gd_01517,LATAM,BR,Pixel 7,Android 14
+gd_01518,NAM,CA,Galaxy S23,Android 12
+gd_01519,NAM,CA,iPhone 13,iOS 18.1
+gd_01520,EU,UK,Redmi Note 12,Android 14
+gd_01521,NAM,CA,iPhone 13,iOS 18.1
+gd_01522,APAC,ID,Galaxy A54,Android 15
+gd_01523,NAM,CA,Galaxy A54,Android 12
+gd_01524,NAM,US,Redmi Note 12,Android 15
+gd_01525,APAC,IN,Redmi Note 12,Android 15
+gd_01526,NAM,US,iPhone 15,iOS 17.5
+gd_01527,APAC,ID,iPhone 14,iOS 17.5
+gd_01528,APAC,ID,Galaxy A54,Android 14
+gd_01529,NAM,CA,iPhone 13,iOS 17.2
+gd_01530,APAC,ID,Galaxy S23,Android 14
+gd_01531,NAM,US,iPhone 13,iOS 17.2
+gd_01532,EU,FR,Pixel 8,Android 14
+gd_01533,NAM,US,Galaxy S23,Android 13
+gd_01534,LATAM,MX,Pixel 7,Android 12
+gd_01535,APAC,JP,iPhone 14,iOS 18.1
+gd_01536,APAC,ID,Galaxy S23,Android 13
+gd_01537,MEA,AE,iPhone 13,iOS 18.1
+gd_01538,EU,DE,iPhone 14,iOS 18.1
+gd_01539,LATAM,AR,iPhone 15,iOS 17.2
+gd_01540,APAC,ID,iPhone 14,iOS 17.2
+gd_01541,MEA,NG,Pixel 7,Android 15
+gd_01542,LATAM,MX,Galaxy S23,Android 13
+gd_01543,MEA,NG,iPhone 14,iOS 18.1
+gd_01544,NAM,US,Galaxy A54,Android 14
+gd_01545,LATAM,BR,Galaxy S23,Android 12
+gd_01546,LATAM,AR,Pixel 7,Android 12
+gd_01547,APAC,ID,iPhone 13,iOS 16.4
+gd_01548,EU,DE,Pixel 8,Android 12
+gd_01549,MEA,NG,iPhone 14,iOS 16.4
+gd_01550,NAM,US,Galaxy A54,Android 13
+gd_01551,EU,DE,iPhone 15,iOS 16.4
+gd_01552,APAC,JP,Pixel 8,Android 12
+gd_01553,NAM,CA,iPhone 14,iOS 17.5
+gd_01554,APAC,PH,iPhone 13,iOS 17.2
+gd_01555,NAM,CA,iPhone 15,iOS 18.1
+gd_01556,APAC,IN,iPhone 14,iOS 17.2
+gd_01557,LATAM,BR,iPhone 14,iOS 17.2
+gd_01558,EU,FR,Galaxy S23,Android 15
+gd_01559,APAC,JP,iPhone 13,iOS 17.5
+gd_01560,NAM,US,iPhone 13,iOS 18.1
+gd_01561,LATAM,AR,iPhone 15,iOS 16.4
+gd_01562,MEA,NG,iPhone 13,iOS 17.5
+gd_01563,NAM,US,iPhone 15,iOS 17.5
+gd_01564,APAC,PH,Pixel 7,Android 13
+gd_01565,APAC,ID,iPhone 13,iOS 16.4
+gd_01566,APAC,ID,Redmi Note 12,Android 15
+gd_01567,APAC,JP,iPhone 15,iOS 17.2
+gd_01568,EU,UK,Redmi Note 12,Android 13
+gd_01569,APAC,IN,iPhone 15,iOS 16.4
+gd_01570,NAM,CA,Galaxy S23,Android 14
+gd_01571,EU,DE,Pixel 7,Android 13
+gd_01572,LATAM,BR,Galaxy S23,Android 14
+gd_01573,NAM,CA,Galaxy S23,Android 15
+gd_01574,APAC,IN,Galaxy A54,Android 14
+gd_01575,NAM,CA,Pixel 7,Android 12
+gd_01576,LATAM,BR,Pixel 7,Android 14
+gd_01577,APAC,JP,iPhone 14,iOS 16.4
+gd_01578,EU,DE,Redmi Note 12,Android 13
+gd_01579,NAM,CA,Redmi Note 12,Android 15
+gd_01580,EU,FR,iPhone 14,iOS 18.1
+gd_01581,MEA,NG,Pixel 8,Android 15
+gd_01582,APAC,IN,Galaxy S23,Android 12
+gd_01583,EU,DE,iPhone 14,iOS 18.1
+gd_01584,APAC,PH,iPhone 14,iOS 17.5
+gd_01585,EU,UK,iPhone 13,iOS 16.4
+gd_01586,EU,ES,Pixel 8,Android 15
+gd_01587,EU,ES,Galaxy S23,Android 13
+gd_01588,NAM,CA,iPhone 15,iOS 18.1
+gd_01589,APAC,IN,Redmi Note 12,Android 15
+gd_01590,LATAM,AR,iPhone 15,iOS 17.2
+gd_01591,LATAM,AR,Pixel 8,Android 14
+gd_01592,LATAM,BR,iPhone 14,iOS 18.1
+gd_01593,EU,FR,Galaxy S23,Android 12
+gd_01594,EU,UK,iPhone 15,iOS 16.4
+gd_01595,APAC,ID,Pixel 8,Android 12
+gd_01596,MEA,ZA,Redmi Note 12,Android 13
+gd_01597,APAC,JP,Galaxy A54,Android 15
+gd_01598,EU,FR,iPhone 14,iOS 17.5
+gd_01599,APAC,JP,iPhone 15,iOS 16.4
+gd_01600,APAC,JP,iPhone 15,iOS 16.4
+gd_01601,MEA,NG,iPhone 15,iOS 17.2
+gd_01602,APAC,IN,iPhone 15,iOS 17.5
+gd_01603,EU,UK,Pixel 8,Android 14
+gd_01604,EU,UK,iPhone 14,iOS 17.2
+gd_01605,EU,ES,iPhone 14,iOS 17.2
+gd_01606,EU,UK,iPhone 15,iOS 16.4
+gd_01607,MEA,ZA,iPhone 14,iOS 18.1
+gd_01608,APAC,IN,Redmi Note 12,Android 12
+gd_01609,EU,ES,iPhone 15,iOS 17.5
+gd_01610,EU,FR,iPhone 14,iOS 18.1
+gd_01611,APAC,PH,iPhone 14,iOS 17.2
+gd_01612,APAC,IN,Galaxy A54,Android 14
+gd_01613,NAM,US,iPhone 15,iOS 16.4
+gd_01614,LATAM,MX,iPhone 13,iOS 17.2
+gd_01615,EU,UK,Pixel 8,Android 12
+gd_01616,EU,ES,Pixel 8,Android 14
+gd_01617,NAM,CA,iPhone 13,iOS 18.1
+gd_01618,APAC,IN,iPhone 15,iOS 16.4
+gd_01619,APAC,PH,Redmi Note 12,Android 12
+gd_01620,LATAM,MX,iPhone 14,iOS 17.5
+gd_01621,NAM,US,iPhone 13,iOS 17.5
+gd_01622,MEA,NG,Pixel 8,Android 15
+gd_01623,APAC,JP,Redmi Note 12,Android 15
+gd_01624,EU,UK,iPhone 13,iOS 17.5
+gd_01625,NAM,CA,Galaxy A54,Android 12
+gd_01626,EU,FR,Galaxy S23,Android 12
+gd_01627,LATAM,BR,Redmi Note 12,Android 15
+gd_01628,EU,FR,Galaxy S23,Android 15
+gd_01629,EU,FR,iPhone 14,iOS 17.5
+gd_01630,APAC,ID,iPhone 15,iOS 16.4
+gd_01631,LATAM,MX,iPhone 15,iOS 16.4
+gd_01632,APAC,PH,iPhone 14,iOS 16.4
+gd_01633,APAC,IN,Galaxy A54,Android 14
+gd_01634,NAM,CA,Redmi Note 12,Android 13
+gd_01635,LATAM,AR,Galaxy S23,Android 14
+gd_01636,EU,ES,iPhone 15,iOS 17.2
+gd_01637,NAM,US,iPhone 14,iOS 16.4
+gd_01638,MEA,ZA,iPhone 14,iOS 17.2
+gd_01639,NAM,CA,Pixel 7,Android 13
+gd_01640,NAM,US,iPhone 15,iOS 16.4
+gd_01641,APAC,JP,Pixel 8,Android 13
+gd_01642,EU,FR,Redmi Note 12,Android 15
+gd_01643,NAM,CA,iPhone 15,iOS 17.2
+gd_01644,APAC,JP,Redmi Note 12,Android 13
+gd_01645,APAC,ID,Pixel 8,Android 12
+gd_01646,LATAM,MX,Galaxy A54,Android 15
+gd_01647,NAM,US,iPhone 15,iOS 17.2
+gd_01648,APAC,JP,iPhone 14,iOS 17.2
+gd_01649,LATAM,AR,iPhone 14,iOS 16.4
+gd_01650,NAM,CA,Galaxy S23,Android 13
+gd_01651,NAM,CA,Pixel 8,Android 14
+gd_01652,NAM,US,iPhone 14,iOS 16.4
+gd_01653,APAC,PH,iPhone 15,iOS 18.1
+gd_01654,NAM,US,Pixel 8,Android 13
+gd_01655,APAC,ID,Pixel 7,Android 14
+gd_01656,MEA,ZA,Pixel 7,Android 15
+gd_01657,NAM,US,Galaxy S23,Android 13
+gd_01658,APAC,JP,Pixel 8,Android 15
+gd_01659,NAM,US,Galaxy S23,Android 15
+gd_01660,NAM,US,Redmi Note 12,Android 15
+gd_01661,APAC,PH,iPhone 13,iOS 18.1
+gd_01662,EU,ES,iPhone 13,iOS 18.1
+gd_01663,MEA,AE,iPhone 13,iOS 18.1
+gd_01664,APAC,ID,Galaxy S23,Android 15
+gd_01665,NAM,CA,iPhone 15,iOS 17.5
+gd_01666,EU,ES,Pixel 7,Android 14
+gd_01667,NAM,US,Pixel 7,Android 13
+gd_01668,LATAM,BR,iPhone 13,iOS 16.4
+gd_01669,APAC,ID,iPhone 15,iOS 18.1
+gd_01670,EU,DE,iPhone 13,iOS 17.2
+gd_01671,APAC,JP,Galaxy A54,Android 13
+gd_01672,APAC,IN,iPhone 14,iOS 18.1
+gd_01673,LATAM,MX,iPhone 13,iOS 17.5
+gd_01674,NAM,US,iPhone 14,iOS 16.4
+gd_01675,NAM,CA,iPhone 13,iOS 17.2
+gd_01676,NAM,CA,Galaxy S23,Android 14
+gd_01677,EU,UK,Pixel 7,Android 14
+gd_01678,EU,ES,iPhone 15,iOS 17.5
+gd_01679,NAM,CA,Galaxy A54,Android 14
+gd_01680,EU,FR,Pixel 7,Android 12
+gd_01681,EU,UK,iPhone 14,iOS 17.5
+gd_01682,NAM,US,iPhone 14,iOS 18.1
+gd_01683,MEA,NG,Pixel 7,Android 13
+gd_01684,APAC,ID,Galaxy A54,Android 15
+gd_01685,EU,FR,iPhone 14,iOS 18.1
+gd_01686,APAC,PH,iPhone 13,iOS 17.5
+gd_01687,EU,DE,Galaxy S23,Android 14
+gd_01688,LATAM,MX,Galaxy A54,Android 12
+gd_01689,APAC,PH,iPhone 14,iOS 18.1
+gd_01690,EU,UK,iPhone 15,iOS 18.1
+gd_01691,MEA,AE,Pixel 7,Android 12
+gd_01692,LATAM,AR,iPhone 15,iOS 17.2
+gd_01693,LATAM,BR,iPhone 13,iOS 16.4
+gd_01694,NAM,US,Galaxy A54,Android 13
+gd_01695,NAM,US,iPhone 14,iOS 17.2
+gd_01696,APAC,IN,Pixel 7,Android 12
+gd_01697,EU,UK,Galaxy A54,Android 14
+gd_01698,APAC,ID,iPhone 14,iOS 17.2
+gd_01699,APAC,PH,iPhone 14,iOS 18.1
+gd_01700,EU,UK,Pixel 8,Android 15
+gd_01701,EU,FR,iPhone 13,iOS 16.4
+gd_01702,EU,DE,Galaxy A54,Android 14
+gd_01703,EU,ES,iPhone 13,iOS 17.2
+gd_01704,APAC,ID,Redmi Note 12,Android 15
+gd_01705,APAC,PH,iPhone 15,iOS 18.1
+gd_01706,EU,DE,iPhone 15,iOS 16.4
+gd_01707,APAC,PH,Pixel 7,Android 13
+gd_01708,APAC,PH,iPhone 14,iOS 17.2
+gd_01709,APAC,ID,iPhone 14,iOS 17.5
+gd_01710,NAM,CA,Redmi Note 12,Android 12
+gd_01711,APAC,IN,Galaxy S23,Android 13
+gd_01712,APAC,ID,iPhone 15,iOS 18.1
+gd_01713,NAM,US,Pixel 8,Android 14
+gd_01714,APAC,PH,iPhone 15,iOS 18.1
+gd_01715,LATAM,AR,iPhone 14,iOS 17.5
+gd_01716,NAM,CA,iPhone 15,iOS 17.5
+gd_01717,APAC,PH,Pixel 8,Android 14
+gd_01718,MEA,NG,Pixel 8,Android 13
+gd_01719,LATAM,AR,iPhone 14,iOS 17.2
+gd_01720,EU,FR,Galaxy S23,Android 14
+gd_01721,APAC,IN,iPhone 13,iOS 18.1
+gd_01722,MEA,NG,iPhone 14,iOS 17.5
+gd_01723,APAC,IN,iPhone 14,iOS 16.4
+gd_01724,NAM,US,Pixel 7,Android 15
+gd_01725,NAM,CA,iPhone 14,iOS 16.4
+gd_01726,LATAM,BR,Galaxy A54,Android 15
+gd_01727,EU,UK,iPhone 13,iOS 16.4
+gd_01728,NAM,CA,Redmi Note 12,Android 12
+gd_01729,EU,FR,iPhone 14,iOS 16.4
+gd_01730,APAC,IN,iPhone 13,iOS 18.1
+gd_01731,EU,DE,Galaxy A54,Android 14
+gd_01732,LATAM,BR,Redmi Note 12,Android 12
+gd_01733,APAC,ID,Redmi Note 12,Android 12
+gd_01734,MEA,ZA,iPhone 15,iOS 16.4
+gd_01735,LATAM,AR,Pixel 8,Android 15
+gd_01736,NAM,US,iPhone 13,iOS 18.1
+gd_01737,APAC,PH,Pixel 8,Android 12
+gd_01738,NAM,US,Redmi Note 12,Android 15
+gd_01739,MEA,NG,Pixel 8,Android 13
+gd_01740,NAM,CA,Pixel 8,Android 13
+gd_01741,APAC,ID,iPhone 15,iOS 17.2
+gd_01742,LATAM,AR,iPhone 13,iOS 18.1
+gd_01743,NAM,US,Galaxy S23,Android 12
+gd_01744,LATAM,MX,iPhone 13,iOS 17.2
+gd_01745,NAM,CA,iPhone 13,iOS 18.1
+gd_01746,EU,FR,Galaxy S23,Android 14
+gd_01747,EU,FR,Galaxy A54,Android 15
+gd_01748,EU,ES,Pixel 8,Android 14
+gd_01749,APAC,ID,Pixel 7,Android 15
+gd_01750,MEA,ZA,Galaxy A54,Android 15
+gd_01751,EU,FR,iPhone 14,iOS 17.2
+gd_01752,APAC,JP,Galaxy A54,Android 14
+gd_01753,LATAM,BR,Galaxy S23,Android 12
+gd_01754,LATAM,AR,Galaxy A54,Android 14
+gd_01755,NAM,US,Galaxy A54,Android 13
+gd_01756,MEA,ZA,iPhone 15,iOS 16.4
+gd_01757,NAM,CA,Galaxy A54,Android 12
+gd_01758,APAC,JP,Galaxy S23,Android 14
+gd_01759,APAC,JP,iPhone 13,iOS 16.4
+gd_01760,LATAM,MX,Galaxy S23,Android 12
+gd_01761,NAM,US,Galaxy A54,Android 13
+gd_01762,NAM,CA,iPhone 14,iOS 18.1
+gd_01763,APAC,ID,Galaxy S23,Android 14
+gd_01764,NAM,CA,iPhone 14,iOS 17.2
+gd_01765,EU,ES,iPhone 13,iOS 17.5
+gd_01766,APAC,IN,Galaxy S23,Android 15
+gd_01767,APAC,JP,Redmi Note 12,Android 12
+gd_01768,NAM,US,iPhone 15,iOS 17.2
+gd_01769,EU,FR,iPhone 15,iOS 16.4
+gd_01770,MEA,AE,Galaxy A54,Android 12
+gd_01771,EU,UK,Redmi Note 12,Android 15
+gd_01772,NAM,CA,iPhone 13,iOS 16.4
+gd_01773,NAM,CA,iPhone 15,iOS 16.4
+gd_01774,EU,UK,iPhone 13,iOS 18.1
+gd_01775,MEA,NG,iPhone 13,iOS 17.2
+gd_01776,EU,ES,iPhone 13,iOS 16.4
+gd_01777,NAM,CA,iPhone 14,iOS 17.5
+gd_01778,APAC,PH,Pixel 7,Android 13
+gd_01779,NAM,US,Pixel 8,Android 14
+gd_01780,EU,FR,iPhone 13,iOS 17.5
+gd_01781,MEA,NG,Pixel 7,Android 13
+gd_01782,APAC,JP,Galaxy S23,Android 14
+gd_01783,NAM,CA,iPhone 14,iOS 16.4
+gd_01784,EU,ES,Galaxy S23,Android 14
+gd_01785,NAM,CA,iPhone 14,iOS 17.2
+gd_01786,NAM,CA,Galaxy S23,Android 13
+gd_01787,APAC,PH,Pixel 7,Android 14
+gd_01788,APAC,JP,Galaxy S23,Android 14
+gd_01789,APAC,JP,iPhone 15,iOS 18.1
+gd_01790,LATAM,BR,Pixel 7,Android 13
+gd_01791,NAM,US,iPhone 13,iOS 16.4
+gd_01792,MEA,NG,iPhone 15,iOS 18.1
+gd_01793,APAC,ID,Galaxy S23,Android 15
+gd_01794,NAM,CA,iPhone 13,iOS 17.2
+gd_01795,LATAM,AR,iPhone 15,iOS 17.2
+gd_01796,NAM,US,Pixel 8,Android 13
+gd_01797,APAC,ID,Galaxy A54,Android 12
+gd_01798,APAC,IN,iPhone 14,iOS 18.1
+gd_01799,EU,UK,iPhone 13,iOS 17.2
+gd_01800,LATAM,MX,iPhone 15,iOS 17.2
+gd_01801,NAM,CA,Galaxy A54,Android 13
+gd_01802,LATAM,BR,iPhone 13,iOS 17.5
+gd_01803,NAM,US,Galaxy A54,Android 14
+gd_01804,NAM,US,iPhone 14,iOS 18.1
+gd_01805,EU,ES,iPhone 15,iOS 18.1
+gd_01806,LATAM,MX,iPhone 15,iOS 17.2
+gd_01807,NAM,US,Pixel 8,Android 13
+gd_01808,LATAM,MX,iPhone 15,iOS 17.5
+gd_01809,NAM,US,Pixel 7,Android 15
+gd_01810,EU,ES,iPhone 14,iOS 18.1
+gd_01811,EU,DE,Galaxy A54,Android 14
+gd_01812,NAM,CA,iPhone 14,iOS 18.1
+gd_01813,MEA,NG,iPhone 13,iOS 18.1
+gd_01814,EU,UK,iPhone 13,iOS 18.1
+gd_01815,APAC,PH,iPhone 15,iOS 18.1
+gd_01816,APAC,JP,iPhone 15,iOS 18.1
+gd_01817,APAC,ID,Galaxy A54,Android 15
+gd_01818,APAC,IN,Galaxy S23,Android 13
+gd_01819,LATAM,MX,iPhone 15,iOS 16.4
+gd_01820,APAC,JP,iPhone 13,iOS 16.4
+gd_01821,APAC,IN,iPhone 15,iOS 16.4
+gd_01822,APAC,ID,Pixel 7,Android 13
+gd_01823,APAC,JP,iPhone 14,iOS 17.2
+gd_01824,EU,FR,iPhone 14,iOS 18.1
+gd_01825,APAC,PH,Redmi Note 12,Android 14
+gd_01826,EU,UK,iPhone 13,iOS 17.2
+gd_01827,APAC,PH,iPhone 14,iOS 17.2
+gd_01828,MEA,AE,iPhone 13,iOS 16.4
+gd_01829,MEA,ZA,iPhone 13,iOS 17.5
+gd_01830,LATAM,AR,iPhone 14,iOS 16.4
+gd_01831,APAC,JP,Galaxy A54,Android 13
+gd_01832,APAC,JP,Pixel 8,Android 13
+gd_01833,NAM,US,iPhone 15,iOS 17.2
+gd_01834,EU,ES,Galaxy S23,Android 12
+gd_01835,NAM,US,iPhone 15,iOS 17.5
+gd_01836,NAM,US,iPhone 13,iOS 16.4
+gd_01837,MEA,ZA,iPhone 13,iOS 18.1
+gd_01838,LATAM,MX,Redmi Note 12,Android 13
+gd_01839,APAC,IN,iPhone 13,iOS 17.2
+gd_01840,NAM,CA,Pixel 8,Android 14
+gd_01841,APAC,IN,Redmi Note 12,Android 15
+gd_01842,EU,FR,iPhone 15,iOS 16.4
+gd_01843,LATAM,AR,iPhone 13,iOS 17.2
+gd_01844,MEA,NG,iPhone 15,iOS 17.5
+gd_01845,EU,DE,Galaxy A54,Android 14
+gd_01846,NAM,US,iPhone 13,iOS 17.2
+gd_01847,NAM,CA,iPhone 14,iOS 18.1
+gd_01848,NAM,US,Pixel 8,Android 12
+gd_01849,EU,ES,iPhone 13,iOS 17.2
+gd_01850,NAM,US,iPhone 13,iOS 16.4
+gd_01851,NAM,CA,iPhone 13,iOS 16.4
+gd_01852,NAM,US,iPhone 14,iOS 16.4
+gd_01853,NAM,US,Redmi Note 12,Android 12
+gd_01854,APAC,IN,Galaxy S23,Android 15
+gd_01855,NAM,CA,iPhone 13,iOS 17.5
+gd_01856,LATAM,MX,iPhone 14,iOS 17.5
+gd_01857,NAM,US,iPhone 15,iOS 17.2
+gd_01858,NAM,US,Redmi Note 12,Android 15
+gd_01859,NAM,US,Galaxy A54,Android 15
+gd_01860,APAC,JP,Pixel 8,Android 13
+gd_01861,NAM,US,iPhone 14,iOS 18.1
+gd_01862,APAC,ID,iPhone 13,iOS 17.2
+gd_01863,NAM,CA,Galaxy S23,Android 15
+gd_01864,MEA,AE,iPhone 14,iOS 16.4
+gd_01865,NAM,CA,iPhone 13,iOS 17.2
+gd_01866,EU,ES,Pixel 7,Android 13
+gd_01867,LATAM,AR,iPhone 15,iOS 17.2
+gd_01868,NAM,CA,iPhone 13,iOS 16.4
+gd_01869,NAM,CA,Pixel 7,Android 12
+gd_01870,LATAM,MX,iPhone 14,iOS 16.4
+gd_01871,EU,FR,iPhone 13,iOS 17.5
+gd_01872,NAM,US,Redmi Note 12,Android 13
+gd_01873,EU,ES,iPhone 15,iOS 17.2
+gd_01874,NAM,CA,Redmi Note 12,Android 14
+gd_01875,MEA,NG,iPhone 13,iOS 16.4
+gd_01876,APAC,JP,Redmi Note 12,Android 12
+gd_01877,APAC,ID,iPhone 13,iOS 16.4
+gd_01878,NAM,US,Pixel 8,Android 13
+gd_01879,APAC,PH,Redmi Note 12,Android 14
+gd_01880,APAC,JP,Galaxy A54,Android 14
+gd_01881,NAM,CA,iPhone 13,iOS 17.5
+gd_01882,LATAM,MX,iPhone 15,iOS 17.2
+gd_01883,APAC,JP,Pixel 7,Android 15
+gd_01884,LATAM,BR,Galaxy A54,Android 13
+gd_01885,NAM,US,iPhone 14,iOS 17.2
+gd_01886,NAM,CA,iPhone 13,iOS 16.4
+gd_01887,APAC,IN,iPhone 15,iOS 17.5
+gd_01888,LATAM,BR,Galaxy A54,Android 13
+gd_01889,EU,ES,iPhone 15,iOS 17.5
+gd_01890,NAM,CA,Galaxy A54,Android 14
+gd_01891,LATAM,BR,Galaxy A54,Android 12
+gd_01892,NAM,US,Redmi Note 12,Android 15
+gd_01893,EU,DE,Redmi Note 12,Android 14
+gd_01894,APAC,IN,iPhone 14,iOS 18.1
+gd_01895,NAM,CA,Pixel 7,Android 14
+gd_01896,NAM,US,iPhone 14,iOS 18.1
+gd_01897,NAM,CA,iPhone 14,iOS 16.4
+gd_01898,MEA,ZA,iPhone 13,iOS 17.5
+gd_01899,EU,ES,iPhone 13,iOS 18.1
+gd_01900,APAC,IN,Pixel 8,Android 15
+gd_01901,MEA,NG,Redmi Note 12,Android 14
+gd_01902,APAC,PH,iPhone 13,iOS 17.2
+gd_01903,APAC,ID,iPhone 15,iOS 16.4
+gd_01904,APAC,ID,Redmi Note 12,Android 12
+gd_01905,EU,UK,Pixel 8,Android 12
+gd_01906,APAC,ID,Pixel 8,Android 13
+gd_01907,MEA,NG,iPhone 15,iOS 17.5
+gd_01908,LATAM,AR,Galaxy A54,Android 14
+gd_01909,EU,UK,iPhone 14,iOS 18.1
+gd_01910,EU,UK,iPhone 15,iOS 17.5
+gd_01911,LATAM,MX,iPhone 13,iOS 18.1
+gd_01912,NAM,CA,Pixel 8,Android 15
+gd_01913,LATAM,AR,iPhone 14,iOS 18.1
+gd_01914,NAM,CA,Pixel 7,Android 12
+gd_01915,APAC,JP,Redmi Note 12,Android 15
+gd_01916,LATAM,MX,iPhone 14,iOS 16.4
+gd_01917,EU,FR,Pixel 8,Android 12
+gd_01918,NAM,US,Pixel 8,Android 13
+gd_01919,LATAM,AR,Pixel 7,Android 15
+gd_01920,EU,UK,iPhone 14,iOS 16.4
+gd_01921,EU,ES,Redmi Note 12,Android 13
+gd_01922,APAC,PH,Pixel 7,Android 14
+gd_01923,EU,DE,iPhone 14,iOS 17.5
+gd_01924,APAC,ID,Galaxy A54,Android 13
+gd_01925,NAM,US,iPhone 14,iOS 18.1
+gd_01926,EU,ES,Galaxy A54,Android 13
+gd_01927,LATAM,BR,iPhone 15,iOS 18.1
+gd_01928,NAM,US,iPhone 15,iOS 17.2
+gd_01929,EU,FR,Galaxy A54,Android 14
+gd_01930,APAC,JP,iPhone 15,iOS 17.2
+gd_01931,LATAM,BR,iPhone 13,iOS 17.2
+gd_01932,APAC,IN,Pixel 7,Android 15
+gd_01933,LATAM,MX,Pixel 7,Android 15
+gd_01934,NAM,CA,Pixel 7,Android 12
+gd_01935,EU,ES,Redmi Note 12,Android 12
+gd_01936,MEA,ZA,iPhone 13,iOS 17.5
+gd_01937,LATAM,BR,Galaxy S23,Android 12
+gd_01938,APAC,ID,Galaxy A54,Android 12
+gd_01939,EU,FR,Galaxy A54,Android 12
+gd_01940,EU,UK,Pixel 7,Android 13
+gd_01941,NAM,US,Redmi Note 12,Android 12
+gd_01942,LATAM,MX,Galaxy S23,Android 15
+gd_01943,LATAM,BR,Pixel 7,Android 13
+gd_01944,EU,FR,iPhone 13,iOS 18.1
+gd_01945,EU,UK,Redmi Note 12,Android 13
+gd_01946,EU,ES,iPhone 15,iOS 17.2
+gd_01947,NAM,US,iPhone 15,iOS 17.2
+gd_01948,APAC,ID,Pixel 8,Android 14
+gd_01949,APAC,PH,Redmi Note 12,Android 12
+gd_01950,NAM,CA,iPhone 13,iOS 16.4
+gd_01951,APAC,PH,iPhone 13,iOS 17.5
+gd_01952,MEA,ZA,Galaxy A54,Android 15
+gd_01953,NAM,CA,Pixel 8,Android 13
+gd_01954,EU,UK,Galaxy S23,Android 14
+gd_01955,EU,FR,Galaxy A54,Android 12
+gd_01956,NAM,US,iPhone 13,iOS 16.4
+gd_01957,APAC,PH,iPhone 15,iOS 17.2
+gd_01958,APAC,IN,iPhone 13,iOS 16.4
+gd_01959,NAM,CA,Redmi Note 12,Android 13
+gd_01960,NAM,US,Pixel 8,Android 14
+gd_01961,LATAM,MX,iPhone 14,iOS 18.1
+gd_01962,EU,FR,Pixel 8,Android 13
+gd_01963,APAC,IN,Galaxy S23,Android 12
+gd_01964,APAC,ID,Pixel 7,Android 13
+gd_01965,LATAM,AR,Pixel 7,Android 13
+gd_01966,APAC,PH,iPhone 14,iOS 18.1
+gd_01967,LATAM,AR,Galaxy A54,Android 13
+gd_01968,APAC,JP,iPhone 15,iOS 17.5
+gd_01969,EU,DE,Redmi Note 12,Android 13
+gd_01970,EU,DE,Redmi Note 12,Android 15
+gd_01971,EU,DE,iPhone 15,iOS 17.2
+gd_01972,EU,DE,Galaxy A54,Android 13
+gd_01973,NAM,US,iPhone 14,iOS 16.4
+gd_01974,EU,ES,iPhone 15,iOS 18.1
+gd_01975,EU,DE,Redmi Note 12,Android 13
+gd_01976,NAM,US,iPhone 14,iOS 17.5
+gd_01977,EU,FR,iPhone 13,iOS 17.2
+gd_01978,APAC,JP,iPhone 13,iOS 18.1
+gd_01979,APAC,ID,iPhone 14,iOS 16.4
+gd_01980,LATAM,MX,Galaxy A54,Android 13
+gd_01981,APAC,PH,iPhone 14,iOS 17.2
+gd_01982,LATAM,AR,iPhone 15,iOS 17.5
+gd_01983,LATAM,AR,iPhone 14,iOS 17.5
+gd_01984,NAM,CA,Galaxy A54,Android 15
+gd_01985,MEA,ZA,Galaxy A54,Android 15
+gd_01986,NAM,CA,iPhone 15,iOS 16.4
+gd_01987,APAC,PH,iPhone 14,iOS 17.2
+gd_01988,LATAM,AR,Galaxy S23,Android 13
+gd_01989,EU,ES,iPhone 13,iOS 17.5
+gd_01990,APAC,PH,Galaxy A54,Android 13
+gd_01991,EU,FR,Pixel 7,Android 15
+gd_01992,NAM,US,iPhone 14,iOS 17.2
+gd_01993,NAM,US,Galaxy S23,Android 15
+gd_01994,NAM,US,iPhone 13,iOS 16.4
+gd_01995,NAM,CA,iPhone 15,iOS 17.2
+gd_01996,APAC,PH,Pixel 8,Android 12
+gd_01997,APAC,ID,Galaxy S23,Android 15
+gd_01998,EU,DE,Pixel 8,Android 12
+gd_01999,APAC,IN,iPhone 14,iOS 17.2
+gd_02000,NAM,US,iPhone 14,iOS 17.2
+gd_02001,NAM,US,Pixel 7,Android 14
+gd_02002,LATAM,BR,Pixel 7,Android 12
+gd_02003,MEA,ZA,iPhone 15,iOS 16.4
+gd_02004,EU,ES,Pixel 7,Android 12
+gd_02005,NAM,CA,iPhone 14,iOS 18.1
+gd_02006,LATAM,MX,iPhone 13,iOS 16.4
+gd_02007,LATAM,BR,iPhone 14,iOS 17.2
+gd_02008,EU,ES,Galaxy A54,Android 15
+gd_02009,NAM,CA,Galaxy S23,Android 13
+gd_02010,NAM,CA,iPhone 15,iOS 16.4
+gd_02011,APAC,ID,iPhone 13,iOS 16.4
+gd_02012,MEA,AE,iPhone 14,iOS 17.5
+gd_02013,APAC,PH,iPhone 13,iOS 18.1
+gd_02014,EU,FR,iPhone 14,iOS 18.1
+gd_02015,APAC,ID,Pixel 7,Android 13
+gd_02016,LATAM,AR,iPhone 13,iOS 17.2
+gd_02017,EU,ES,iPhone 15,iOS 16.4
+gd_02018,LATAM,BR,Galaxy A54,Android 13
+gd_02019,EU,ES,Pixel 8,Android 15
+gd_02020,EU,FR,iPhone 13,iOS 17.2
+gd_02021,APAC,IN,iPhone 13,iOS 17.5
+gd_02022,EU,ES,Pixel 8,Android 13
+gd_02023,MEA,NG,iPhone 15,iOS 17.2
+gd_02024,APAC,ID,Galaxy A54,Android 14
+gd_02025,EU,UK,iPhone 14,iOS 17.2
+gd_02026,EU,ES,Galaxy S23,Android 12
+gd_02027,APAC,PH,iPhone 14,iOS 17.5
+gd_02028,EU,UK,Galaxy S23,Android 13
+gd_02029,APAC,JP,iPhone 14,iOS 17.2
+gd_02030,EU,UK,iPhone 15,iOS 16.4
+gd_02031,EU,DE,Pixel 8,Android 12
+gd_02032,APAC,JP,Galaxy S23,Android 14
+gd_02033,NAM,US,Pixel 7,Android 13
+gd_02034,APAC,JP,Galaxy S23,Android 14
+gd_02035,APAC,ID,iPhone 15,iOS 18.1
+gd_02036,EU,FR,iPhone 15,iOS 17.2
+gd_02037,APAC,PH,iPhone 14,iOS 18.1
+gd_02038,APAC,IN,Pixel 7,Android 15
+gd_02039,LATAM,AR,Galaxy A54,Android 14
+gd_02040,EU,UK,Galaxy A54,Android 13
+gd_02041,EU,UK,iPhone 15,iOS 17.5
+gd_02042,APAC,ID,Galaxy S23,Android 12
+gd_02043,APAC,ID,Pixel 7,Android 12
+gd_02044,APAC,IN,Redmi Note 12,Android 13
+gd_02045,APAC,ID,Galaxy A54,Android 15
+gd_02046,APAC,PH,Redmi Note 12,Android 13
+gd_02047,NAM,CA,iPhone 13,iOS 17.2
+gd_02048,APAC,JP,iPhone 14,iOS 17.2
+gd_02049,NAM,US,Galaxy S23,Android 12
+gd_02050,EU,UK,Pixel 8,Android 14
+gd_02051,APAC,ID,Redmi Note 12,Android 15
+gd_02052,EU,ES,Pixel 7,Android 12
+gd_02053,EU,ES,Pixel 7,Android 12
+gd_02054,LATAM,BR,Pixel 8,Android 14
+gd_02055,LATAM,MX,Redmi Note 12,Android 15
+gd_02056,APAC,ID,iPhone 13,iOS 16.4
+gd_02057,MEA,NG,iPhone 14,iOS 17.5
+gd_02058,EU,UK,iPhone 13,iOS 17.5
+gd_02059,LATAM,MX,Pixel 8,Android 12
+gd_02060,NAM,CA,iPhone 14,iOS 17.5
+gd_02061,EU,DE,iPhone 13,iOS 17.5
+gd_02062,EU,ES,iPhone 13,iOS 16.4
+gd_02063,NAM,CA,iPhone 14,iOS 16.4
+gd_02064,APAC,JP,iPhone 13,iOS 18.1
+gd_02065,NAM,US,Galaxy S23,Android 15
+gd_02066,APAC,PH,iPhone 14,iOS 17.5
+gd_02067,NAM,US,iPhone 13,iOS 17.2
+gd_02068,NAM,CA,iPhone 13,iOS 17.5
+gd_02069,MEA,NG,Galaxy S23,Android 15
+gd_02070,APAC,JP,Galaxy A54,Android 13
+gd_02071,MEA,NG,Pixel 7,Android 13
+gd_02072,EU,FR,iPhone 14,iOS 17.2
+gd_02073,NAM,CA,Redmi Note 12,Android 15
+gd_02074,APAC,IN,iPhone 14,iOS 17.2
+gd_02075,APAC,IN,Pixel 8,Android 15
+gd_02076,NAM,US,Galaxy A54,Android 15
+gd_02077,LATAM,BR,Galaxy S23,Android 12
+gd_02078,APAC,PH,Pixel 8,Android 14
+gd_02079,APAC,IN,Galaxy A54,Android 15
+gd_02080,EU,UK,Pixel 7,Android 12
+gd_02081,APAC,PH,Galaxy A54,Android 14
+gd_02082,NAM,US,Pixel 8,Android 12
+gd_02083,MEA,NG,Redmi Note 12,Android 12
+gd_02084,EU,ES,iPhone 15,iOS 17.5
+gd_02085,NAM,CA,Redmi Note 12,Android 13
+gd_02086,NAM,CA,iPhone 13,iOS 17.5
+gd_02087,APAC,PH,iPhone 13,iOS 17.2
+gd_02088,MEA,ZA,iPhone 15,iOS 17.5
+gd_02089,LATAM,BR,iPhone 14,iOS 16.4
+gd_02090,APAC,ID,Redmi Note 12,Android 15
+gd_02091,MEA,AE,iPhone 15,iOS 17.5
+gd_02092,APAC,PH,Galaxy S23,Android 14
+gd_02093,EU,UK,iPhone 13,iOS 18.1
+gd_02094,APAC,IN,iPhone 13,iOS 17.5
+gd_02095,NAM,US,iPhone 15,iOS 17.2
+gd_02096,NAM,US,Pixel 7,Android 14
+gd_02097,EU,ES,Pixel 7,Android 12
+gd_02098,NAM,US,iPhone 13,iOS 18.1
+gd_02099,MEA,NG,Redmi Note 12,Android 13
+gd_02100,MEA,ZA,Galaxy A54,Android 14
+gd_02101,EU,UK,Galaxy A54,Android 13
+gd_02102,APAC,PH,iPhone 14,iOS 18.1
+gd_02103,EU,UK,Galaxy S23,Android 15
+gd_02104,NAM,US,Pixel 8,Android 15
+gd_02105,EU,FR,Galaxy S23,Android 15
+gd_02106,NAM,US,iPhone 14,iOS 16.4
+gd_02107,EU,UK,Redmi Note 12,Android 15
+gd_02108,NAM,US,iPhone 15,iOS 17.2
+gd_02109,NAM,CA,Galaxy A54,Android 12
+gd_02110,NAM,CA,Redmi Note 12,Android 13
+gd_02111,LATAM,MX,iPhone 15,iOS 17.2
+gd_02112,NAM,US,iPhone 15,iOS 16.4
+gd_02113,EU,DE,Redmi Note 12,Android 15
+gd_02114,APAC,ID,Pixel 7,Android 15
+gd_02115,EU,DE,iPhone 13,iOS 17.2
+gd_02116,APAC,JP,Galaxy S23,Android 12
+gd_02117,NAM,US,iPhone 13,iOS 17.2
+gd_02118,APAC,JP,Pixel 8,Android 12
+gd_02119,APAC,PH,iPhone 13,iOS 17.5
+gd_02120,APAC,JP,Redmi Note 12,Android 14
+gd_02121,APAC,ID,Galaxy A54,Android 12
+gd_02122,EU,DE,iPhone 13,iOS 18.1
+gd_02123,EU,FR,Galaxy A54,Android 13
+gd_02124,NAM,CA,iPhone 15,iOS 18.1
+gd_02125,APAC,ID,iPhone 13,iOS 16.4
+gd_02126,NAM,US,Redmi Note 12,Android 12
+gd_02127,EU,FR,Redmi Note 12,Android 14
+gd_02128,APAC,JP,iPhone 15,iOS 18.1
+gd_02129,NAM,US,iPhone 13,iOS 17.2
+gd_02130,NAM,CA,iPhone 14,iOS 16.4
+gd_02131,APAC,IN,iPhone 15,iOS 17.5
+gd_02132,EU,FR,Galaxy S23,Android 14
+gd_02133,LATAM,AR,iPhone 14,iOS 17.5
+gd_02134,MEA,ZA,Pixel 8,Android 15
+gd_02135,MEA,NG,iPhone 14,iOS 17.5
+gd_02136,EU,UK,iPhone 15,iOS 18.1
+gd_02137,NAM,US,Pixel 7,Android 14
+gd_02138,APAC,JP,Galaxy A54,Android 12
+gd_02139,APAC,ID,iPhone 15,iOS 16.4
+gd_02140,APAC,PH,iPhone 13,iOS 16.4
+gd_02141,EU,ES,iPhone 15,iOS 17.2
+gd_02142,NAM,CA,Galaxy S23,Android 14
+gd_02143,NAM,US,iPhone 13,iOS 16.4
+gd_02144,NAM,US,iPhone 14,iOS 16.4
+gd_02145,NAM,US,Galaxy S23,Android 14
+gd_02146,MEA,AE,Pixel 8,Android 12
+gd_02147,NAM,US,Galaxy A54,Android 15
+gd_02148,APAC,JP,iPhone 14,iOS 17.2
+gd_02149,MEA,ZA,Pixel 8,Android 13
+gd_02150,EU,UK,iPhone 14,iOS 17.2
+gd_02151,APAC,JP,Galaxy A54,Android 12
+gd_02152,APAC,JP,iPhone 14,iOS 16.4
+gd_02153,EU,FR,Galaxy S23,Android 15
+gd_02154,EU,DE,iPhone 15,iOS 18.1
+gd_02155,LATAM,MX,iPhone 15,iOS 17.5
+gd_02156,APAC,PH,Pixel 8,Android 15
+gd_02157,LATAM,MX,iPhone 15,iOS 16.4
+gd_02158,MEA,NG,Redmi Note 12,Android 14
+gd_02159,EU,DE,Pixel 7,Android 12
+gd_02160,APAC,IN,Galaxy S23,Android 13
+gd_02161,APAC,PH,iPhone 15,iOS 17.5
+gd_02162,APAC,ID,Pixel 7,Android 15
+gd_02163,APAC,IN,iPhone 14,iOS 18.1
+gd_02164,APAC,IN,iPhone 15,iOS 18.1
+gd_02165,LATAM,BR,iPhone 15,iOS 18.1
+gd_02166,EU,UK,iPhone 15,iOS 17.5
+gd_02167,APAC,JP,iPhone 14,iOS 17.5
+gd_02168,EU,FR,iPhone 13,iOS 17.2
+gd_02169,APAC,ID,iPhone 13,iOS 18.1
+gd_02170,APAC,IN,iPhone 15,iOS 18.1
+gd_02171,LATAM,BR,iPhone 15,iOS 18.1
+gd_02172,EU,ES,Pixel 7,Android 15
+gd_02173,APAC,ID,iPhone 13,iOS 16.4
+gd_02174,EU,UK,Pixel 7,Android 15
+gd_02175,NAM,CA,Redmi Note 12,Android 14
+gd_02176,NAM,CA,iPhone 15,iOS 16.4
+gd_02177,MEA,ZA,Redmi Note 12,Android 13
+gd_02178,EU,ES,iPhone 13,iOS 17.2
+gd_02179,MEA,NG,iPhone 15,iOS 16.4
+gd_02180,NAM,US,Redmi Note 12,Android 14
+gd_02181,APAC,PH,iPhone 14,iOS 16.4
+gd_02182,APAC,ID,iPhone 15,iOS 17.5
+gd_02183,APAC,JP,iPhone 14,iOS 16.4
+gd_02184,APAC,IN,iPhone 13,iOS 17.2
+gd_02185,APAC,IN,iPhone 14,iOS 16.4
+gd_02186,LATAM,AR,Pixel 8,Android 14
+gd_02187,APAC,PH,iPhone 13,iOS 16.4
+gd_02188,NAM,US,Galaxy S23,Android 14
+gd_02189,NAM,US,iPhone 15,iOS 17.2
+gd_02190,APAC,JP,Pixel 7,Android 15
+gd_02191,EU,ES,Pixel 8,Android 14
+gd_02192,APAC,JP,Galaxy A54,Android 13
+gd_02193,APAC,JP,Pixel 8,Android 14
+gd_02194,EU,DE,iPhone 13,iOS 17.5
+gd_02195,LATAM,BR,Pixel 7,Android 14
+gd_02196,APAC,PH,iPhone 13,iOS 17.2
+gd_02197,APAC,PH,Redmi Note 12,Android 12
+gd_02198,APAC,ID,Galaxy S23,Android 15
+gd_02199,LATAM,MX,Redmi Note 12,Android 13
+gd_02200,APAC,IN,iPhone 15,iOS 17.5
+gd_02201,MEA,AE,Pixel 8,Android 13
+gd_02202,NAM,US,Redmi Note 12,Android 15
+gd_02203,APAC,ID,Pixel 8,Android 15
+gd_02204,APAC,IN,Pixel 7,Android 13
+gd_02205,EU,FR,Redmi Note 12,Android 13
+gd_02206,EU,UK,Galaxy S23,Android 14
+gd_02207,APAC,JP,Galaxy S23,Android 13
+gd_02208,EU,FR,iPhone 14,iOS 17.2
+gd_02209,MEA,NG,Redmi Note 12,Android 14
+gd_02210,EU,UK,iPhone 13,iOS 17.2
+gd_02211,NAM,US,Redmi Note 12,Android 12
+gd_02212,APAC,IN,iPhone 15,iOS 17.5
+gd_02213,EU,FR,iPhone 15,iOS 17.2
+gd_02214,NAM,US,iPhone 13,iOS 17.5
+gd_02215,APAC,JP,iPhone 13,iOS 16.4
+gd_02216,APAC,PH,iPhone 13,iOS 18.1
+gd_02217,NAM,CA,iPhone 15,iOS 18.1
+gd_02218,APAC,IN,iPhone 14,iOS 18.1
+gd_02219,APAC,ID,iPhone 15,iOS 16.4
+gd_02220,LATAM,MX,Pixel 7,Android 12
+gd_02221,EU,DE,iPhone 14,iOS 17.2
+gd_02222,NAM,US,Pixel 8,Android 14
+gd_02223,MEA,NG,iPhone 15,iOS 16.4
+gd_02224,APAC,PH,iPhone 13,iOS 16.4
+gd_02225,NAM,US,iPhone 14,iOS 17.5
+gd_02226,LATAM,BR,iPhone 15,iOS 18.1
+gd_02227,NAM,US,Redmi Note 12,Android 15
+gd_02228,LATAM,MX,Redmi Note 12,Android 12
+gd_02229,APAC,JP,iPhone 14,iOS 18.1
+gd_02230,MEA,NG,Pixel 7,Android 14
+gd_02231,MEA,ZA,iPhone 13,iOS 17.2
+gd_02232,EU,UK,Galaxy S23,Android 15
+gd_02233,APAC,IN,iPhone 14,iOS 18.1
+gd_02234,EU,UK,iPhone 14,iOS 17.5
+gd_02235,APAC,IN,iPhone 13,iOS 17.5
+gd_02236,APAC,IN,iPhone 15,iOS 16.4
+gd_02237,NAM,CA,Pixel 8,Android 13
+gd_02238,NAM,CA,Pixel 7,Android 12
+gd_02239,NAM,CA,Redmi Note 12,Android 13
+gd_02240,NAM,CA,Pixel 8,Android 13
+gd_02241,NAM,US,iPhone 13,iOS 16.4
+gd_02242,LATAM,AR,Galaxy S23,Android 15
+gd_02243,APAC,IN,Redmi Note 12,Android 12
+gd_02244,LATAM,MX,Redmi Note 12,Android 13
+gd_02245,LATAM,AR,iPhone 13,iOS 16.4
+gd_02246,APAC,JP,Galaxy A54,Android 14
+gd_02247,EU,DE,Galaxy A54,Android 13
+gd_02248,LATAM,MX,iPhone 15,iOS 17.5
+gd_02249,APAC,PH,Redmi Note 12,Android 15
+gd_02250,APAC,IN,Galaxy A54,Android 13
+gd_02251,LATAM,MX,Galaxy A54,Android 15
+gd_02252,APAC,IN,Pixel 8,Android 14
+gd_02253,APAC,IN,iPhone 15,iOS 17.2
+gd_02254,LATAM,AR,Redmi Note 12,Android 15
+gd_02255,EU,DE,Redmi Note 12,Android 13
+gd_02256,LATAM,BR,iPhone 15,iOS 17.2
+gd_02257,NAM,US,Galaxy A54,Android 14
+gd_02258,NAM,US,iPhone 15,iOS 18.1
+gd_02259,APAC,PH,Galaxy A54,Android 14
+gd_02260,NAM,CA,iPhone 13,iOS 17.2
+gd_02261,MEA,ZA,iPhone 13,iOS 17.5
+gd_02262,NAM,US,iPhone 15,iOS 17.5
+gd_02263,APAC,PH,iPhone 14,iOS 18.1
+gd_02264,NAM,CA,Redmi Note 12,Android 13
+gd_02265,MEA,NG,iPhone 13,iOS 17.2
+gd_02266,EU,FR,Pixel 8,Android 13
+gd_02267,NAM,CA,iPhone 15,iOS 16.4
+gd_02268,NAM,US,iPhone 14,iOS 17.5
+gd_02269,APAC,PH,Galaxy A54,Android 13
+gd_02270,MEA,NG,iPhone 13,iOS 17.5
+gd_02271,MEA,ZA,iPhone 14,iOS 18.1
+gd_02272,EU,UK,Galaxy S23,Android 12
+gd_02273,EU,FR,iPhone 15,iOS 17.2
+gd_02274,NAM,CA,Galaxy S23,Android 15
+gd_02275,APAC,PH,Pixel 7,Android 14
+gd_02276,APAC,IN,Galaxy A54,Android 15
+gd_02277,NAM,US,iPhone 15,iOS 18.1
+gd_02278,APAC,PH,iPhone 15,iOS 17.5
+gd_02279,LATAM,BR,Pixel 7,Android 15
+gd_02280,NAM,CA,Redmi Note 12,Android 13
+gd_02281,NAM,US,Pixel 8,Android 14
+gd_02282,NAM,US,iPhone 15,iOS 17.2
+gd_02283,NAM,US,Galaxy A54,Android 14
+gd_02284,NAM,CA,Redmi Note 12,Android 12
+gd_02285,APAC,PH,Pixel 8,Android 14
+gd_02286,NAM,US,Galaxy A54,Android 14
+gd_02287,APAC,ID,iPhone 15,iOS 16.4
+gd_02288,LATAM,BR,iPhone 13,iOS 16.4
+gd_02289,MEA,NG,iPhone 15,iOS 16.4
+gd_02290,APAC,PH,Pixel 7,Android 13
+gd_02291,NAM,CA,Redmi Note 12,Android 15
+gd_02292,NAM,US,iPhone 13,iOS 16.4
+gd_02293,NAM,US,iPhone 13,iOS 17.2
+gd_02294,MEA,ZA,iPhone 14,iOS 18.1
+gd_02295,MEA,NG,iPhone 13,iOS 18.1
+gd_02296,EU,DE,iPhone 13,iOS 16.4
+gd_02297,EU,UK,Pixel 7,Android 12
+gd_02298,APAC,PH,Pixel 8,Android 15
+gd_02299,EU,UK,iPhone 14,iOS 17.2
+gd_02300,MEA,NG,iPhone 13,iOS 16.4
+gd_02301,NAM,US,iPhone 13,iOS 17.2
+gd_02302,EU,FR,iPhone 14,iOS 17.2
+gd_02303,EU,DE,iPhone 13,iOS 18.1
+gd_02304,NAM,CA,iPhone 15,iOS 16.4
+gd_02305,EU,DE,iPhone 15,iOS 17.5
+gd_02306,LATAM,MX,iPhone 13,iOS 16.4
+gd_02307,NAM,US,Redmi Note 12,Android 13
+gd_02308,APAC,PH,iPhone 15,iOS 18.1
+gd_02309,EU,UK,iPhone 15,iOS 16.4
+gd_02310,NAM,US,iPhone 14,iOS 16.4
+gd_02311,NAM,US,iPhone 13,iOS 18.1
+gd_02312,EU,FR,Redmi Note 12,Android 12
+gd_02313,NAM,CA,iPhone 14,iOS 17.2
+gd_02314,EU,FR,iPhone 13,iOS 17.5
+gd_02315,LATAM,BR,Pixel 7,Android 12
+gd_02316,APAC,PH,iPhone 13,iOS 18.1
+gd_02317,MEA,NG,iPhone 14,iOS 16.4
+gd_02318,EU,ES,iPhone 14,iOS 18.1
+gd_02319,APAC,PH,iPhone 14,iOS 17.2
+gd_02320,APAC,ID,Redmi Note 12,Android 15
+gd_02321,NAM,CA,Redmi Note 12,Android 14
+gd_02322,EU,DE,iPhone 15,iOS 17.5
+gd_02323,APAC,JP,iPhone 14,iOS 17.2
+gd_02324,LATAM,BR,iPhone 15,iOS 17.2
+gd_02325,EU,FR,Pixel 8,Android 13
+gd_02326,NAM,CA,Galaxy S23,Android 15
+gd_02327,MEA,AE,iPhone 14,iOS 17.5
+gd_02328,NAM,CA,Pixel 8,Android 13
+gd_02329,MEA,NG,iPhone 15,iOS 17.2
+gd_02330,LATAM,BR,Pixel 8,Android 15
+gd_02331,LATAM,AR,iPhone 13,iOS 17.5
+gd_02332,LATAM,AR,iPhone 13,iOS 16.4
+gd_02333,NAM,US,Redmi Note 12,Android 15
+gd_02334,APAC,JP,Pixel 8,Android 15
+gd_02335,APAC,JP,iPhone 13,iOS 18.1
+gd_02336,APAC,PH,Redmi Note 12,Android 15
+gd_02337,NAM,CA,iPhone 13,iOS 17.2
+gd_02338,NAM,US,iPhone 13,iOS 17.5
+gd_02339,EU,UK,Redmi Note 12,Android 12
+gd_02340,EU,UK,Pixel 8,Android 12
+gd_02341,APAC,JP,iPhone 13,iOS 18.1
+gd_02342,LATAM,AR,Galaxy S23,Android 14
+gd_02343,APAC,JP,Galaxy A54,Android 14
+gd_02344,APAC,IN,iPhone 15,iOS 16.4
+gd_02345,NAM,CA,Pixel 7,Android 15
+gd_02346,EU,DE,iPhone 13,iOS 17.2
+gd_02347,EU,DE,Galaxy A54,Android 12
+gd_02348,NAM,CA,iPhone 14,iOS 18.1
+gd_02349,NAM,US,iPhone 14,iOS 18.1
+gd_02350,EU,FR,iPhone 14,iOS 17.2
+gd_02351,NAM,US,iPhone 15,iOS 17.5
+gd_02352,APAC,ID,iPhone 13,iOS 16.4
+gd_02353,NAM,CA,Redmi Note 12,Android 15
+gd_02354,NAM,CA,iPhone 15,iOS 17.2
+gd_02355,NAM,CA,iPhone 15,iOS 18.1
+gd_02356,APAC,ID,iPhone 14,iOS 17.2
+gd_02357,APAC,PH,iPhone 14,iOS 17.2
+gd_02358,EU,ES,iPhone 14,iOS 18.1
+gd_02359,NAM,US,Pixel 7,Android 15
+gd_02360,MEA,ZA,iPhone 13,iOS 18.1
+gd_02361,APAC,ID,Galaxy A54,Android 15
+gd_02362,APAC,JP,Galaxy S23,Android 14
+gd_02363,APAC,PH,iPhone 14,iOS 18.1
+gd_02364,LATAM,MX,Galaxy S23,Android 15
+gd_02365,LATAM,AR,iPhone 13,iOS 17.5
+gd_02366,EU,UK,Redmi Note 12,Android 12
+gd_02367,APAC,JP,Redmi Note 12,Android 13
+gd_02368,NAM,CA,Pixel 8,Android 12
+gd_02369,APAC,ID,Pixel 8,Android 14
+gd_02370,EU,ES,iPhone 14,iOS 17.2
+gd_02371,NAM,US,iPhone 13,iOS 18.1
+gd_02372,MEA,NG,Pixel 7,Android 13
+gd_02373,LATAM,AR,iPhone 15,iOS 17.5
+gd_02374,EU,FR,Pixel 7,Android 14
+gd_02375,MEA,AE,iPhone 14,iOS 17.5
+gd_02376,EU,ES,iPhone 15,iOS 17.5
+gd_02377,EU,DE,iPhone 15,iOS 17.5
+gd_02378,LATAM,BR,Pixel 8,Android 13
+gd_02379,EU,ES,iPhone 13,iOS 16.4
+gd_02380,EU,UK,iPhone 15,iOS 17.2
+gd_02381,APAC,JP,Galaxy S23,Android 14
+gd_02382,NAM,US,iPhone 15,iOS 17.2
+gd_02383,EU,ES,iPhone 14,iOS 16.4
+gd_02384,EU,ES,iPhone 13,iOS 17.5
+gd_02385,APAC,ID,iPhone 13,iOS 18.1
+gd_02386,NAM,CA,iPhone 15,iOS 16.4
+gd_02387,NAM,US,Galaxy A54,Android 14
+gd_02388,APAC,ID,iPhone 15,iOS 16.4
+gd_02389,NAM,CA,iPhone 13,iOS 18.1
+gd_02390,EU,DE,iPhone 13,iOS 17.2
+gd_02391,APAC,PH,iPhone 13,iOS 17.5
+gd_02392,APAC,JP,iPhone 15,iOS 16.4
+gd_02393,NAM,CA,Pixel 7,Android 15
+gd_02394,LATAM,MX,Redmi Note 12,Android 15
+gd_02395,APAC,PH,iPhone 13,iOS 17.2
+gd_02396,EU,DE,iPhone 14,iOS 17.2
+gd_02397,APAC,ID,Pixel 8,Android 15
+gd_02398,APAC,ID,iPhone 14,iOS 18.1
+gd_02399,APAC,IN,iPhone 15,iOS 16.4
+gd_02400,APAC,IN,iPhone 13,iOS 17.2
+gd_02401,APAC,ID,iPhone 14,iOS 18.1
+gd_02402,MEA,NG,Pixel 7,Android 12
+gd_02403,APAC,PH,Pixel 7,Android 13
+gd_02404,LATAM,AR,iPhone 15,iOS 17.2
+gd_02405,APAC,ID,iPhone 14,iOS 17.5
+gd_02406,LATAM,MX,iPhone 14,iOS 17.5
+gd_02407,MEA,NG,Pixel 8,Android 12
+gd_02408,NAM,US,iPhone 13,iOS 17.5
+gd_02409,NAM,CA,iPhone 14,iOS 17.2
+gd_02410,APAC,PH,Pixel 7,Android 14
+gd_02411,EU,ES,Redmi Note 12,Android 12
+gd_02412,APAC,IN,iPhone 13,iOS 18.1
+gd_02413,LATAM,AR,iPhone 15,iOS 17.2
+gd_02414,MEA,AE,iPhone 13,iOS 16.4
+gd_02415,EU,FR,Galaxy A54,Android 14
+gd_02416,APAC,IN,Pixel 8,Android 15
+gd_02417,NAM,US,Pixel 8,Android 12
+gd_02418,APAC,ID,iPhone 14,iOS 16.4
+gd_02419,NAM,CA,iPhone 13,iOS 18.1
+gd_02420,APAC,ID,iPhone 13,iOS 17.5
+gd_02421,APAC,IN,iPhone 15,iOS 16.4
+gd_02422,APAC,PH,iPhone 14,iOS 17.2
+gd_02423,APAC,IN,iPhone 14,iOS 18.1
+gd_02424,EU,ES,iPhone 14,iOS 18.1
+gd_02425,NAM,CA,Galaxy A54,Android 12
+gd_02426,NAM,US,Galaxy A54,Android 13
+gd_02427,MEA,NG,iPhone 15,iOS 17.5
+gd_02428,MEA,NG,iPhone 14,iOS 17.5
+gd_02429,EU,FR,Pixel 8,Android 13
+gd_02430,NAM,CA,iPhone 13,iOS 17.2
+gd_02431,EU,UK,iPhone 15,iOS 16.4
+gd_02432,APAC,JP,Galaxy S23,Android 14
+gd_02433,EU,FR,iPhone 14,iOS 17.2
+gd_02434,NAM,CA,iPhone 15,iOS 16.4
+gd_02435,EU,ES,Pixel 8,Android 13
+gd_02436,NAM,CA,Pixel 8,Android 12
+gd_02437,EU,FR,iPhone 13,iOS 17.2
+gd_02438,NAM,US,Pixel 7,Android 14
+gd_02439,APAC,ID,iPhone 14,iOS 17.2
+gd_02440,APAC,IN,Galaxy S23,Android 13
+gd_02441,NAM,CA,Pixel 8,Android 13
+gd_02442,APAC,ID,Pixel 8,Android 14
+gd_02443,EU,ES,Galaxy A54,Android 13
+gd_02444,LATAM,AR,Pixel 7,Android 13
+gd_02445,MEA,NG,iPhone 15,iOS 16.4
+gd_02446,NAM,CA,Redmi Note 12,Android 15
+gd_02447,LATAM,MX,iPhone 14,iOS 17.2
+gd_02448,APAC,ID,iPhone 14,iOS 17.5
+gd_02449,APAC,JP,iPhone 14,iOS 18.1
+gd_02450,EU,DE,iPhone 13,iOS 17.5
+gd_02451,EU,DE,Galaxy A54,Android 12
+gd_02452,NAM,CA,iPhone 14,iOS 16.4
+gd_02453,MEA,AE,iPhone 14,iOS 18.1
+gd_02454,APAC,PH,iPhone 13,iOS 17.5
+gd_02455,EU,UK,Redmi Note 12,Android 13
+gd_02456,APAC,ID,Pixel 8,Android 12
+gd_02457,NAM,CA,Pixel 7,Android 14
+gd_02458,NAM,CA,iPhone 15,iOS 17.2
+gd_02459,APAC,JP,Redmi Note 12,Android 15
+gd_02460,APAC,IN,iPhone 14,iOS 18.1
+gd_02461,LATAM,MX,iPhone 13,iOS 17.5
+gd_02462,APAC,PH,Redmi Note 12,Android 12
+gd_02463,APAC,ID,iPhone 13,iOS 17.2
+gd_02464,LATAM,MX,Pixel 8,Android 14
+gd_02465,NAM,US,iPhone 15,iOS 17.5
+gd_02466,APAC,JP,Pixel 8,Android 15
+gd_02467,APAC,IN,iPhone 13,iOS 17.2
+gd_02468,EU,DE,Galaxy A54,Android 14
+gd_02469,NAM,CA,iPhone 13,iOS 18.1
+gd_02470,NAM,CA,Redmi Note 12,Android 12
+gd_02471,NAM,US,Pixel 7,Android 14
+gd_02472,APAC,ID,iPhone 15,iOS 17.2
+gd_02473,NAM,US,iPhone 15,iOS 17.5
+gd_02474,APAC,ID,Pixel 8,Android 15
+gd_02475,NAM,CA,iPhone 14,iOS 17.2
+gd_02476,NAM,US,iPhone 15,iOS 16.4
+gd_02477,EU,DE,Pixel 7,Android 12
+gd_02478,NAM,US,iPhone 15,iOS 16.4
+gd_02479,MEA,NG,Galaxy S23,Android 15
+gd_02480,EU,FR,Redmi Note 12,Android 15
+gd_02481,NAM,CA,iPhone 13,iOS 17.2
+gd_02482,NAM,CA,iPhone 15,iOS 17.2
+gd_02483,EU,FR,Redmi Note 12,Android 14
+gd_02484,APAC,JP,Pixel 8,Android 12
+gd_02485,LATAM,MX,Pixel 7,Android 14
+gd_02486,EU,FR,Pixel 8,Android 15
+gd_02487,APAC,IN,iPhone 14,iOS 18.1
+gd_02488,EU,DE,iPhone 14,iOS 17.5
+gd_02489,LATAM,AR,Galaxy S23,Android 12
+gd_02490,APAC,IN,Redmi Note 12,Android 13
+gd_02491,EU,ES,iPhone 14,iOS 18.1
+gd_02492,APAC,JP,iPhone 14,iOS 17.5
+gd_02493,LATAM,MX,iPhone 15,iOS 17.5
+gd_02494,EU,UK,Redmi Note 12,Android 12
+gd_02495,MEA,NG,iPhone 14,iOS 18.1
+gd_02496,LATAM,BR,iPhone 13,iOS 18.1
+gd_02497,NAM,CA,iPhone 15,iOS 16.4
+gd_02498,LATAM,BR,Galaxy S23,Android 15
+gd_02499,APAC,PH,Galaxy S23,Android 13
+gd_02500,APAC,IN,Galaxy A54,Android 15
+gd_02501,APAC,PH,Galaxy A54,Android 14
+gd_02502,LATAM,MX,Redmi Note 12,Android 12
+gd_02503,APAC,IN,iPhone 14,iOS 17.5
+gd_02504,APAC,JP,Galaxy A54,Android 13
+gd_02505,NAM,CA,Pixel 8,Android 12
+gd_02506,EU,UK,Redmi Note 12,Android 15
+gd_02507,LATAM,AR,iPhone 13,iOS 17.2
+gd_02508,APAC,PH,iPhone 15,iOS 16.4
+gd_02509,NAM,CA,iPhone 13,iOS 17.2
+gd_02510,LATAM,MX,iPhone 15,iOS 17.2
+gd_02511,LATAM,BR,Redmi Note 12,Android 13
+gd_02512,APAC,ID,iPhone 15,iOS 17.2
+gd_02513,NAM,CA,iPhone 15,iOS 17.2
+gd_02514,APAC,JP,iPhone 14,iOS 18.1
+gd_02515,NAM,CA,Pixel 8,Android 14
+gd_02516,EU,ES,iPhone 15,iOS 18.1
+gd_02517,APAC,ID,iPhone 14,iOS 17.5
+gd_02518,MEA,ZA,iPhone 15,iOS 17.5
+gd_02519,EU,ES,Galaxy A54,Android 14
+gd_02520,LATAM,MX,iPhone 15,iOS 18.1
+gd_02521,MEA,AE,iPhone 14,iOS 17.5
+gd_02522,NAM,CA,Galaxy S23,Android 14
+gd_02523,NAM,CA,iPhone 14,iOS 17.5
+gd_02524,APAC,PH,iPhone 14,iOS 17.5
+gd_02525,APAC,JP,Galaxy A54,Android 14
+gd_02526,EU,ES,iPhone 13,iOS 17.5
+gd_02527,APAC,ID,Pixel 8,Android 12
+gd_02528,APAC,JP,Pixel 7,Android 13
+gd_02529,APAC,PH,iPhone 14,iOS 17.2
+gd_02530,APAC,IN,iPhone 15,iOS 17.2
+gd_02531,NAM,CA,Pixel 8,Android 14
+gd_02532,NAM,CA,iPhone 15,iOS 17.5
+gd_02533,NAM,CA,iPhone 13,iOS 17.5
+gd_02534,MEA,NG,Redmi Note 12,Android 12
+gd_02535,MEA,AE,iPhone 15,iOS 16.4
+gd_02536,LATAM,BR,iPhone 15,iOS 16.4
+gd_02537,NAM,US,iPhone 15,iOS 18.1
+gd_02538,APAC,PH,Pixel 8,Android 15
+gd_02539,NAM,CA,Redmi Note 12,Android 12
+gd_02540,EU,FR,Galaxy A54,Android 12
+gd_02541,NAM,US,Pixel 7,Android 12
+gd_02542,LATAM,MX,Redmi Note 12,Android 14
+gd_02543,NAM,CA,Galaxy A54,Android 14
+gd_02544,APAC,JP,iPhone 13,iOS 16.4
+gd_02545,MEA,NG,Redmi Note 12,Android 12
+gd_02546,APAC,PH,Pixel 8,Android 12
+gd_02547,NAM,CA,iPhone 14,iOS 17.2
+gd_02548,LATAM,MX,Galaxy A54,Android 15
+gd_02549,APAC,IN,iPhone 15,iOS 17.5
+gd_02550,EU,FR,Galaxy S23,Android 14
+gd_02551,APAC,JP,iPhone 15,iOS 16.4
+gd_02552,LATAM,MX,Pixel 8,Android 12
+gd_02553,EU,UK,Redmi Note 12,Android 13
+gd_02554,APAC,PH,Pixel 8,Android 12
+gd_02555,EU,ES,iPhone 15,iOS 16.4
+gd_02556,NAM,US,iPhone 15,iOS 16.4
+gd_02557,LATAM,MX,Galaxy A54,Android 12
+gd_02558,NAM,US,Pixel 7,Android 14
+gd_02559,EU,ES,Galaxy S23,Android 12
+gd_02560,EU,UK,iPhone 13,iOS 16.4
+gd_02561,EU,DE,Redmi Note 12,Android 14
+gd_02562,EU,DE,iPhone 14,iOS 18.1
+gd_02563,APAC,ID,iPhone 15,iOS 16.4
+gd_02564,EU,FR,iPhone 15,iOS 17.5
+gd_02565,NAM,CA,iPhone 13,iOS 17.2
+gd_02566,LATAM,AR,Galaxy A54,Android 15
+gd_02567,MEA,AE,Pixel 8,Android 15
+gd_02568,EU,UK,iPhone 13,iOS 16.4
+gd_02569,EU,ES,Pixel 8,Android 12
+gd_02570,NAM,US,iPhone 14,iOS 16.4
+gd_02571,NAM,CA,iPhone 15,iOS 18.1
+gd_02572,EU,DE,iPhone 15,iOS 17.2
+gd_02573,MEA,AE,Pixel 8,Android 13
+gd_02574,APAC,ID,iPhone 13,iOS 16.4
+gd_02575,EU,DE,Pixel 8,Android 15
+gd_02576,MEA,ZA,iPhone 15,iOS 17.2
+gd_02577,EU,FR,iPhone 14,iOS 17.5
+gd_02578,EU,DE,Pixel 7,Android 15
+gd_02579,EU,ES,Pixel 7,Android 15
+gd_02580,NAM,US,iPhone 13,iOS 16.4
+gd_02581,LATAM,AR,iPhone 15,iOS 16.4
+gd_02582,EU,DE,Galaxy S23,Android 14
+gd_02583,APAC,ID,Galaxy S23,Android 15
+gd_02584,EU,UK,iPhone 15,iOS 18.1
+gd_02585,LATAM,AR,iPhone 13,iOS 17.2
+gd_02586,APAC,IN,iPhone 13,iOS 17.2
+gd_02587,EU,DE,iPhone 13,iOS 17.5
+gd_02588,NAM,CA,Pixel 8,Android 13
+gd_02589,LATAM,MX,iPhone 15,iOS 16.4
+gd_02590,APAC,JP,Redmi Note 12,Android 13
+gd_02591,EU,ES,Galaxy A54,Android 14
+gd_02592,LATAM,AR,iPhone 15,iOS 17.2
+gd_02593,NAM,CA,Galaxy S23,Android 15
+gd_02594,EU,FR,Pixel 8,Android 15
+gd_02595,APAC,ID,iPhone 13,iOS 17.5
+gd_02596,EU,UK,iPhone 13,iOS 16.4
+gd_02597,EU,DE,iPhone 15,iOS 17.5
+gd_02598,NAM,CA,iPhone 14,iOS 17.5
+gd_02599,NAM,US,iPhone 15,iOS 17.5
+gd_02600,NAM,CA,Pixel 8,Android 15
+gd_02601,NAM,US,iPhone 15,iOS 17.2
+gd_02602,MEA,ZA,iPhone 13,iOS 17.5
+gd_02603,APAC,ID,Galaxy S23,Android 14
+gd_02604,EU,UK,iPhone 14,iOS 16.4
+gd_02605,EU,ES,iPhone 15,iOS 16.4
+gd_02606,APAC,ID,iPhone 14,iOS 17.5
+gd_02607,NAM,US,Galaxy A54,Android 15
+gd_02608,EU,DE,Galaxy S23,Android 14
+gd_02609,APAC,ID,Galaxy S23,Android 15
+gd_02610,EU,ES,Redmi Note 12,Android 14
+gd_02611,APAC,JP,iPhone 15,iOS 16.4
+gd_02612,LATAM,BR,iPhone 13,iOS 18.1
+gd_02613,LATAM,BR,Redmi Note 12,Android 12
+gd_02614,NAM,US,iPhone 14,iOS 17.2
+gd_02615,NAM,US,Galaxy A54,Android 15
+gd_02616,NAM,CA,Galaxy S23,Android 12
+gd_02617,LATAM,AR,Galaxy A54,Android 14
+gd_02618,MEA,AE,iPhone 15,iOS 17.5
+gd_02619,MEA,ZA,Galaxy S23,Android 13
+gd_02620,EU,UK,iPhone 15,iOS 16.4
+gd_02621,LATAM,MX,iPhone 14,iOS 16.4
+gd_02622,APAC,ID,Galaxy A54,Android 13
+gd_02623,LATAM,MX,iPhone 13,iOS 16.4
+gd_02624,APAC,IN,iPhone 15,iOS 17.5
+gd_02625,NAM,US,Galaxy S23,Android 14
+gd_02626,NAM,CA,iPhone 14,iOS 18.1
+gd_02627,MEA,ZA,iPhone 14,iOS 18.1
+gd_02628,EU,DE,iPhone 15,iOS 17.5
+gd_02629,EU,UK,Pixel 8,Android 13
+gd_02630,EU,UK,Pixel 7,Android 15
+gd_02631,EU,DE,Redmi Note 12,Android 13
+gd_02632,MEA,ZA,iPhone 14,iOS 17.5
+gd_02633,NAM,CA,iPhone 13,iOS 18.1
+gd_02634,NAM,CA,iPhone 13,iOS 16.4
+gd_02635,LATAM,MX,iPhone 15,iOS 17.2
+gd_02636,APAC,ID,iPhone 13,iOS 17.5
+gd_02637,NAM,US,iPhone 13,iOS 18.1
+gd_02638,NAM,CA,Galaxy S23,Android 15
+gd_02639,NAM,US,Pixel 7,Android 14
+gd_02640,NAM,CA,iPhone 14,iOS 16.4
+gd_02641,NAM,CA,iPhone 13,iOS 17.5
+gd_02642,NAM,US,iPhone 15,iOS 16.4
+gd_02643,APAC,IN,iPhone 14,iOS 16.4
+gd_02644,LATAM,BR,iPhone 13,iOS 17.5
+gd_02645,LATAM,AR,Galaxy S23,Android 15
+gd_02646,EU,DE,iPhone 13,iOS 17.2
+gd_02647,EU,DE,Pixel 8,Android 13
+gd_02648,MEA,AE,iPhone 13,iOS 18.1
+gd_02649,APAC,PH,Galaxy A54,Android 12
+gd_02650,APAC,ID,Redmi Note 12,Android 14
+gd_02651,NAM,US,Galaxy S23,Android 14
+gd_02652,EU,ES,Pixel 7,Android 14
+gd_02653,APAC,IN,iPhone 13,iOS 18.1
+gd_02654,APAC,PH,iPhone 15,iOS 16.4
+gd_02655,NAM,CA,Pixel 8,Android 15
+gd_02656,MEA,ZA,Pixel 8,Android 15
+gd_02657,APAC,IN,Pixel 7,Android 14
+gd_02658,APAC,JP,iPhone 14,iOS 18.1
+gd_02659,NAM,CA,iPhone 13,iOS 17.5
+gd_02660,APAC,IN,iPhone 15,iOS 17.2
+gd_02661,APAC,JP,iPhone 13,iOS 17.5
+gd_02662,NAM,CA,iPhone 13,iOS 17.5
+gd_02663,APAC,JP,iPhone 15,iOS 17.5
+gd_02664,APAC,JP,Pixel 8,Android 15
+gd_02665,LATAM,BR,Galaxy A54,Android 13
+gd_02666,NAM,CA,iPhone 13,iOS 17.2
+gd_02667,LATAM,AR,Redmi Note 12,Android 13
+gd_02668,EU,UK,Pixel 8,Android 13
+gd_02669,NAM,US,Galaxy A54,Android 12
+gd_02670,NAM,CA,Redmi Note 12,Android 15
+gd_02671,NAM,CA,Galaxy S23,Android 15
+gd_02672,EU,UK,iPhone 14,iOS 18.1
+gd_02673,EU,FR,iPhone 13,iOS 18.1
+gd_02674,APAC,JP,iPhone 15,iOS 17.2
+gd_02675,NAM,CA,Pixel 7,Android 14
+gd_02676,MEA,AE,Pixel 7,Android 15
+gd_02677,NAM,CA,Galaxy A54,Android 13
+gd_02678,APAC,ID,iPhone 13,iOS 17.2
+gd_02679,MEA,AE,Pixel 8,Android 12
+gd_02680,LATAM,AR,Galaxy A54,Android 14
+gd_02681,APAC,JP,iPhone 13,iOS 16.4
+gd_02682,APAC,PH,Redmi Note 12,Android 12
+gd_02683,NAM,US,Redmi Note 12,Android 13
+gd_02684,NAM,CA,Pixel 7,Android 12
+gd_02685,EU,FR,Pixel 7,Android 13
+gd_02686,NAM,CA,Redmi Note 12,Android 15
+gd_02687,EU,DE,iPhone 13,iOS 16.4
+gd_02688,NAM,US,Galaxy S23,Android 12
+gd_02689,MEA,ZA,Redmi Note 12,Android 14
+gd_02690,LATAM,AR,Galaxy S23,Android 14
+gd_02691,LATAM,AR,iPhone 13,iOS 18.1
+gd_02692,APAC,ID,Pixel 7,Android 15
+gd_02693,NAM,US,iPhone 14,iOS 17.5
+gd_02694,NAM,CA,iPhone 14,iOS 18.1
+gd_02695,APAC,JP,Pixel 7,Android 14
+gd_02696,APAC,JP,iPhone 14,iOS 18.1
+gd_02697,EU,UK,iPhone 14,iOS 17.5
+gd_02698,EU,ES,Pixel 8,Android 12
+gd_02699,EU,DE,Redmi Note 12,Android 12
+gd_02700,NAM,CA,Redmi Note 12,Android 15
+gd_02701,EU,ES,Galaxy A54,Android 12
+gd_02702,EU,FR,iPhone 14,iOS 17.2
+gd_02703,APAC,IN,iPhone 14,iOS 16.4
+gd_02704,MEA,NG,Pixel 7,Android 15
+gd_02705,APAC,JP,iPhone 13,iOS 18.1
+gd_02706,APAC,PH,iPhone 13,iOS 17.2
+gd_02707,LATAM,MX,iPhone 14,iOS 17.2
+gd_02708,NAM,CA,iPhone 14,iOS 16.4
+gd_02709,APAC,PH,iPhone 14,iOS 17.2
+gd_02710,EU,UK,Pixel 8,Android 14
+gd_02711,APAC,IN,Pixel 8,Android 13
+gd_02712,NAM,US,Galaxy A54,Android 12
+gd_02713,LATAM,AR,iPhone 13,iOS 16.4
+gd_02714,MEA,ZA,Pixel 7,Android 13
+gd_02715,NAM,US,Galaxy A54,Android 15
+gd_02716,NAM,CA,Galaxy S23,Android 15
+gd_02717,NAM,US,iPhone 15,iOS 18.1
+gd_02718,LATAM,BR,Galaxy A54,Android 12
+gd_02719,APAC,ID,iPhone 15,iOS 17.5
+gd_02720,NAM,US,Galaxy A54,Android 15
+gd_02721,LATAM,MX,Redmi Note 12,Android 15
+gd_02722,EU,FR,iPhone 13,iOS 17.2
+gd_02723,EU,FR,iPhone 14,iOS 18.1
+gd_02724,EU,FR,iPhone 15,iOS 17.2
+gd_02725,APAC,IN,Galaxy A54,Android 12
+gd_02726,EU,ES,iPhone 14,iOS 17.5
+gd_02727,EU,DE,Redmi Note 12,Android 13
+gd_02728,EU,DE,Pixel 8,Android 15
+gd_02729,LATAM,MX,Pixel 7,Android 14
+gd_02730,APAC,IN,iPhone 15,iOS 17.2
+gd_02731,MEA,AE,iPhone 14,iOS 17.2
+gd_02732,APAC,ID,Pixel 7,Android 14
+gd_02733,APAC,IN,iPhone 13,iOS 16.4
+gd_02734,EU,ES,iPhone 13,iOS 18.1
+gd_02735,LATAM,MX,Redmi Note 12,Android 15
+gd_02736,NAM,US,iPhone 15,iOS 18.1
+gd_02737,NAM,US,iPhone 15,iOS 16.4
+gd_02738,NAM,CA,Pixel 7,Android 15
+gd_02739,NAM,CA,Redmi Note 12,Android 13
+gd_02740,MEA,AE,iPhone 14,iOS 17.5
+gd_02741,MEA,NG,Pixel 8,Android 12
+gd_02742,APAC,IN,Galaxy A54,Android 12
+gd_02743,NAM,CA,Redmi Note 12,Android 12
+gd_02744,LATAM,BR,Galaxy S23,Android 15
+gd_02745,APAC,JP,Pixel 7,Android 14
+gd_02746,EU,ES,iPhone 15,iOS 17.5
+gd_02747,APAC,IN,Pixel 7,Android 15
+gd_02748,APAC,IN,Pixel 7,Android 15
+gd_02749,NAM,CA,iPhone 14,iOS 16.4
+gd_02750,APAC,ID,iPhone 15,iOS 17.5
+gd_02751,APAC,ID,Galaxy A54,Android 12
+gd_02752,NAM,US,Redmi Note 12,Android 15
+gd_02753,EU,DE,Redmi Note 12,Android 13
+gd_02754,APAC,IN,Pixel 7,Android 12
+gd_02755,APAC,IN,iPhone 13,iOS 17.5
+gd_02756,MEA,ZA,iPhone 15,iOS 16.4
+gd_02757,LATAM,BR,Pixel 8,Android 15
+gd_02758,APAC,PH,Galaxy A54,Android 12
+gd_02759,APAC,PH,iPhone 14,iOS 18.1
+gd_02760,APAC,PH,Galaxy S23,Android 15
+gd_02761,APAC,IN,iPhone 13,iOS 17.2
+gd_02762,NAM,US,iPhone 14,iOS 17.5
+gd_02763,APAC,ID,Redmi Note 12,Android 14
+gd_02764,APAC,JP,iPhone 15,iOS 17.5
+gd_02765,APAC,IN,Pixel 8,Android 15
+gd_02766,LATAM,BR,Galaxy A54,Android 14
+gd_02767,APAC,PH,iPhone 13,iOS 16.4
+gd_02768,EU,DE,iPhone 14,iOS 18.1
+gd_02769,NAM,CA,Galaxy S23,Android 14
+gd_02770,NAM,US,iPhone 15,iOS 18.1
+gd_02771,EU,ES,iPhone 15,iOS 17.2
+gd_02772,EU,FR,iPhone 13,iOS 16.4
+gd_02773,NAM,CA,iPhone 15,iOS 16.4
+gd_02774,NAM,CA,iPhone 15,iOS 17.2
+gd_02775,NAM,CA,iPhone 13,iOS 17.5
+gd_02776,LATAM,MX,iPhone 13,iOS 17.5
+gd_02777,APAC,ID,Pixel 7,Android 14
+gd_02778,EU,UK,Pixel 8,Android 12
+gd_02779,NAM,US,iPhone 15,iOS 17.2
+gd_02780,NAM,CA,iPhone 15,iOS 16.4
+gd_02781,NAM,US,iPhone 14,iOS 17.2
+gd_02782,EU,UK,iPhone 14,iOS 17.5
+gd_02783,NAM,US,Pixel 8,Android 13
+gd_02784,EU,DE,iPhone 15,iOS 16.4
+gd_02785,MEA,NG,iPhone 13,iOS 18.1
+gd_02786,APAC,IN,iPhone 15,iOS 18.1
+gd_02787,LATAM,BR,iPhone 15,iOS 17.2
+gd_02788,NAM,CA,iPhone 15,iOS 16.4
+gd_02789,NAM,US,iPhone 15,iOS 17.2
+gd_02790,MEA,AE,iPhone 15,iOS 17.2
+gd_02791,EU,FR,Pixel 8,Android 14
+gd_02792,APAC,JP,Redmi Note 12,Android 15
+gd_02793,MEA,ZA,Pixel 7,Android 12
+gd_02794,APAC,JP,Pixel 7,Android 14
+gd_02795,EU,UK,Pixel 7,Android 14
+gd_02796,APAC,IN,Galaxy A54,Android 15
+gd_02797,NAM,US,iPhone 13,iOS 16.4
+gd_02798,NAM,CA,Galaxy A54,Android 15
+gd_02799,NAM,CA,iPhone 13,iOS 18.1
+gd_02800,LATAM,MX,Galaxy A54,Android 12
+gd_02801,APAC,IN,Pixel 8,Android 14
+gd_02802,EU,DE,iPhone 14,iOS 18.1
+gd_02803,NAM,US,iPhone 13,iOS 17.5
+gd_02804,APAC,ID,iPhone 15,iOS 16.4
+gd_02805,MEA,ZA,iPhone 14,iOS 17.2
+gd_02806,EU,FR,iPhone 14,iOS 16.4
+gd_02807,EU,ES,iPhone 14,iOS 18.1
+gd_02808,LATAM,AR,Galaxy S23,Android 14
+gd_02809,LATAM,BR,iPhone 14,iOS 17.5
+gd_02810,MEA,ZA,Pixel 7,Android 12
+gd_02811,EU,UK,iPhone 15,iOS 17.2
+gd_02812,NAM,CA,Galaxy A54,Android 12
+gd_02813,EU,ES,Pixel 8,Android 15
+gd_02814,EU,UK,iPhone 13,iOS 17.5
+gd_02815,LATAM,AR,iPhone 15,iOS 18.1
+gd_02816,NAM,CA,Pixel 8,Android 15
+gd_02817,APAC,IN,Redmi Note 12,Android 12
+gd_02818,LATAM,BR,iPhone 15,iOS 18.1
+gd_02819,MEA,ZA,iPhone 15,iOS 16.4
+gd_02820,APAC,PH,Galaxy A54,Android 15
+gd_02821,MEA,ZA,Pixel 7,Android 12
+gd_02822,NAM,US,iPhone 13,iOS 16.4
+gd_02823,EU,FR,Pixel 8,Android 12
+gd_02824,NAM,US,Galaxy S23,Android 15
+gd_02825,MEA,ZA,Galaxy A54,Android 15
+gd_02826,LATAM,AR,iPhone 15,iOS 17.2
+gd_02827,NAM,CA,iPhone 13,iOS 18.1
+gd_02828,NAM,CA,Galaxy A54,Android 15
+gd_02829,EU,ES,Pixel 7,Android 14
+gd_02830,NAM,CA,Galaxy S23,Android 12
+gd_02831,LATAM,MX,iPhone 13,iOS 17.5
+gd_02832,NAM,CA,Pixel 8,Android 14
+gd_02833,LATAM,BR,Galaxy A54,Android 12
+gd_02834,APAC,IN,Galaxy A54,Android 12
+gd_02835,EU,ES,Redmi Note 12,Android 15
+gd_02836,NAM,US,iPhone 14,iOS 18.1
+gd_02837,MEA,NG,Pixel 8,Android 13
+gd_02838,APAC,ID,iPhone 15,iOS 16.4
+gd_02839,EU,ES,Redmi Note 12,Android 13
+gd_02840,EU,FR,Redmi Note 12,Android 12
+gd_02841,LATAM,BR,Galaxy A54,Android 15
+gd_02842,LATAM,MX,iPhone 15,iOS 17.5
+gd_02843,LATAM,AR,Pixel 7,Android 15
+gd_02844,APAC,PH,Galaxy S23,Android 12
+gd_02845,LATAM,AR,iPhone 14,iOS 17.2
+gd_02846,EU,ES,iPhone 13,iOS 17.2
+gd_02847,APAC,PH,iPhone 13,iOS 17.2
+gd_02848,EU,ES,iPhone 13,iOS 17.5
+gd_02849,APAC,JP,Redmi Note 12,Android 12
+gd_02850,MEA,AE,Redmi Note 12,Android 14
+gd_02851,MEA,AE,Galaxy A54,Android 15
+gd_02852,APAC,PH,Pixel 7,Android 13
+gd_02853,APAC,ID,iPhone 15,iOS 18.1
+gd_02854,LATAM,AR,Pixel 7,Android 12
+gd_02855,MEA,NG,iPhone 15,iOS 17.5
+gd_02856,LATAM,BR,iPhone 13,iOS 17.2
+gd_02857,NAM,CA,Pixel 8,Android 12
+gd_02858,EU,ES,Pixel 7,Android 14
+gd_02859,LATAM,MX,iPhone 15,iOS 16.4
+gd_02860,APAC,IN,iPhone 14,iOS 16.4
+gd_02861,APAC,IN,iPhone 15,iOS 17.2
+gd_02862,APAC,PH,iPhone 13,iOS 17.2
+gd_02863,EU,UK,iPhone 15,iOS 17.2
+gd_02864,EU,DE,iPhone 14,iOS 17.2
+gd_02865,LATAM,MX,iPhone 14,iOS 16.4
+gd_02866,EU,UK,iPhone 15,iOS 17.5
+gd_02867,APAC,PH,Pixel 7,Android 13
+gd_02868,APAC,JP,iPhone 15,iOS 17.2
+gd_02869,LATAM,BR,iPhone 13,iOS 17.5
+gd_02870,EU,DE,Pixel 8,Android 15
+gd_02871,APAC,ID,iPhone 13,iOS 17.2
+gd_02872,NAM,US,Galaxy S23,Android 15
+gd_02873,NAM,CA,Galaxy S23,Android 12
+gd_02874,EU,DE,Galaxy A54,Android 13
+gd_02875,NAM,CA,iPhone 15,iOS 17.5
+gd_02876,MEA,AE,iPhone 15,iOS 17.5
+gd_02877,LATAM,BR,iPhone 15,iOS 18.1
+gd_02878,NAM,CA,iPhone 14,iOS 17.2
+gd_02879,LATAM,MX,iPhone 13,iOS 17.5
+gd_02880,APAC,IN,Pixel 7,Android 15
+gd_02881,APAC,ID,iPhone 13,iOS 16.4
+gd_02882,LATAM,MX,Galaxy A54,Android 12
+gd_02883,APAC,IN,Pixel 7,Android 13
+gd_02884,NAM,CA,iPhone 15,iOS 17.2
+gd_02885,NAM,CA,iPhone 15,iOS 16.4
+gd_02886,EU,DE,Pixel 7,Android 12
+gd_02887,MEA,AE,iPhone 15,iOS 17.2
+gd_02888,APAC,ID,Galaxy S23,Android 15
+gd_02889,EU,FR,iPhone 14,iOS 17.2
+gd_02890,NAM,US,iPhone 15,iOS 17.2
+gd_02891,MEA,AE,iPhone 14,iOS 17.5
+gd_02892,EU,UK,iPhone 13,iOS 17.5
+gd_02893,APAC,IN,iPhone 14,iOS 17.2
+gd_02894,APAC,ID,Pixel 7,Android 13
+gd_02895,NAM,US,iPhone 13,iOS 17.5
+gd_02896,NAM,US,Redmi Note 12,Android 12
+gd_02897,EU,UK,iPhone 13,iOS 17.2
+gd_02898,EU,UK,iPhone 14,iOS 16.4
+gd_02899,APAC,IN,iPhone 13,iOS 16.4
+gd_02900,LATAM,AR,iPhone 14,iOS 16.4
+gd_02901,NAM,CA,Pixel 8,Android 14
+gd_02902,APAC,IN,iPhone 14,iOS 17.5
+gd_02903,NAM,US,iPhone 14,iOS 17.5
+gd_02904,NAM,CA,Galaxy A54,Android 12
+gd_02905,APAC,JP,iPhone 13,iOS 16.4
+gd_02906,LATAM,AR,Galaxy S23,Android 12
+gd_02907,LATAM,BR,Galaxy A54,Android 12
+gd_02908,NAM,US,Galaxy A54,Android 14
+gd_02909,APAC,IN,iPhone 14,iOS 16.4
+gd_02910,EU,DE,iPhone 13,iOS 16.4
+gd_02911,MEA,ZA,Galaxy S23,Android 14
+gd_02912,APAC,IN,iPhone 14,iOS 17.5
+gd_02913,MEA,AE,iPhone 15,iOS 16.4
+gd_02914,NAM,CA,Pixel 8,Android 12
+gd_02915,EU,FR,iPhone 13,iOS 18.1
+gd_02916,APAC,PH,Galaxy A54,Android 15
+gd_02917,EU,ES,Galaxy A54,Android 15
+gd_02918,APAC,PH,Galaxy S23,Android 12
+gd_02919,APAC,IN,iPhone 13,iOS 17.2
+gd_02920,MEA,ZA,Galaxy A54,Android 13
+gd_02921,NAM,CA,iPhone 15,iOS 17.2
+gd_02922,MEA,NG,Redmi Note 12,Android 14
+gd_02923,EU,ES,Galaxy S23,Android 12
+gd_02924,EU,FR,iPhone 14,iOS 17.5
+gd_02925,APAC,ID,Pixel 8,Android 15
+gd_02926,NAM,US,Galaxy S23,Android 12
+gd_02927,MEA,ZA,iPhone 13,iOS 18.1
+gd_02928,MEA,ZA,iPhone 14,iOS 17.2
+gd_02929,MEA,ZA,Galaxy A54,Android 13
+gd_02930,MEA,NG,iPhone 15,iOS 17.5
+gd_02931,APAC,IN,iPhone 14,iOS 17.2
+gd_02932,EU,DE,iPhone 15,iOS 16.4
+gd_02933,LATAM,AR,Galaxy A54,Android 13
+gd_02934,NAM,CA,Galaxy A54,Android 15
+gd_02935,LATAM,MX,iPhone 14,iOS 17.5
+gd_02936,EU,DE,iPhone 14,iOS 17.2
+gd_02937,APAC,JP,Galaxy A54,Android 12
+gd_02938,EU,ES,iPhone 14,iOS 17.2
+gd_02939,EU,ES,iPhone 14,iOS 16.4
+gd_02940,NAM,CA,Galaxy A54,Android 13
+gd_02941,EU,DE,Pixel 8,Android 12
+gd_02942,EU,DE,iPhone 13,iOS 16.4
+gd_02943,NAM,CA,iPhone 14,iOS 17.2
+gd_02944,NAM,CA,iPhone 14,iOS 17.2
+gd_02945,APAC,IN,Galaxy S23,Android 13
+gd_02946,EU,ES,Pixel 7,Android 13
+gd_02947,LATAM,MX,Redmi Note 12,Android 13
+gd_02948,NAM,US,iPhone 14,iOS 16.4
+gd_02949,APAC,IN,Galaxy S23,Android 14
+gd_02950,NAM,US,iPhone 15,iOS 17.2
+gd_02951,APAC,IN,Galaxy S23,Android 15
+gd_02952,APAC,IN,Pixel 7,Android 14
+gd_02953,APAC,ID,iPhone 15,iOS 18.1
+gd_02954,EU,ES,Pixel 8,Android 14
+gd_02955,APAC,JP,Redmi Note 12,Android 13
+gd_02956,NAM,US,Galaxy S23,Android 14
+gd_02957,EU,FR,iPhone 13,iOS 16.4
+gd_02958,EU,DE,iPhone 14,iOS 16.4
+gd_02959,APAC,JP,Redmi Note 12,Android 15
+gd_02960,EU,UK,Redmi Note 12,Android 14
+gd_02961,LATAM,BR,Pixel 7,Android 12
+gd_02962,EU,DE,iPhone 15,iOS 17.5
+gd_02963,NAM,CA,iPhone 15,iOS 18.1
+gd_02964,EU,FR,iPhone 14,iOS 18.1
+gd_02965,NAM,US,iPhone 13,iOS 18.1
+gd_02966,APAC,PH,Galaxy S23,Android 13
+gd_02967,LATAM,AR,Galaxy S23,Android 14
+gd_02968,APAC,JP,iPhone 13,iOS 18.1
+gd_02969,EU,FR,Redmi Note 12,Android 14
+gd_02970,NAM,US,iPhone 14,iOS 16.4
+gd_02971,LATAM,MX,Pixel 7,Android 14
+gd_02972,NAM,CA,Pixel 8,Android 13
+gd_02973,EU,DE,Redmi Note 12,Android 12
+gd_02974,LATAM,BR,iPhone 14,iOS 18.1
+gd_02975,EU,ES,iPhone 14,iOS 17.5
+gd_02976,NAM,CA,iPhone 13,iOS 17.5
+gd_02977,NAM,CA,Pixel 7,Android 15
+gd_02978,APAC,JP,iPhone 15,iOS 16.4
+gd_02979,NAM,US,Redmi Note 12,Android 13
+gd_02980,APAC,IN,Pixel 7,Android 15
+gd_02981,EU,ES,Galaxy S23,Android 12
+gd_02982,EU,ES,Galaxy A54,Android 13
+gd_02983,NAM,US,Redmi Note 12,Android 12
+gd_02984,LATAM,MX,Galaxy S23,Android 12
+gd_02985,EU,FR,Redmi Note 12,Android 13
+gd_02986,APAC,ID,Pixel 7,Android 15
+gd_02987,EU,FR,Pixel 7,Android 13
+gd_02988,NAM,CA,Galaxy S23,Android 14
+gd_02989,EU,ES,Pixel 8,Android 12
+gd_02990,APAC,IN,Galaxy A54,Android 14
+gd_02991,EU,DE,Pixel 8,Android 15
+gd_02992,LATAM,AR,iPhone 14,iOS 17.2
+gd_02993,MEA,ZA,Galaxy S23,Android 14
+gd_02994,LATAM,AR,Redmi Note 12,Android 13
+gd_02995,APAC,ID,iPhone 13,iOS 18.1
+gd_02996,APAC,JP,Galaxy S23,Android 14
+gd_02997,APAC,ID,iPhone 14,iOS 17.2
+gd_02998,EU,ES,Pixel 7,Android 13
+gd_02999,LATAM,MX,Redmi Note 12,Android 12
+gd_03000,LATAM,MX,Redmi Note 12,Android 15
+gd_03001,NAM,US,Pixel 7,Android 12
+gd_03002,LATAM,BR,Galaxy A54,Android 12
+gd_03003,LATAM,AR,Galaxy A54,Android 12
+gd_03004,EU,DE,Galaxy A54,Android 12
+gd_03005,LATAM,BR,Galaxy S23,Android 15
+gd_03006,NAM,CA,Pixel 8,Android 14
+gd_03007,NAM,US,iPhone 13,iOS 16.4
+gd_03008,EU,FR,Pixel 7,Android 12
+gd_03009,APAC,ID,iPhone 13,iOS 17.5
+gd_03010,EU,ES,iPhone 14,iOS 17.2
+gd_03011,MEA,ZA,Pixel 7,Android 14
+gd_03012,NAM,CA,Galaxy A54,Android 14
+gd_03013,EU,UK,Galaxy A54,Android 15
+gd_03014,APAC,PH,iPhone 14,iOS 18.1
+gd_03015,NAM,US,iPhone 13,iOS 18.1
+gd_03016,APAC,IN,Galaxy S23,Android 14
+gd_03017,EU,DE,iPhone 15,iOS 17.2
+gd_03018,MEA,ZA,iPhone 14,iOS 16.4
+gd_03019,APAC,ID,iPhone 15,iOS 18.1
+gd_03020,NAM,CA,Pixel 8,Android 13
+gd_03021,NAM,CA,iPhone 13,iOS 18.1
+gd_03022,NAM,CA,iPhone 14,iOS 17.2
+gd_03023,MEA,NG,Redmi Note 12,Android 12
+gd_03024,APAC,ID,Redmi Note 12,Android 15
+gd_03025,EU,FR,iPhone 15,iOS 17.5
+gd_03026,NAM,US,iPhone 13,iOS 18.1
+gd_03027,LATAM,BR,iPhone 13,iOS 17.5
+gd_03028,NAM,CA,iPhone 14,iOS 17.5
+gd_03029,APAC,IN,Redmi Note 12,Android 13
+gd_03030,APAC,ID,iPhone 15,iOS 17.5
+gd_03031,EU,UK,Pixel 8,Android 12
+gd_03032,APAC,PH,iPhone 14,iOS 16.4
+gd_03033,NAM,CA,Galaxy A54,Android 13
+gd_03034,EU,FR,iPhone 15,iOS 16.4
+gd_03035,MEA,NG,iPhone 13,iOS 18.1
+gd_03036,APAC,IN,Redmi Note 12,Android 14
+gd_03037,LATAM,BR,iPhone 15,iOS 17.5
+gd_03038,APAC,ID,Pixel 7,Android 13
+gd_03039,NAM,US,iPhone 15,iOS 17.5
+gd_03040,APAC,ID,Galaxy A54,Android 15
+gd_03041,APAC,ID,Redmi Note 12,Android 15
+gd_03042,NAM,CA,Pixel 8,Android 15
+gd_03043,EU,DE,iPhone 15,iOS 18.1
+gd_03044,APAC,IN,iPhone 13,iOS 17.5
+gd_03045,APAC,PH,Pixel 7,Android 12
+gd_03046,NAM,US,Galaxy S23,Android 14
+gd_03047,LATAM,BR,Galaxy A54,Android 12
+gd_03048,EU,DE,Pixel 7,Android 13
+gd_03049,NAM,US,Pixel 8,Android 15
+gd_03050,NAM,CA,Pixel 8,Android 14
+gd_03051,LATAM,MX,iPhone 13,iOS 17.5
+gd_03052,EU,ES,iPhone 13,iOS 17.2
+gd_03053,EU,UK,iPhone 13,iOS 18.1
+gd_03054,NAM,CA,Redmi Note 12,Android 12
+gd_03055,APAC,IN,Redmi Note 12,Android 14
+gd_03056,LATAM,BR,iPhone 14,iOS 17.5
+gd_03057,EU,DE,iPhone 15,iOS 17.2
+gd_03058,MEA,NG,iPhone 13,iOS 17.5
+gd_03059,NAM,US,Pixel 7,Android 12
+gd_03060,NAM,CA,iPhone 14,iOS 17.2
+gd_03061,APAC,IN,iPhone 15,iOS 18.1
+gd_03062,APAC,ID,iPhone 14,iOS 17.5
+gd_03063,NAM,CA,Redmi Note 12,Android 15
+gd_03064,APAC,ID,Pixel 8,Android 12
+gd_03065,EU,FR,Pixel 8,Android 13
+gd_03066,APAC,JP,Redmi Note 12,Android 12
+gd_03067,APAC,IN,iPhone 14,iOS 16.4
+gd_03068,MEA,NG,iPhone 15,iOS 17.5
+gd_03069,EU,ES,Galaxy A54,Android 14
+gd_03070,APAC,PH,Galaxy A54,Android 12
+gd_03071,APAC,ID,Galaxy A54,Android 13
+gd_03072,EU,DE,Redmi Note 12,Android 14
+gd_03073,NAM,CA,Galaxy S23,Android 12
+gd_03074,MEA,NG,Pixel 8,Android 12
+gd_03075,NAM,CA,iPhone 14,iOS 17.2
+gd_03076,LATAM,AR,iPhone 13,iOS 17.2
+gd_03077,NAM,US,iPhone 13,iOS 17.2
+gd_03078,LATAM,BR,iPhone 14,iOS 17.5
+gd_03079,NAM,US,Galaxy S23,Android 13
+gd_03080,MEA,ZA,Galaxy S23,Android 15
+gd_03081,APAC,PH,iPhone 14,iOS 18.1
+gd_03082,NAM,US,Galaxy A54,Android 12
+gd_03083,APAC,ID,Pixel 8,Android 14
+gd_03084,APAC,PH,Galaxy A54,Android 13
+gd_03085,EU,UK,iPhone 13,iOS 17.5
+gd_03086,NAM,CA,iPhone 15,iOS 17.5
+gd_03087,APAC,JP,Galaxy A54,Android 13
+gd_03088,APAC,PH,iPhone 14,iOS 17.5
+gd_03089,EU,DE,iPhone 14,iOS 17.2
+gd_03090,LATAM,MX,Galaxy A54,Android 12
+gd_03091,NAM,CA,Galaxy S23,Android 13
+gd_03092,NAM,CA,iPhone 15,iOS 17.5
+gd_03093,APAC,JP,iPhone 13,iOS 16.4
+gd_03094,NAM,CA,Redmi Note 12,Android 14
+gd_03095,EU,ES,iPhone 15,iOS 18.1
+gd_03096,APAC,PH,Pixel 8,Android 13
+gd_03097,EU,FR,iPhone 13,iOS 17.2
+gd_03098,NAM,US,iPhone 15,iOS 17.5
+gd_03099,APAC,JP,Galaxy S23,Android 12
+gd_03100,APAC,IN,iPhone 15,iOS 16.4
+gd_03101,LATAM,MX,iPhone 13,iOS 17.5
+gd_03102,APAC,ID,Galaxy S23,Android 13
+gd_03103,EU,ES,Galaxy A54,Android 14
+gd_03104,NAM,CA,iPhone 15,iOS 17.5
+gd_03105,LATAM,AR,iPhone 14,iOS 16.4
+gd_03106,NAM,CA,iPhone 13,iOS 16.4
+gd_03107,NAM,CA,Galaxy S23,Android 12
+gd_03108,LATAM,BR,Galaxy A54,Android 13
+gd_03109,APAC,PH,Redmi Note 12,Android 12
+gd_03110,APAC,ID,iPhone 15,iOS 18.1
+gd_03111,NAM,CA,iPhone 15,iOS 16.4
+gd_03112,NAM,US,iPhone 13,iOS 17.2
+gd_03113,EU,DE,iPhone 14,iOS 16.4
+gd_03114,APAC,PH,iPhone 14,iOS 18.1
+gd_03115,EU,ES,iPhone 14,iOS 17.5
+gd_03116,NAM,CA,iPhone 15,iOS 16.4
+gd_03117,NAM,US,Redmi Note 12,Android 12
+gd_03118,APAC,IN,iPhone 13,iOS 17.5
+gd_03119,APAC,IN,Redmi Note 12,Android 15
+gd_03120,NAM,CA,iPhone 15,iOS 18.1
+gd_03121,NAM,US,iPhone 15,iOS 16.4
+gd_03122,NAM,US,Pixel 8,Android 13
+gd_03123,NAM,CA,Galaxy A54,Android 13
+gd_03124,APAC,PH,Galaxy S23,Android 15
+gd_03125,NAM,CA,Redmi Note 12,Android 13
+gd_03126,APAC,ID,iPhone 15,iOS 17.5
+gd_03127,LATAM,BR,Redmi Note 12,Android 13
+gd_03128,MEA,NG,Galaxy S23,Android 14
+gd_03129,MEA,ZA,Pixel 7,Android 12
+gd_03130,EU,ES,Galaxy S23,Android 14
+gd_03131,NAM,US,Redmi Note 12,Android 15
+gd_03132,EU,UK,Galaxy A54,Android 14
+gd_03133,APAC,ID,Galaxy A54,Android 12
+gd_03134,NAM,US,iPhone 14,iOS 18.1
+gd_03135,EU,UK,Galaxy S23,Android 14
+gd_03136,EU,UK,Pixel 7,Android 14
+gd_03137,NAM,CA,iPhone 14,iOS 17.5
+gd_03138,APAC,PH,iPhone 13,iOS 16.4
+gd_03139,APAC,IN,Pixel 8,Android 14
+gd_03140,APAC,JP,iPhone 15,iOS 17.2
+gd_03141,MEA,AE,Redmi Note 12,Android 15
+gd_03142,NAM,US,iPhone 13,iOS 16.4
+gd_03143,NAM,US,Galaxy A54,Android 15
+gd_03144,EU,ES,Pixel 8,Android 13
+gd_03145,APAC,JP,iPhone 13,iOS 17.5
+gd_03146,APAC,JP,iPhone 15,iOS 16.4
+gd_03147,NAM,CA,Galaxy A54,Android 14
+gd_03148,MEA,AE,iPhone 13,iOS 16.4
+gd_03149,EU,UK,iPhone 13,iOS 16.4
+gd_03150,EU,UK,Pixel 7,Android 14
+gd_03151,APAC,ID,Galaxy S23,Android 13
+gd_03152,MEA,ZA,iPhone 13,iOS 17.2
+gd_03153,APAC,JP,iPhone 14,iOS 17.5
+gd_03154,MEA,AE,Galaxy S23,Android 13
+gd_03155,NAM,US,Galaxy A54,Android 13
+gd_03156,APAC,ID,iPhone 13,iOS 17.5
+gd_03157,LATAM,AR,iPhone 13,iOS 18.1
+gd_03158,APAC,PH,iPhone 13,iOS 16.4
+gd_03159,EU,ES,iPhone 13,iOS 16.4
+gd_03160,MEA,NG,Pixel 7,Android 15
+gd_03161,NAM,CA,iPhone 13,iOS 17.2
+gd_03162,EU,ES,Redmi Note 12,Android 15
+gd_03163,LATAM,AR,iPhone 14,iOS 16.4
+gd_03164,LATAM,MX,Pixel 8,Android 15
+gd_03165,MEA,AE,iPhone 15,iOS 18.1
+gd_03166,LATAM,AR,Galaxy A54,Android 14
+gd_03167,NAM,US,Galaxy A54,Android 14
+gd_03168,MEA,ZA,iPhone 15,iOS 17.5
+gd_03169,EU,UK,Galaxy A54,Android 13
+gd_03170,APAC,JP,iPhone 15,iOS 17.5
+gd_03171,EU,UK,Pixel 8,Android 14
+gd_03172,LATAM,BR,Redmi Note 12,Android 15
+gd_03173,APAC,IN,Pixel 7,Android 14
+gd_03174,LATAM,MX,Pixel 8,Android 13
+gd_03175,NAM,US,iPhone 15,iOS 17.5
+gd_03176,NAM,CA,iPhone 13,iOS 16.4
+gd_03177,EU,FR,Galaxy S23,Android 12
+gd_03178,NAM,CA,iPhone 14,iOS 17.2
+gd_03179,APAC,IN,Pixel 7,Android 12
+gd_03180,EU,DE,Pixel 8,Android 14
+gd_03181,APAC,JP,iPhone 14,iOS 16.4
+gd_03182,NAM,US,Galaxy A54,Android 15
+gd_03183,NAM,US,Galaxy A54,Android 12
+gd_03184,APAC,IN,iPhone 13,iOS 16.4
+gd_03185,EU,DE,Pixel 8,Android 13
+gd_03186,NAM,US,iPhone 13,iOS 16.4
+gd_03187,NAM,US,Pixel 7,Android 12
+gd_03188,NAM,US,Pixel 8,Android 12
+gd_03189,APAC,JP,Galaxy A54,Android 13
+gd_03190,NAM,CA,iPhone 14,iOS 18.1
+gd_03191,EU,FR,iPhone 13,iOS 16.4
+gd_03192,APAC,IN,iPhone 13,iOS 18.1
+gd_03193,APAC,JP,Galaxy S23,Android 14
+gd_03194,APAC,IN,Pixel 8,Android 15
+gd_03195,NAM,US,iPhone 15,iOS 17.2
+gd_03196,MEA,AE,iPhone 14,iOS 17.5
+gd_03197,EU,DE,Redmi Note 12,Android 15
+gd_03198,EU,DE,iPhone 13,iOS 17.5
+gd_03199,LATAM,AR,iPhone 14,iOS 17.2
+gd_03200,APAC,IN,Pixel 7,Android 14
+gd_03201,APAC,IN,iPhone 13,iOS 18.1
+gd_03202,LATAM,MX,Redmi Note 12,Android 12
+gd_03203,NAM,US,iPhone 14,iOS 18.1
+gd_03204,LATAM,AR,Galaxy A54,Android 12
+gd_03205,APAC,IN,iPhone 13,iOS 17.5
+gd_03206,EU,DE,Pixel 7,Android 13
+gd_03207,NAM,US,iPhone 15,iOS 17.5
+gd_03208,NAM,US,Galaxy A54,Android 12
+gd_03209,MEA,AE,iPhone 15,iOS 17.2
+gd_03210,NAM,CA,iPhone 14,iOS 16.4
+gd_03211,NAM,US,Galaxy S23,Android 12
+gd_03212,APAC,PH,iPhone 14,iOS 17.2
+gd_03213,APAC,JP,Galaxy A54,Android 15
+gd_03214,NAM,US,Pixel 8,Android 15
+gd_03215,LATAM,AR,iPhone 14,iOS 17.5
+gd_03216,APAC,ID,iPhone 13,iOS 17.5
+gd_03217,LATAM,BR,Galaxy S23,Android 12
+gd_03218,NAM,CA,iPhone 15,iOS 17.2
+gd_03219,NAM,US,Redmi Note 12,Android 14
+gd_03220,APAC,PH,iPhone 14,iOS 16.4
+gd_03221,NAM,CA,iPhone 13,iOS 18.1
+gd_03222,APAC,PH,iPhone 15,iOS 17.2
+gd_03223,NAM,US,Pixel 8,Android 14
+gd_03224,LATAM,MX,iPhone 14,iOS 17.2
+gd_03225,LATAM,AR,iPhone 15,iOS 18.1
+gd_03226,LATAM,BR,Pixel 8,Android 14
+gd_03227,MEA,ZA,iPhone 14,iOS 18.1
+gd_03228,LATAM,MX,iPhone 15,iOS 17.2
+gd_03229,EU,FR,iPhone 13,iOS 17.2
+gd_03230,EU,FR,Galaxy A54,Android 12
+gd_03231,LATAM,AR,iPhone 13,iOS 16.4
+gd_03232,MEA,AE,iPhone 15,iOS 17.5
+gd_03233,MEA,ZA,Galaxy S23,Android 12
+gd_03234,APAC,IN,iPhone 15,iOS 18.1
+gd_03235,NAM,CA,Galaxy S23,Android 14
+gd_03236,MEA,AE,Galaxy S23,Android 13
+gd_03237,MEA,AE,iPhone 14,iOS 17.2
+gd_03238,APAC,JP,Pixel 7,Android 14
+gd_03239,LATAM,AR,Pixel 8,Android 15
+gd_03240,APAC,IN,iPhone 14,iOS 17.2
+gd_03241,MEA,ZA,iPhone 14,iOS 17.5
+gd_03242,NAM,CA,iPhone 13,iOS 18.1
+gd_03243,LATAM,MX,iPhone 14,iOS 18.1
+gd_03244,NAM,CA,iPhone 15,iOS 18.1
+gd_03245,EU,UK,Redmi Note 12,Android 15
+gd_03246,NAM,US,Redmi Note 12,Android 13
+gd_03247,EU,ES,Galaxy A54,Android 15
+gd_03248,NAM,CA,iPhone 14,iOS 17.5
+gd_03249,MEA,ZA,Galaxy A54,Android 12
+gd_03250,APAC,PH,iPhone 13,iOS 16.4
+gd_03251,LATAM,BR,iPhone 15,iOS 17.5
+gd_03252,EU,UK,Galaxy S23,Android 12
+gd_03253,NAM,CA,iPhone 13,iOS 17.2
+gd_03254,LATAM,BR,Galaxy S23,Android 15
+gd_03255,APAC,ID,iPhone 13,iOS 17.5
+gd_03256,APAC,IN,iPhone 14,iOS 17.2
+gd_03257,LATAM,MX,Pixel 7,Android 14
+gd_03258,LATAM,BR,iPhone 13,iOS 16.4
+gd_03259,APAC,ID,iPhone 14,iOS 17.5
+gd_03260,MEA,ZA,iPhone 13,iOS 17.2
+gd_03261,APAC,JP,Redmi Note 12,Android 13
+gd_03262,APAC,ID,Pixel 8,Android 14
+gd_03263,EU,UK,iPhone 13,iOS 17.2
+gd_03264,NAM,US,iPhone 15,iOS 18.1
+gd_03265,NAM,US,iPhone 15,iOS 18.1
+gd_03266,APAC,ID,Pixel 7,Android 13
+gd_03267,APAC,JP,iPhone 13,iOS 17.5
+gd_03268,EU,DE,Pixel 7,Android 12
+gd_03269,APAC,ID,Galaxy S23,Android 12
+gd_03270,NAM,CA,iPhone 14,iOS 16.4
+gd_03271,NAM,US,Pixel 8,Android 12
+gd_03272,MEA,ZA,Pixel 7,Android 12
+gd_03273,EU,UK,Pixel 8,Android 15
+gd_03274,NAM,CA,Galaxy A54,Android 12
+gd_03275,EU,FR,Pixel 8,Android 15
+gd_03276,EU,FR,iPhone 13,iOS 17.5
+gd_03277,APAC,IN,Galaxy A54,Android 13
+gd_03278,MEA,AE,Galaxy A54,Android 15
+gd_03279,APAC,ID,iPhone 14,iOS 17.2
+gd_03280,APAC,PH,Redmi Note 12,Android 12
+gd_03281,EU,DE,Redmi Note 12,Android 15
+gd_03282,APAC,ID,Pixel 7,Android 12
+gd_03283,EU,DE,Redmi Note 12,Android 15
+gd_03284,NAM,CA,iPhone 13,iOS 18.1
+gd_03285,LATAM,AR,Galaxy S23,Android 15
+gd_03286,EU,ES,Redmi Note 12,Android 13
+gd_03287,EU,DE,iPhone 15,iOS 18.1
+gd_03288,NAM,CA,iPhone 13,iOS 17.2
+gd_03289,LATAM,AR,iPhone 13,iOS 17.2
+gd_03290,NAM,CA,iPhone 13,iOS 17.5
+gd_03291,EU,FR,Pixel 8,Android 14
+gd_03292,LATAM,AR,iPhone 13,iOS 18.1
+gd_03293,EU,ES,iPhone 14,iOS 18.1
+gd_03294,MEA,ZA,iPhone 13,iOS 18.1
+gd_03295,NAM,CA,iPhone 14,iOS 17.5
+gd_03296,APAC,ID,Redmi Note 12,Android 14
+gd_03297,MEA,ZA,iPhone 14,iOS 18.1
+gd_03298,APAC,ID,iPhone 13,iOS 18.1
+gd_03299,APAC,PH,Galaxy S23,Android 12
+gd_03300,EU,ES,Galaxy A54,Android 13
+gd_03301,APAC,PH,iPhone 15,iOS 17.5
+gd_03302,LATAM,AR,iPhone 15,iOS 16.4
+gd_03303,APAC,JP,Pixel 8,Android 13
+gd_03304,MEA,NG,Redmi Note 12,Android 12
+gd_03305,APAC,IN,Redmi Note 12,Android 13
+gd_03306,APAC,ID,Pixel 7,Android 12
+gd_03307,EU,UK,Galaxy S23,Android 12
+gd_03308,APAC,PH,Pixel 7,Android 15
+gd_03309,LATAM,MX,iPhone 14,iOS 16.4
+gd_03310,APAC,PH,iPhone 13,iOS 16.4
+gd_03311,NAM,US,Pixel 8,Android 15
+gd_03312,APAC,ID,Galaxy S23,Android 15
+gd_03313,APAC,JP,iPhone 13,iOS 18.1
+gd_03314,MEA,AE,Pixel 7,Android 12
+gd_03315,NAM,US,iPhone 14,iOS 18.1
+gd_03316,NAM,US,Galaxy S23,Android 15
+gd_03317,EU,FR,iPhone 15,iOS 18.1
+gd_03318,NAM,US,Pixel 7,Android 14
+gd_03319,MEA,ZA,iPhone 14,iOS 17.5
+gd_03320,EU,UK,iPhone 13,iOS 18.1
+gd_03321,APAC,IN,Pixel 7,Android 13
+gd_03322,NAM,US,iPhone 13,iOS 18.1
+gd_03323,EU,UK,iPhone 15,iOS 16.4
+gd_03324,MEA,ZA,iPhone 15,iOS 17.2
+gd_03325,EU,ES,Galaxy A54,Android 14
+gd_03326,NAM,US,iPhone 14,iOS 17.5
+gd_03327,NAM,CA,iPhone 15,iOS 16.4
+gd_03328,MEA,ZA,Galaxy S23,Android 15
+gd_03329,MEA,NG,Galaxy S23,Android 15
+gd_03330,NAM,US,iPhone 14,iOS 18.1
+gd_03331,APAC,JP,Galaxy A54,Android 13
+gd_03332,NAM,CA,Galaxy S23,Android 14
+gd_03333,APAC,PH,iPhone 14,iOS 16.4
+gd_03334,NAM,CA,iPhone 13,iOS 17.5
+gd_03335,LATAM,MX,Galaxy A54,Android 12
+gd_03336,MEA,NG,Galaxy A54,Android 12
+gd_03337,NAM,CA,iPhone 14,iOS 17.5
+gd_03338,EU,DE,iPhone 15,iOS 16.4
+gd_03339,NAM,CA,Pixel 7,Android 15
+gd_03340,EU,ES,Galaxy S23,Android 12
+gd_03341,NAM,CA,Redmi Note 12,Android 14
+gd_03342,NAM,CA,iPhone 15,iOS 18.1
+gd_03343,MEA,ZA,Galaxy A54,Android 12
+gd_03344,NAM,CA,iPhone 15,iOS 18.1
+gd_03345,LATAM,MX,iPhone 14,iOS 18.1
+gd_03346,NAM,CA,Galaxy A54,Android 13
+gd_03347,APAC,IN,Galaxy S23,Android 15
+gd_03348,EU,ES,Redmi Note 12,Android 14
+gd_03349,MEA,ZA,Galaxy A54,Android 13
+gd_03350,NAM,US,iPhone 14,iOS 16.4
+gd_03351,NAM,CA,Pixel 7,Android 12
+gd_03352,APAC,ID,Redmi Note 12,Android 15
+gd_03353,APAC,PH,iPhone 13,iOS 18.1
+gd_03354,APAC,PH,Pixel 8,Android 12
+gd_03355,NAM,US,iPhone 13,iOS 17.5
+gd_03356,NAM,US,iPhone 13,iOS 17.2
+gd_03357,LATAM,BR,Pixel 7,Android 13
+gd_03358,APAC,JP,iPhone 13,iOS 17.5
+gd_03359,APAC,PH,Pixel 7,Android 12
+gd_03360,EU,FR,Pixel 8,Android 12
+gd_03361,NAM,US,Galaxy A54,Android 14
+gd_03362,MEA,ZA,Redmi Note 12,Android 15
+gd_03363,APAC,IN,Pixel 8,Android 12
+gd_03364,NAM,US,iPhone 14,iOS 16.4
+gd_03365,MEA,NG,Redmi Note 12,Android 12
+gd_03366,APAC,IN,Galaxy A54,Android 15
+gd_03367,EU,ES,iPhone 15,iOS 18.1
+gd_03368,EU,DE,Galaxy S23,Android 12
+gd_03369,APAC,JP,Pixel 7,Android 14
+gd_03370,EU,FR,iPhone 13,iOS 18.1
+gd_03371,APAC,JP,iPhone 15,iOS 18.1
+gd_03372,APAC,ID,iPhone 13,iOS 18.1
+gd_03373,NAM,US,Galaxy S23,Android 14
+gd_03374,MEA,AE,iPhone 14,iOS 18.1
+gd_03375,EU,UK,iPhone 15,iOS 17.5
+gd_03376,EU,DE,Redmi Note 12,Android 12
+gd_03377,APAC,PH,Galaxy S23,Android 13
+gd_03378,APAC,PH,Galaxy S23,Android 15
+gd_03379,EU,ES,Pixel 8,Android 15
+gd_03380,APAC,ID,Galaxy A54,Android 14
+gd_03381,LATAM,BR,Pixel 8,Android 14
+gd_03382,LATAM,BR,iPhone 15,iOS 18.1
+gd_03383,LATAM,BR,iPhone 15,iOS 17.5
+gd_03384,NAM,CA,Pixel 7,Android 12
+gd_03385,EU,DE,Pixel 8,Android 13
+gd_03386,APAC,JP,Pixel 8,Android 12
+gd_03387,NAM,US,iPhone 15,iOS 17.2
+gd_03388,APAC,ID,iPhone 14,iOS 16.4
+gd_03389,EU,DE,iPhone 13,iOS 16.4
+gd_03390,EU,DE,iPhone 14,iOS 18.1
+gd_03391,NAM,US,Galaxy A54,Android 14
+gd_03392,EU,DE,Redmi Note 12,Android 14
+gd_03393,EU,ES,Galaxy S23,Android 14
+gd_03394,APAC,PH,Pixel 7,Android 13
+gd_03395,APAC,ID,iPhone 13,iOS 16.4
+gd_03396,NAM,US,Pixel 7,Android 15
+gd_03397,NAM,CA,Pixel 7,Android 15
+gd_03398,LATAM,MX,Galaxy S23,Android 14
+gd_03399,NAM,CA,iPhone 13,iOS 18.1
+gd_03400,APAC,ID,iPhone 13,iOS 17.2
+gd_03401,APAC,PH,Galaxy A54,Android 15
+gd_03402,APAC,JP,iPhone 14,iOS 17.2
+gd_03403,LATAM,AR,Galaxy A54,Android 14
+gd_03404,APAC,PH,Galaxy S23,Android 15
+gd_03405,MEA,AE,Pixel 8,Android 15
+gd_03406,LATAM,BR,Redmi Note 12,Android 12
+gd_03407,NAM,US,Galaxy S23,Android 14
+gd_03408,NAM,CA,Redmi Note 12,Android 14
+gd_03409,EU,FR,Pixel 7,Android 15
+gd_03410,EU,DE,iPhone 15,iOS 17.5
+gd_03411,APAC,IN,Galaxy A54,Android 13
+gd_03412,NAM,CA,Pixel 8,Android 14
+gd_03413,NAM,US,iPhone 15,iOS 17.2
+gd_03414,EU,FR,iPhone 15,iOS 17.2
+gd_03415,APAC,IN,iPhone 15,iOS 18.1
+gd_03416,APAC,IN,iPhone 13,iOS 17.5
+gd_03417,MEA,NG,Redmi Note 12,Android 14
+gd_03418,NAM,CA,Galaxy A54,Android 15
+gd_03419,EU,UK,iPhone 14,iOS 17.2
+gd_03420,MEA,ZA,iPhone 14,iOS 17.5
+gd_03421,APAC,ID,Pixel 8,Android 15
+gd_03422,APAC,JP,Galaxy S23,Android 12
+gd_03423,APAC,ID,iPhone 15,iOS 17.2
+gd_03424,NAM,CA,Redmi Note 12,Android 12
+gd_03425,LATAM,MX,Pixel 7,Android 15
+gd_03426,APAC,JP,iPhone 13,iOS 17.5
+gd_03427,APAC,ID,iPhone 13,iOS 18.1
+gd_03428,APAC,JP,Galaxy A54,Android 12
+gd_03429,EU,ES,Pixel 8,Android 14
+gd_03430,NAM,US,Galaxy A54,Android 12
+gd_03431,APAC,JP,Galaxy A54,Android 15
+gd_03432,APAC,PH,Pixel 7,Android 14
+gd_03433,NAM,US,iPhone 15,iOS 18.1
+gd_03434,EU,ES,iPhone 15,iOS 18.1
+gd_03435,MEA,AE,Redmi Note 12,Android 13
+gd_03436,EU,UK,iPhone 15,iOS 16.4
+gd_03437,EU,ES,iPhone 14,iOS 17.2
+gd_03438,APAC,ID,iPhone 15,iOS 17.2
+gd_03439,LATAM,AR,Pixel 8,Android 14
+gd_03440,APAC,ID,Redmi Note 12,Android 14
+gd_03441,LATAM,MX,Pixel 8,Android 14
+gd_03442,NAM,CA,iPhone 15,iOS 16.4
+gd_03443,MEA,AE,iPhone 15,iOS 17.5
+gd_03444,LATAM,AR,iPhone 14,iOS 17.5
+gd_03445,APAC,IN,iPhone 13,iOS 16.4
+gd_03446,APAC,IN,iPhone 13,iOS 17.5
+gd_03447,NAM,US,iPhone 15,iOS 18.1
+gd_03448,EU,DE,Redmi Note 12,Android 15
+gd_03449,NAM,US,iPhone 14,iOS 17.2
+gd_03450,NAM,US,Redmi Note 12,Android 14
+gd_03451,MEA,ZA,Galaxy A54,Android 14
+gd_03452,NAM,CA,iPhone 14,iOS 17.2
+gd_03453,APAC,IN,iPhone 15,iOS 17.5
+gd_03454,EU,ES,iPhone 15,iOS 18.1
+gd_03455,EU,ES,Galaxy S23,Android 15
+gd_03456,EU,FR,Pixel 7,Android 14
+gd_03457,EU,ES,Galaxy A54,Android 15
+gd_03458,APAC,PH,iPhone 14,iOS 17.5
+gd_03459,MEA,NG,Pixel 8,Android 15
+gd_03460,EU,FR,Galaxy A54,Android 15
+gd_03461,MEA,AE,Redmi Note 12,Android 12
+gd_03462,APAC,ID,iPhone 13,iOS 17.2
+gd_03463,APAC,JP,iPhone 15,iOS 17.5
+gd_03464,NAM,US,iPhone 13,iOS 17.2
+gd_03465,NAM,US,Galaxy S23,Android 14
+gd_03466,LATAM,AR,iPhone 15,iOS 17.5
+gd_03467,APAC,JP,Pixel 8,Android 13
+gd_03468,EU,FR,iPhone 13,iOS 17.5
+gd_03469,LATAM,BR,Redmi Note 12,Android 15
+gd_03470,EU,ES,Pixel 8,Android 14
+gd_03471,LATAM,MX,iPhone 15,iOS 18.1
+gd_03472,EU,UK,iPhone 14,iOS 18.1
+gd_03473,MEA,NG,iPhone 14,iOS 16.4
+gd_03474,NAM,CA,iPhone 14,iOS 17.2
+gd_03475,NAM,CA,Redmi Note 12,Android 15
+gd_03476,APAC,ID,Galaxy S23,Android 14
+gd_03477,NAM,US,Galaxy S23,Android 14
+gd_03478,MEA,ZA,Galaxy S23,Android 13
+gd_03479,APAC,JP,iPhone 14,iOS 17.2
+gd_03480,NAM,CA,iPhone 14,iOS 16.4
+gd_03481,NAM,US,Galaxy S23,Android 13
+gd_03482,MEA,NG,iPhone 15,iOS 17.5
+gd_03483,APAC,IN,iPhone 13,iOS 16.4
+gd_03484,LATAM,AR,iPhone 14,iOS 16.4
+gd_03485,NAM,US,Galaxy S23,Android 12
+gd_03486,MEA,NG,Galaxy A54,Android 14
+gd_03487,APAC,IN,iPhone 14,iOS 17.5
+gd_03488,APAC,ID,Galaxy S23,Android 15
+gd_03489,EU,FR,iPhone 13,iOS 18.1
+gd_03490,NAM,CA,Pixel 8,Android 13
+gd_03491,MEA,AE,iPhone 13,iOS 17.2
+gd_03492,MEA,NG,Pixel 8,Android 12
+gd_03493,EU,UK,iPhone 15,iOS 17.5
+gd_03494,MEA,AE,Galaxy S23,Android 14
+gd_03495,NAM,CA,iPhone 15,iOS 18.1
+gd_03496,NAM,US,iPhone 13,iOS 16.4
+gd_03497,NAM,CA,iPhone 15,iOS 17.2
+gd_03498,EU,DE,iPhone 14,iOS 17.5
+gd_03499,NAM,US,iPhone 13,iOS 18.1
+gd_03500,EU,ES,iPhone 14,iOS 17.5
+gd_03501,NAM,CA,Redmi Note 12,Android 12
+gd_03502,APAC,JP,Galaxy A54,Android 15
+gd_03503,LATAM,MX,Pixel 7,Android 13
+gd_03504,APAC,PH,iPhone 15,iOS 17.5
+gd_03505,NAM,US,Pixel 7,Android 13
+gd_03506,APAC,PH,Pixel 8,Android 15
+gd_03507,NAM,CA,iPhone 15,iOS 17.2
+gd_03508,APAC,PH,iPhone 14,iOS 17.2
+gd_03509,APAC,PH,iPhone 14,iOS 16.4
+gd_03510,EU,UK,Redmi Note 12,Android 14
+gd_03511,NAM,US,Galaxy A54,Android 14
+gd_03512,LATAM,BR,iPhone 15,iOS 18.1
+gd_03513,MEA,AE,Pixel 8,Android 14
+gd_03514,APAC,ID,Redmi Note 12,Android 13
+gd_03515,MEA,ZA,Pixel 8,Android 15
+gd_03516,MEA,NG,Redmi Note 12,Android 15
+gd_03517,NAM,CA,Galaxy S23,Android 15
+gd_03518,APAC,JP,iPhone 14,iOS 18.1
+gd_03519,EU,DE,Pixel 7,Android 13
+gd_03520,EU,ES,iPhone 15,iOS 17.2
+gd_03521,NAM,US,Pixel 8,Android 15
+gd_03522,MEA,ZA,iPhone 14,iOS 17.5
+gd_03523,APAC,PH,iPhone 13,iOS 18.1
+gd_03524,NAM,CA,Redmi Note 12,Android 12
+gd_03525,EU,FR,Pixel 8,Android 14
+gd_03526,EU,UK,Galaxy A54,Android 13
+gd_03527,APAC,IN,Galaxy A54,Android 15
+gd_03528,MEA,NG,Galaxy S23,Android 13
+gd_03529,EU,DE,Pixel 7,Android 14
+gd_03530,EU,FR,Pixel 8,Android 12
+gd_03531,APAC,ID,iPhone 14,iOS 18.1
+gd_03532,EU,DE,Galaxy S23,Android 15
+gd_03533,APAC,PH,iPhone 14,iOS 18.1
+gd_03534,NAM,CA,Pixel 8,Android 12
+gd_03535,NAM,US,iPhone 14,iOS 17.5
+gd_03536,EU,DE,iPhone 13,iOS 18.1
+gd_03537,MEA,ZA,iPhone 14,iOS 17.5
+gd_03538,EU,FR,iPhone 13,iOS 17.5
+gd_03539,NAM,CA,Galaxy A54,Android 14
+gd_03540,APAC,IN,Galaxy S23,Android 14
+gd_03541,MEA,AE,Redmi Note 12,Android 13
+gd_03542,EU,FR,iPhone 14,iOS 16.4
+gd_03543,NAM,US,iPhone 13,iOS 17.2
+gd_03544,APAC,PH,iPhone 13,iOS 17.2
+gd_03545,EU,ES,Redmi Note 12,Android 13
+gd_03546,APAC,JP,Redmi Note 12,Android 15
+gd_03547,EU,UK,iPhone 13,iOS 18.1
+gd_03548,NAM,CA,iPhone 15,iOS 17.5
+gd_03549,EU,ES,Galaxy S23,Android 12
+gd_03550,APAC,IN,Pixel 8,Android 15
+gd_03551,EU,ES,iPhone 14,iOS 17.5
+gd_03552,NAM,CA,iPhone 15,iOS 17.5
+gd_03553,EU,UK,Pixel 7,Android 12
+gd_03554,APAC,IN,Redmi Note 12,Android 15
+gd_03555,NAM,CA,Pixel 7,Android 13
+gd_03556,APAC,PH,Galaxy A54,Android 12
+gd_03557,APAC,PH,Pixel 7,Android 13
+gd_03558,EU,FR,iPhone 13,iOS 16.4
+gd_03559,MEA,AE,Pixel 7,Android 14
+gd_03560,LATAM,MX,iPhone 15,iOS 16.4
+gd_03561,EU,FR,iPhone 14,iOS 18.1
+gd_03562,NAM,CA,iPhone 15,iOS 17.5
+gd_03563,EU,UK,Pixel 7,Android 13
+gd_03564,NAM,US,iPhone 15,iOS 17.2
+gd_03565,APAC,IN,iPhone 15,iOS 17.2
+gd_03566,MEA,NG,Galaxy S23,Android 15
+gd_03567,LATAM,AR,iPhone 15,iOS 18.1
+gd_03568,EU,UK,Pixel 7,Android 13
+gd_03569,EU,UK,Pixel 8,Android 12
+gd_03570,NAM,US,Pixel 7,Android 12
+gd_03571,APAC,IN,Pixel 7,Android 13
+gd_03572,NAM,CA,Redmi Note 12,Android 13
+gd_03573,MEA,AE,Galaxy S23,Android 15
+gd_03574,LATAM,MX,Galaxy A54,Android 14
+gd_03575,NAM,US,iPhone 15,iOS 17.5
+gd_03576,APAC,JP,iPhone 15,iOS 17.2
+gd_03577,APAC,PH,Pixel 8,Android 14
+gd_03578,LATAM,MX,iPhone 14,iOS 17.5
+gd_03579,EU,ES,iPhone 13,iOS 17.5
+gd_03580,NAM,CA,iPhone 15,iOS 16.4
+gd_03581,APAC,PH,Redmi Note 12,Android 12
+gd_03582,NAM,CA,Galaxy S23,Android 12
+gd_03583,APAC,IN,Galaxy S23,Android 14
+gd_03584,NAM,US,Redmi Note 12,Android 13
+gd_03585,APAC,ID,Pixel 8,Android 13
+gd_03586,LATAM,AR,Galaxy S23,Android 12
+gd_03587,NAM,CA,Redmi Note 12,Android 14
+gd_03588,EU,FR,Pixel 8,Android 15
+gd_03589,APAC,ID,Redmi Note 12,Android 14
+gd_03590,NAM,CA,iPhone 13,iOS 17.5
+gd_03591,APAC,JP,iPhone 14,iOS 17.5
+gd_03592,APAC,PH,iPhone 14,iOS 16.4
+gd_03593,EU,FR,Pixel 8,Android 15
+gd_03594,LATAM,MX,Redmi Note 12,Android 13
+gd_03595,APAC,ID,Galaxy S23,Android 15
+gd_03596,APAC,ID,Redmi Note 12,Android 14
+gd_03597,NAM,US,iPhone 13,iOS 18.1
+gd_03598,NAM,US,iPhone 14,iOS 17.2
+gd_03599,NAM,CA,iPhone 14,iOS 16.4
+gd_03600,LATAM,MX,Galaxy S23,Android 14
+gd_03601,LATAM,BR,iPhone 13,iOS 17.5
+gd_03602,LATAM,BR,iPhone 13,iOS 18.1
+gd_03603,NAM,CA,Galaxy A54,Android 14
+gd_03604,APAC,ID,iPhone 13,iOS 18.1
+gd_03605,LATAM,MX,Galaxy A54,Android 15
+gd_03606,APAC,PH,Galaxy S23,Android 12
+gd_03607,NAM,US,Redmi Note 12,Android 14
+gd_03608,LATAM,AR,iPhone 13,iOS 17.2
+gd_03609,NAM,CA,iPhone 15,iOS 18.1
+gd_03610,NAM,CA,iPhone 14,iOS 17.2
+gd_03611,LATAM,MX,iPhone 13,iOS 16.4
+gd_03612,EU,FR,Galaxy A54,Android 15
+gd_03613,EU,UK,Pixel 8,Android 12
+gd_03614,APAC,ID,iPhone 13,iOS 17.5
+gd_03615,MEA,NG,iPhone 14,iOS 18.1
+gd_03616,NAM,US,iPhone 15,iOS 17.2
+gd_03617,APAC,JP,iPhone 13,iOS 16.4
+gd_03618,EU,ES,Galaxy A54,Android 15
+gd_03619,NAM,CA,iPhone 13,iOS 16.4
+gd_03620,EU,DE,iPhone 13,iOS 18.1
+gd_03621,APAC,PH,iPhone 15,iOS 17.2
+gd_03622,NAM,CA,Pixel 7,Android 15
+gd_03623,EU,FR,iPhone 14,iOS 17.2
+gd_03624,APAC,IN,iPhone 14,iOS 18.1
+gd_03625,APAC,ID,Pixel 7,Android 14
+gd_03626,APAC,ID,Redmi Note 12,Android 12
+gd_03627,LATAM,BR,iPhone 14,iOS 18.1
+gd_03628,EU,DE,Pixel 8,Android 12
+gd_03629,EU,UK,iPhone 15,iOS 18.1
+gd_03630,EU,FR,iPhone 14,iOS 17.5
+gd_03631,APAC,ID,Galaxy A54,Android 12
+gd_03632,NAM,CA,iPhone 13,iOS 17.5
+gd_03633,EU,DE,Pixel 7,Android 15
+gd_03634,NAM,CA,iPhone 13,iOS 18.1
+gd_03635,EU,FR,Galaxy S23,Android 14
+gd_03636,MEA,ZA,iPhone 15,iOS 17.2
+gd_03637,APAC,ID,Redmi Note 12,Android 13
+gd_03638,EU,FR,Galaxy S23,Android 12
+gd_03639,APAC,JP,Pixel 7,Android 13
+gd_03640,APAC,IN,iPhone 14,iOS 18.1
+gd_03641,EU,ES,Galaxy A54,Android 13
+gd_03642,EU,UK,iPhone 14,iOS 16.4
+gd_03643,APAC,PH,Galaxy A54,Android 13
+gd_03644,NAM,CA,Galaxy S23,Android 14
+gd_03645,APAC,ID,iPhone 15,iOS 18.1
+gd_03646,APAC,IN,iPhone 14,iOS 16.4
+gd_03647,APAC,PH,Pixel 7,Android 12
+gd_03648,MEA,AE,Pixel 7,Android 14
+gd_03649,LATAM,AR,iPhone 15,iOS 18.1
+gd_03650,APAC,PH,iPhone 14,iOS 16.4
+gd_03651,NAM,US,iPhone 13,iOS 18.1
+gd_03652,APAC,JP,Pixel 8,Android 15
+gd_03653,LATAM,MX,iPhone 13,iOS 17.5
+gd_03654,MEA,NG,Redmi Note 12,Android 12
+gd_03655,LATAM,BR,iPhone 13,iOS 17.5
+gd_03656,NAM,US,Pixel 8,Android 13
+gd_03657,APAC,JP,iPhone 14,iOS 18.1
+gd_03658,LATAM,MX,iPhone 14,iOS 18.1
+gd_03659,APAC,JP,Pixel 7,Android 12
+gd_03660,APAC,ID,Pixel 8,Android 12
+gd_03661,APAC,ID,iPhone 15,iOS 18.1
+gd_03662,APAC,PH,iPhone 13,iOS 17.5
+gd_03663,EU,ES,iPhone 15,iOS 16.4
+gd_03664,NAM,CA,Pixel 8,Android 13
+gd_03665,LATAM,BR,iPhone 13,iOS 17.5
+gd_03666,MEA,NG,Pixel 7,Android 12
+gd_03667,LATAM,MX,iPhone 15,iOS 18.1
+gd_03668,EU,ES,Galaxy S23,Android 14
+gd_03669,NAM,CA,Redmi Note 12,Android 13
+gd_03670,EU,UK,iPhone 15,iOS 18.1
+gd_03671,LATAM,AR,iPhone 13,iOS 17.5
+gd_03672,APAC,JP,Pixel 8,Android 13
+gd_03673,MEA,NG,iPhone 15,iOS 16.4
+gd_03674,EU,FR,iPhone 13,iOS 16.4
+gd_03675,APAC,IN,iPhone 15,iOS 16.4
+gd_03676,LATAM,AR,iPhone 13,iOS 17.5
+gd_03677,NAM,US,iPhone 15,iOS 18.1
+gd_03678,MEA,NG,iPhone 15,iOS 17.5
+gd_03679,APAC,IN,iPhone 14,iOS 17.2
+gd_03680,NAM,CA,iPhone 15,iOS 17.5
+gd_03681,NAM,US,iPhone 15,iOS 18.1
+gd_03682,LATAM,BR,iPhone 15,iOS 17.5
+gd_03683,APAC,IN,Galaxy A54,Android 12
+gd_03684,APAC,ID,iPhone 14,iOS 18.1
+gd_03685,LATAM,AR,Pixel 8,Android 15
+gd_03686,EU,ES,Redmi Note 12,Android 15
+gd_03687,LATAM,AR,Pixel 8,Android 13
+gd_03688,MEA,AE,Galaxy S23,Android 12
+gd_03689,NAM,US,iPhone 14,iOS 16.4
+gd_03690,APAC,PH,Pixel 8,Android 12
+gd_03691,EU,DE,iPhone 14,iOS 18.1
+gd_03692,EU,ES,iPhone 14,iOS 17.5
+gd_03693,EU,DE,Pixel 8,Android 14
+gd_03694,LATAM,MX,iPhone 15,iOS 16.4
+gd_03695,NAM,US,iPhone 13,iOS 17.5
+gd_03696,EU,FR,Pixel 8,Android 14
+gd_03697,APAC,JP,Redmi Note 12,Android 15
+gd_03698,NAM,CA,Galaxy S23,Android 12
+gd_03699,LATAM,BR,Galaxy A54,Android 12
+gd_03700,MEA,ZA,Galaxy A54,Android 15
+gd_03701,NAM,CA,iPhone 13,iOS 16.4
+gd_03702,NAM,CA,iPhone 15,iOS 18.1
+gd_03703,MEA,ZA,iPhone 13,iOS 17.2
+gd_03704,NAM,CA,iPhone 15,iOS 18.1
+gd_03705,NAM,US,Pixel 7,Android 15
+gd_03706,MEA,NG,Galaxy A54,Android 12
+gd_03707,LATAM,AR,Pixel 7,Android 15
+gd_03708,APAC,JP,Redmi Note 12,Android 12
+gd_03709,APAC,IN,Galaxy A54,Android 14
+gd_03710,MEA,NG,iPhone 13,iOS 17.2
+gd_03711,APAC,IN,iPhone 13,iOS 17.5
+gd_03712,APAC,ID,iPhone 13,iOS 17.5
+gd_03713,LATAM,MX,Redmi Note 12,Android 14
+gd_03714,APAC,IN,Galaxy S23,Android 12
+gd_03715,APAC,ID,iPhone 13,iOS 17.2
+gd_03716,EU,ES,iPhone 13,iOS 17.2
+gd_03717,APAC,IN,iPhone 13,iOS 18.1
+gd_03718,APAC,ID,iPhone 13,iOS 17.2
+gd_03719,EU,UK,Redmi Note 12,Android 13
+gd_03720,EU,FR,Galaxy S23,Android 14
+gd_03721,LATAM,BR,Pixel 8,Android 15
+gd_03722,EU,DE,iPhone 13,iOS 17.2
+gd_03723,NAM,CA,iPhone 14,iOS 18.1
+gd_03724,EU,UK,Pixel 8,Android 12
+gd_03725,NAM,US,iPhone 13,iOS 18.1
+gd_03726,LATAM,AR,iPhone 14,iOS 18.1
+gd_03727,EU,ES,iPhone 14,iOS 17.2
+gd_03728,EU,UK,iPhone 15,iOS 16.4
+gd_03729,LATAM,AR,iPhone 14,iOS 18.1
+gd_03730,NAM,US,iPhone 13,iOS 16.4
+gd_03731,NAM,US,iPhone 15,iOS 16.4
+gd_03732,LATAM,AR,Pixel 8,Android 12
+gd_03733,APAC,ID,Galaxy A54,Android 14
+gd_03734,LATAM,BR,Galaxy A54,Android 12
+gd_03735,LATAM,BR,iPhone 15,iOS 16.4
+gd_03736,MEA,NG,Pixel 8,Android 14
+gd_03737,NAM,US,Galaxy A54,Android 13
+gd_03738,LATAM,MX,iPhone 13,iOS 17.5
+gd_03739,APAC,IN,iPhone 15,iOS 17.5
+gd_03740,NAM,CA,Pixel 7,Android 15
+gd_03741,MEA,NG,iPhone 15,iOS 18.1
+gd_03742,EU,FR,iPhone 13,iOS 17.2
+gd_03743,LATAM,MX,iPhone 14,iOS 17.5
+gd_03744,APAC,JP,iPhone 13,iOS 17.5
+gd_03745,APAC,ID,iPhone 15,iOS 18.1
+gd_03746,NAM,CA,iPhone 14,iOS 17.5
+gd_03747,MEA,NG,Galaxy A54,Android 12
+gd_03748,APAC,IN,iPhone 14,iOS 17.5
+gd_03749,NAM,CA,Pixel 7,Android 13
+gd_03750,NAM,US,iPhone 14,iOS 18.1
+gd_03751,LATAM,BR,Galaxy A54,Android 15
+gd_03752,NAM,US,Galaxy A54,Android 14
+gd_03753,APAC,IN,iPhone 13,iOS 17.5
+gd_03754,APAC,PH,iPhone 15,iOS 16.4
+gd_03755,EU,ES,Galaxy S23,Android 12
+gd_03756,APAC,IN,iPhone 13,iOS 17.5
+gd_03757,NAM,US,Pixel 7,Android 15
+gd_03758,MEA,AE,iPhone 13,iOS 18.1
+gd_03759,LATAM,AR,iPhone 13,iOS 17.5
+gd_03760,EU,FR,iPhone 15,iOS 17.5
+gd_03761,APAC,JP,Pixel 7,Android 14
+gd_03762,APAC,IN,iPhone 13,iOS 16.4
+gd_03763,MEA,AE,Pixel 7,Android 15
+gd_03764,EU,UK,iPhone 13,iOS 17.2
+gd_03765,APAC,IN,Pixel 7,Android 14
+gd_03766,MEA,NG,Galaxy A54,Android 12
+gd_03767,NAM,US,Pixel 7,Android 12
+gd_03768,APAC,IN,iPhone 15,iOS 17.2
+gd_03769,NAM,US,Galaxy S23,Android 13
+gd_03770,APAC,JP,Pixel 7,Android 13
+gd_03771,EU,FR,iPhone 14,iOS 18.1
+gd_03772,MEA,ZA,iPhone 13,iOS 18.1
+gd_03773,EU,ES,Redmi Note 12,Android 12
+gd_03774,NAM,US,iPhone 14,iOS 18.1
+gd_03775,LATAM,AR,Redmi Note 12,Android 15
+gd_03776,LATAM,BR,iPhone 14,iOS 16.4
+gd_03777,APAC,PH,iPhone 13,iOS 17.5
+gd_03778,APAC,ID,Pixel 8,Android 14
+gd_03779,NAM,CA,Galaxy S23,Android 14
+gd_03780,APAC,ID,iPhone 15,iOS 17.5
+gd_03781,NAM,CA,Galaxy S23,Android 12
+gd_03782,NAM,CA,iPhone 15,iOS 16.4
+gd_03783,MEA,ZA,iPhone 14,iOS 17.2
+gd_03784,APAC,IN,Pixel 8,Android 15
+gd_03785,NAM,US,Galaxy S23,Android 13
+gd_03786,NAM,US,iPhone 13,iOS 16.4
+gd_03787,MEA,AE,Galaxy A54,Android 14
+gd_03788,NAM,US,iPhone 13,iOS 18.1
+gd_03789,NAM,CA,Galaxy A54,Android 12
+gd_03790,NAM,US,Pixel 8,Android 14
+gd_03791,NAM,US,Pixel 8,Android 14
+gd_03792,EU,DE,iPhone 14,iOS 17.2
+gd_03793,MEA,AE,iPhone 15,iOS 17.5
+gd_03794,EU,DE,iPhone 15,iOS 17.5
+gd_03795,APAC,ID,Pixel 8,Android 15
+gd_03796,APAC,ID,Redmi Note 12,Android 14
+gd_03797,APAC,ID,Redmi Note 12,Android 13
+gd_03798,APAC,ID,iPhone 15,iOS 16.4
+gd_03799,APAC,PH,Redmi Note 12,Android 14
+gd_03800,APAC,JP,Galaxy A54,Android 12
+gd_03801,APAC,ID,iPhone 13,iOS 17.5
+gd_03802,LATAM,AR,iPhone 15,iOS 18.1
+gd_03803,APAC,JP,iPhone 15,iOS 18.1
+gd_03804,LATAM,AR,iPhone 13,iOS 17.5
+gd_03805,NAM,CA,Redmi Note 12,Android 15
+gd_03806,APAC,IN,Galaxy A54,Android 15
+gd_03807,APAC,JP,iPhone 14,iOS 16.4
+gd_03808,EU,ES,Redmi Note 12,Android 15
+gd_03809,LATAM,BR,iPhone 13,iOS 18.1
+gd_03810,EU,UK,Galaxy A54,Android 14
+gd_03811,NAM,CA,Galaxy A54,Android 14
+gd_03812,LATAM,AR,Pixel 7,Android 12
+gd_03813,NAM,US,Galaxy S23,Android 13
+gd_03814,EU,FR,Galaxy S23,Android 13
+gd_03815,EU,FR,Pixel 8,Android 14
+gd_03816,LATAM,MX,iPhone 15,iOS 18.1
+gd_03817,EU,UK,Galaxy A54,Android 13
+gd_03818,APAC,ID,Pixel 8,Android 15
+gd_03819,LATAM,AR,Galaxy S23,Android 15
+gd_03820,APAC,PH,iPhone 13,iOS 17.2
+gd_03821,MEA,NG,iPhone 13,iOS 18.1
+gd_03822,LATAM,BR,Galaxy A54,Android 12
+gd_03823,EU,DE,Redmi Note 12,Android 12
+gd_03824,MEA,ZA,Pixel 8,Android 13
+gd_03825,APAC,ID,Pixel 8,Android 14
+gd_03826,NAM,CA,Galaxy A54,Android 12
+gd_03827,NAM,US,Galaxy S23,Android 13
+gd_03828,APAC,IN,Pixel 7,Android 15
+gd_03829,NAM,CA,iPhone 15,iOS 16.4
+gd_03830,APAC,PH,Pixel 8,Android 13
+gd_03831,EU,FR,iPhone 13,iOS 17.5
+gd_03832,APAC,PH,Galaxy S23,Android 15
+gd_03833,NAM,CA,Galaxy A54,Android 12
+gd_03834,LATAM,MX,Galaxy S23,Android 12
+gd_03835,EU,ES,Galaxy A54,Android 14
+gd_03836,NAM,US,iPhone 13,iOS 17.2
+gd_03837,EU,DE,Galaxy S23,Android 12
+gd_03838,EU,FR,Galaxy A54,Android 14
+gd_03839,APAC,JP,Galaxy S23,Android 14
+gd_03840,APAC,ID,iPhone 13,iOS 17.2
+gd_03841,NAM,US,Redmi Note 12,Android 14
+gd_03842,LATAM,BR,iPhone 13,iOS 17.2
+gd_03843,EU,FR,iPhone 15,iOS 17.5
+gd_03844,NAM,US,Galaxy A54,Android 14
+gd_03845,LATAM,MX,Pixel 7,Android 12
+gd_03846,APAC,ID,Pixel 8,Android 12
+gd_03847,APAC,PH,Pixel 8,Android 12
+gd_03848,EU,DE,Redmi Note 12,Android 15
+gd_03849,EU,UK,iPhone 14,iOS 17.2
+gd_03850,APAC,JP,iPhone 13,iOS 17.5
+gd_03851,NAM,US,iPhone 15,iOS 18.1
+gd_03852,EU,DE,Pixel 7,Android 14
+gd_03853,MEA,ZA,Redmi Note 12,Android 12
+gd_03854,APAC,IN,Redmi Note 12,Android 13
+gd_03855,EU,ES,Pixel 8,Android 14
+gd_03856,NAM,US,Pixel 7,Android 15
+gd_03857,APAC,JP,iPhone 15,iOS 18.1
+gd_03858,NAM,CA,iPhone 15,iOS 18.1
+gd_03859,NAM,US,iPhone 14,iOS 16.4
+gd_03860,NAM,CA,iPhone 13,iOS 16.4
+gd_03861,APAC,ID,iPhone 13,iOS 18.1
+gd_03862,APAC,PH,Pixel 7,Android 13
+gd_03863,NAM,US,Galaxy A54,Android 14
+gd_03864,NAM,US,iPhone 14,iOS 18.1
+gd_03865,APAC,PH,Pixel 8,Android 12
+gd_03866,APAC,PH,Galaxy A54,Android 14
+gd_03867,APAC,PH,iPhone 14,iOS 17.5
+gd_03868,NAM,US,iPhone 13,iOS 17.2
+gd_03869,APAC,PH,Galaxy S23,Android 15
+gd_03870,MEA,AE,Redmi Note 12,Android 12
+gd_03871,APAC,PH,iPhone 15,iOS 17.2
+gd_03872,NAM,CA,iPhone 15,iOS 17.5
+gd_03873,APAC,IN,iPhone 15,iOS 17.5
+gd_03874,EU,DE,iPhone 13,iOS 17.2
+gd_03875,NAM,US,iPhone 13,iOS 18.1
+gd_03876,EU,DE,Galaxy S23,Android 14
+gd_03877,LATAM,MX,Galaxy S23,Android 13
+gd_03878,EU,DE,Galaxy A54,Android 15
+gd_03879,LATAM,MX,Galaxy A54,Android 14
+gd_03880,APAC,JP,iPhone 15,iOS 17.5
+gd_03881,APAC,IN,iPhone 13,iOS 16.4
+gd_03882,NAM,US,iPhone 15,iOS 17.2
+gd_03883,APAC,JP,Galaxy A54,Android 14
+gd_03884,NAM,US,iPhone 15,iOS 17.5
+gd_03885,EU,UK,Galaxy S23,Android 13
+gd_03886,NAM,CA,iPhone 13,iOS 18.1
+gd_03887,EU,DE,Pixel 7,Android 15
+gd_03888,APAC,IN,Galaxy A54,Android 12
+gd_03889,NAM,US,Redmi Note 12,Android 15
+gd_03890,EU,FR,iPhone 15,iOS 17.5
+gd_03891,MEA,NG,Galaxy S23,Android 14
+gd_03892,NAM,CA,Galaxy S23,Android 12
+gd_03893,EU,FR,iPhone 13,iOS 17.2
+gd_03894,EU,ES,iPhone 14,iOS 17.2
+gd_03895,EU,FR,iPhone 13,iOS 17.5
+gd_03896,APAC,ID,iPhone 15,iOS 17.2
+gd_03897,NAM,CA,Galaxy A54,Android 15
+gd_03898,EU,DE,iPhone 13,iOS 17.2
+gd_03899,APAC,PH,Redmi Note 12,Android 12
+gd_03900,EU,ES,Galaxy A54,Android 12
+gd_03901,MEA,AE,Pixel 8,Android 12
+gd_03902,MEA,AE,Galaxy S23,Android 13
+gd_03903,NAM,CA,Pixel 7,Android 15
+gd_03904,EU,ES,Redmi Note 12,Android 15
+gd_03905,NAM,US,Pixel 7,Android 14
+gd_03906,NAM,CA,iPhone 15,iOS 18.1
+gd_03907,EU,FR,Galaxy A54,Android 13
+gd_03908,APAC,IN,iPhone 15,iOS 17.2
+gd_03909,EU,UK,Pixel 8,Android 15
+gd_03910,NAM,CA,iPhone 15,iOS 17.2
+gd_03911,EU,DE,iPhone 14,iOS 16.4
+gd_03912,MEA,ZA,Pixel 8,Android 14
+gd_03913,MEA,AE,Pixel 8,Android 14
+gd_03914,NAM,CA,iPhone 15,iOS 17.2
+gd_03915,APAC,IN,Galaxy S23,Android 15
+gd_03916,EU,DE,iPhone 14,iOS 16.4
+gd_03917,APAC,ID,iPhone 14,iOS 16.4
+gd_03918,APAC,PH,Galaxy S23,Android 15
+gd_03919,LATAM,MX,iPhone 14,iOS 17.2
+gd_03920,NAM,US,iPhone 14,iOS 17.2
+gd_03921,EU,FR,Pixel 7,Android 14
+gd_03922,MEA,NG,Redmi Note 12,Android 12
+gd_03923,NAM,US,Galaxy S23,Android 12
+gd_03924,NAM,CA,Redmi Note 12,Android 15
+gd_03925,APAC,IN,iPhone 14,iOS 16.4
+gd_03926,LATAM,MX,Galaxy S23,Android 15
+gd_03927,APAC,ID,iPhone 14,iOS 17.5
+gd_03928,LATAM,AR,Redmi Note 12,Android 12
+gd_03929,APAC,PH,iPhone 13,iOS 17.5
+gd_03930,NAM,CA,iPhone 14,iOS 17.5
+gd_03931,APAC,PH,iPhone 13,iOS 17.5
+gd_03932,LATAM,AR,Redmi Note 12,Android 12
+gd_03933,LATAM,BR,Galaxy S23,Android 15
+gd_03934,NAM,US,iPhone 15,iOS 16.4
+gd_03935,NAM,CA,Pixel 8,Android 13
+gd_03936,LATAM,BR,Pixel 7,Android 14
+gd_03937,NAM,CA,Galaxy A54,Android 13
+gd_03938,NAM,CA,Pixel 7,Android 15
+gd_03939,LATAM,AR,iPhone 14,iOS 16.4
+gd_03940,APAC,IN,iPhone 13,iOS 17.5
+gd_03941,EU,UK,iPhone 13,iOS 18.1
+gd_03942,NAM,US,Pixel 7,Android 12
+gd_03943,NAM,CA,iPhone 14,iOS 17.5
+gd_03944,LATAM,MX,iPhone 15,iOS 17.5
+gd_03945,EU,FR,Pixel 8,Android 14
+gd_03946,NAM,US,iPhone 13,iOS 17.2
+gd_03947,EU,DE,Pixel 7,Android 15
+gd_03948,NAM,US,iPhone 15,iOS 16.4
+gd_03949,NAM,US,iPhone 15,iOS 18.1
+gd_03950,EU,ES,Galaxy S23,Android 12
+gd_03951,APAC,IN,Galaxy S23,Android 15
+gd_03952,NAM,CA,Galaxy A54,Android 14
+gd_03953,EU,DE,iPhone 15,iOS 16.4
+gd_03954,EU,ES,Redmi Note 12,Android 13
+gd_03955,EU,FR,iPhone 13,iOS 17.5
+gd_03956,NAM,US,Galaxy S23,Android 14
+gd_03957,NAM,CA,Redmi Note 12,Android 14
+gd_03958,NAM,US,iPhone 14,iOS 17.2
+gd_03959,EU,UK,iPhone 15,iOS 17.5
+gd_03960,APAC,ID,Redmi Note 12,Android 14
+gd_03961,NAM,CA,Pixel 7,Android 15
+gd_03962,LATAM,AR,Galaxy A54,Android 12
+gd_03963,APAC,ID,iPhone 14,iOS 17.2
+gd_03964,NAM,US,iPhone 13,iOS 18.1
+gd_03965,NAM,CA,Galaxy A54,Android 14
+gd_03966,NAM,CA,Pixel 7,Android 12
+gd_03967,NAM,US,iPhone 14,iOS 17.2
+gd_03968,APAC,IN,iPhone 14,iOS 17.5
+gd_03969,NAM,CA,iPhone 14,iOS 17.2
+gd_03970,LATAM,AR,iPhone 14,iOS 18.1
+gd_03971,EU,ES,iPhone 15,iOS 18.1
+gd_03972,APAC,IN,Redmi Note 12,Android 12
+gd_03973,APAC,PH,Galaxy A54,Android 15
+gd_03974,APAC,IN,Pixel 8,Android 13
+gd_03975,MEA,NG,Redmi Note 12,Android 12
+gd_03976,MEA,NG,iPhone 15,iOS 17.5
+gd_03977,EU,DE,Redmi Note 12,Android 13
+gd_03978,NAM,US,Redmi Note 12,Android 15
+gd_03979,EU,FR,iPhone 15,iOS 16.4
+gd_03980,NAM,US,iPhone 15,iOS 17.5
+gd_03981,APAC,JP,iPhone 15,iOS 16.4
+gd_03982,EU,DE,iPhone 14,iOS 17.2
+gd_03983,EU,DE,iPhone 14,iOS 16.4
+gd_03984,APAC,PH,Pixel 8,Android 12
+gd_03985,EU,ES,Redmi Note 12,Android 14
+gd_03986,APAC,ID,Galaxy A54,Android 15
+gd_03987,EU,DE,iPhone 14,iOS 17.2
+gd_03988,LATAM,AR,Galaxy A54,Android 13
+gd_03989,APAC,ID,iPhone 13,iOS 17.5
+gd_03990,NAM,US,iPhone 15,iOS 17.5
+gd_03991,APAC,PH,Galaxy S23,Android 12
+gd_03992,NAM,CA,Redmi Note 12,Android 13
+gd_03993,APAC,ID,Pixel 7,Android 12
+gd_03994,APAC,IN,iPhone 13,iOS 16.4
+gd_03995,EU,UK,iPhone 15,iOS 18.1
+gd_03996,APAC,JP,iPhone 15,iOS 17.5
+gd_03997,LATAM,BR,iPhone 14,iOS 16.4
+gd_03998,LATAM,MX,iPhone 14,iOS 16.4
+gd_03999,APAC,PH,iPhone 14,iOS 18.1
+gd_04000,APAC,IN,iPhone 14,iOS 16.4
+gd_04001,EU,ES,Pixel 7,Android 13
+gd_04002,LATAM,BR,iPhone 14,iOS 16.4
+gd_04003,LATAM,BR,iPhone 14,iOS 17.2
+gd_04004,NAM,CA,Pixel 8,Android 15
+gd_04005,NAM,CA,Pixel 8,Android 13
+gd_04006,NAM,CA,Galaxy A54,Android 12
+gd_04007,NAM,CA,iPhone 15,iOS 16.4
+gd_04008,EU,DE,iPhone 14,iOS 16.4
+gd_04009,NAM,CA,Galaxy A54,Android 15
+gd_04010,APAC,PH,Pixel 8,Android 14
+gd_04011,NAM,CA,Galaxy S23,Android 15
+gd_04012,NAM,US,Galaxy S23,Android 14
+gd_04013,APAC,PH,iPhone 13,iOS 16.4
+gd_04014,EU,DE,Pixel 7,Android 14
+gd_04015,EU,DE,iPhone 14,iOS 18.1
+gd_04016,LATAM,BR,Redmi Note 12,Android 13
+gd_04017,MEA,ZA,iPhone 14,iOS 18.1
+gd_04018,APAC,IN,Redmi Note 12,Android 13
+gd_04019,NAM,CA,Redmi Note 12,Android 14
+gd_04020,NAM,CA,Galaxy A54,Android 15
+gd_04021,MEA,AE,Redmi Note 12,Android 12
+gd_04022,APAC,PH,iPhone 14,iOS 17.5
+gd_04023,APAC,ID,Galaxy A54,Android 12
+gd_04024,APAC,ID,iPhone 13,iOS 18.1
+gd_04025,NAM,US,iPhone 13,iOS 17.2
+gd_04026,EU,ES,Galaxy S23,Android 13
+gd_04027,LATAM,BR,iPhone 13,iOS 16.4
+gd_04028,LATAM,BR,iPhone 15,iOS 18.1
+gd_04029,NAM,CA,Redmi Note 12,Android 13
+gd_04030,APAC,JP,Pixel 7,Android 15
+gd_04031,NAM,US,Redmi Note 12,Android 12
+gd_04032,MEA,AE,Pixel 7,Android 15
+gd_04033,NAM,CA,Pixel 7,Android 14
+gd_04034,APAC,IN,iPhone 15,iOS 17.2
+gd_04035,NAM,CA,Galaxy A54,Android 14
+gd_04036,APAC,JP,iPhone 15,iOS 17.5
+gd_04037,APAC,IN,Galaxy S23,Android 13
+gd_04038,EU,FR,iPhone 14,iOS 17.2
+gd_04039,LATAM,BR,Pixel 7,Android 12
+gd_04040,LATAM,AR,Galaxy A54,Android 13
+gd_04041,LATAM,MX,Redmi Note 12,Android 15
+gd_04042,EU,UK,Galaxy S23,Android 15
+gd_04043,APAC,JP,Redmi Note 12,Android 14
+gd_04044,APAC,ID,Pixel 8,Android 12
+gd_04045,APAC,ID,Redmi Note 12,Android 15
+gd_04046,EU,ES,iPhone 14,iOS 16.4
+gd_04047,APAC,JP,Pixel 7,Android 15
+gd_04048,NAM,US,iPhone 14,iOS 17.2
+gd_04049,EU,UK,iPhone 14,iOS 18.1
+gd_04050,NAM,CA,Pixel 7,Android 15
+gd_04051,EU,UK,Redmi Note 12,Android 13
+gd_04052,NAM,CA,Pixel 8,Android 14
+gd_04053,NAM,US,Galaxy A54,Android 13
+gd_04054,LATAM,AR,Redmi Note 12,Android 12
+gd_04055,APAC,ID,iPhone 14,iOS 17.2
+gd_04056,NAM,CA,Galaxy A54,Android 15
+gd_04057,LATAM,MX,Galaxy S23,Android 13
+gd_04058,MEA,ZA,Galaxy A54,Android 13
+gd_04059,LATAM,AR,iPhone 13,iOS 18.1
+gd_04060,LATAM,AR,Pixel 8,Android 15
+gd_04061,MEA,ZA,iPhone 14,iOS 18.1
+gd_04062,APAC,IN,iPhone 13,iOS 17.2
+gd_04063,MEA,AE,iPhone 15,iOS 17.2
+gd_04064,MEA,NG,Galaxy A54,Android 13
+gd_04065,EU,FR,Pixel 7,Android 13
+gd_04066,LATAM,BR,iPhone 13,iOS 17.2
+gd_04067,LATAM,AR,Pixel 7,Android 13
+gd_04068,LATAM,MX,Galaxy A54,Android 15
+gd_04069,LATAM,MX,Galaxy S23,Android 12
+gd_04070,EU,DE,Galaxy S23,Android 15
+gd_04071,EU,UK,iPhone 14,iOS 17.2
+gd_04072,APAC,IN,iPhone 14,iOS 18.1
+gd_04073,APAC,JP,Pixel 8,Android 12
+gd_04074,LATAM,MX,iPhone 13,iOS 17.5
+gd_04075,LATAM,BR,iPhone 13,iOS 16.4
+gd_04076,APAC,IN,iPhone 15,iOS 18.1
+gd_04077,MEA,NG,iPhone 15,iOS 17.5
+gd_04078,NAM,US,iPhone 13,iOS 17.2
+gd_04079,MEA,ZA,iPhone 13,iOS 17.5
+gd_04080,NAM,US,iPhone 14,iOS 18.1
+gd_04081,APAC,JP,Galaxy A54,Android 15
+gd_04082,NAM,CA,iPhone 14,iOS 18.1
+gd_04083,APAC,JP,iPhone 14,iOS 18.1
+gd_04084,EU,ES,iPhone 13,iOS 18.1
+gd_04085,NAM,CA,Galaxy S23,Android 12
+gd_04086,APAC,PH,iPhone 15,iOS 17.5
+gd_04087,APAC,IN,Galaxy S23,Android 14
+gd_04088,NAM,US,iPhone 15,iOS 18.1
+gd_04089,APAC,JP,iPhone 15,iOS 18.1
+gd_04090,NAM,CA,iPhone 15,iOS 16.4
+gd_04091,NAM,CA,Galaxy S23,Android 15
+gd_04092,NAM,US,iPhone 14,iOS 18.1
+gd_04093,APAC,ID,iPhone 14,iOS 17.2
+gd_04094,LATAM,BR,iPhone 13,iOS 17.2
+gd_04095,APAC,ID,iPhone 14,iOS 17.5
+gd_04096,LATAM,AR,Pixel 7,Android 14
+gd_04097,APAC,IN,iPhone 14,iOS 16.4
+gd_04098,LATAM,MX,iPhone 13,iOS 16.4
+gd_04099,MEA,ZA,Galaxy S23,Android 12
+gd_04100,EU,DE,iPhone 15,iOS 18.1
+gd_04101,NAM,CA,Galaxy S23,Android 15
+gd_04102,NAM,CA,Galaxy A54,Android 14
+gd_04103,APAC,ID,Galaxy S23,Android 13
+gd_04104,APAC,PH,iPhone 15,iOS 17.5
+gd_04105,NAM,CA,Pixel 8,Android 13
+gd_04106,LATAM,AR,Redmi Note 12,Android 12
+gd_04107,MEA,NG,iPhone 15,iOS 17.5
+gd_04108,NAM,CA,iPhone 15,iOS 17.5
+gd_04109,NAM,CA,Pixel 7,Android 15
+gd_04110,NAM,US,Redmi Note 12,Android 12
+gd_04111,EU,FR,iPhone 15,iOS 18.1
+gd_04112,LATAM,AR,Pixel 8,Android 14
+gd_04113,APAC,JP,iPhone 14,iOS 17.5
+gd_04114,NAM,US,iPhone 14,iOS 17.2
+gd_04115,EU,FR,Pixel 7,Android 15
+gd_04116,NAM,CA,Galaxy S23,Android 14
+gd_04117,EU,UK,iPhone 14,iOS 18.1
+gd_04118,EU,ES,Pixel 8,Android 15
+gd_04119,APAC,PH,iPhone 14,iOS 17.5
+gd_04120,APAC,JP,Galaxy S23,Android 13
+gd_04121,LATAM,AR,iPhone 15,iOS 16.4
+gd_04122,NAM,CA,Pixel 7,Android 13
+gd_04123,LATAM,MX,iPhone 15,iOS 17.2
+gd_04124,NAM,CA,iPhone 15,iOS 17.2
+gd_04125,EU,ES,Redmi Note 12,Android 14
+gd_04126,LATAM,BR,iPhone 13,iOS 17.2
+gd_04127,APAC,PH,iPhone 14,iOS 18.1
+gd_04128,NAM,US,Pixel 8,Android 15
+gd_04129,EU,DE,Redmi Note 12,Android 15
+gd_04130,APAC,PH,iPhone 15,iOS 18.1
+gd_04131,MEA,NG,iPhone 14,iOS 16.4
+gd_04132,APAC,ID,iPhone 13,iOS 17.5
+gd_04133,NAM,CA,Redmi Note 12,Android 12
+gd_04134,EU,UK,iPhone 14,iOS 17.5
+gd_04135,NAM,US,Pixel 7,Android 13
+gd_04136,NAM,CA,Redmi Note 12,Android 15
+gd_04137,APAC,IN,Redmi Note 12,Android 12
+gd_04138,LATAM,AR,Galaxy S23,Android 12
+gd_04139,NAM,US,Galaxy A54,Android 12
+gd_04140,LATAM,BR,iPhone 14,iOS 17.2
+gd_04141,APAC,PH,Pixel 8,Android 12
+gd_04142,APAC,IN,Galaxy A54,Android 15
+gd_04143,NAM,US,Redmi Note 12,Android 13
+gd_04144,EU,UK,Redmi Note 12,Android 14
+gd_04145,NAM,CA,Galaxy A54,Android 14
+gd_04146,NAM,US,iPhone 14,iOS 18.1
+gd_04147,EU,FR,iPhone 15,iOS 17.5
+gd_04148,EU,UK,Redmi Note 12,Android 15
+gd_04149,NAM,CA,iPhone 13,iOS 18.1
+gd_04150,NAM,CA,Pixel 8,Android 13
+gd_04151,LATAM,BR,Galaxy S23,Android 13
+gd_04152,LATAM,AR,iPhone 14,iOS 16.4
+gd_04153,EU,DE,iPhone 15,iOS 17.5
+gd_04154,MEA,NG,iPhone 14,iOS 17.5
+gd_04155,NAM,US,iPhone 13,iOS 17.2
+gd_04156,EU,ES,Pixel 7,Android 14
+gd_04157,LATAM,BR,Galaxy A54,Android 15
+gd_04158,EU,FR,Galaxy A54,Android 15
+gd_04159,NAM,US,iPhone 14,iOS 17.2
+gd_04160,EU,UK,iPhone 14,iOS 18.1
+gd_04161,APAC,IN,iPhone 13,iOS 17.2
+gd_04162,APAC,PH,iPhone 13,iOS 16.4
+gd_04163,EU,UK,Galaxy A54,Android 12
+gd_04164,EU,ES,Galaxy S23,Android 14
+gd_04165,NAM,CA,iPhone 13,iOS 16.4
+gd_04166,APAC,IN,Pixel 8,Android 13
+gd_04167,NAM,US,iPhone 15,iOS 16.4
+gd_04168,LATAM,MX,Galaxy S23,Android 14
+gd_04169,APAC,ID,iPhone 15,iOS 16.4
+gd_04170,EU,FR,iPhone 14,iOS 18.1
+gd_04171,APAC,PH,iPhone 14,iOS 16.4
+gd_04172,NAM,CA,iPhone 15,iOS 18.1
+gd_04173,EU,FR,iPhone 14,iOS 18.1
+gd_04174,EU,ES,Pixel 7,Android 12
+gd_04175,EU,ES,Galaxy S23,Android 14
+gd_04176,APAC,IN,Galaxy A54,Android 15
+gd_04177,MEA,AE,iPhone 14,iOS 17.5
+gd_04178,EU,ES,Galaxy S23,Android 15
+gd_04179,EU,UK,iPhone 15,iOS 18.1
+gd_04180,APAC,JP,iPhone 14,iOS 16.4
+gd_04181,EU,ES,Pixel 8,Android 12
+gd_04182,NAM,US,Pixel 7,Android 13
+gd_04183,MEA,NG,iPhone 14,iOS 17.5
+gd_04184,LATAM,AR,Galaxy A54,Android 12
+gd_04185,MEA,AE,iPhone 13,iOS 18.1
+gd_04186,NAM,CA,iPhone 14,iOS 17.2
+gd_04187,NAM,CA,iPhone 14,iOS 18.1
+gd_04188,EU,DE,iPhone 15,iOS 18.1
+gd_04189,MEA,AE,iPhone 15,iOS 17.5
+gd_04190,NAM,CA,Pixel 8,Android 15
+gd_04191,NAM,US,iPhone 13,iOS 18.1
+gd_04192,NAM,CA,Galaxy A54,Android 13
+gd_04193,APAC,PH,iPhone 13,iOS 16.4
+gd_04194,LATAM,MX,iPhone 14,iOS 17.5
+gd_04195,APAC,JP,Pixel 7,Android 15
+gd_04196,NAM,US,Galaxy A54,Android 15
+gd_04197,APAC,IN,Pixel 7,Android 15
+gd_04198,EU,DE,iPhone 14,iOS 16.4
+gd_04199,NAM,US,Galaxy S23,Android 14
+gd_04200,EU,ES,iPhone 13,iOS 17.5
+gd_04201,APAC,IN,iPhone 15,iOS 16.4
+gd_04202,EU,DE,iPhone 14,iOS 16.4
+gd_04203,MEA,ZA,Galaxy S23,Android 14
+gd_04204,EU,UK,Pixel 7,Android 12
+gd_04205,EU,DE,Pixel 7,Android 12
+gd_04206,APAC,JP,Pixel 7,Android 15
+gd_04207,APAC,PH,iPhone 14,iOS 16.4
+gd_04208,NAM,US,iPhone 15,iOS 16.4
+gd_04209,APAC,IN,Galaxy A54,Android 15
+gd_04210,NAM,US,Redmi Note 12,Android 12
+gd_04211,EU,DE,Pixel 8,Android 14
+gd_04212,APAC,PH,Pixel 7,Android 12
+gd_04213,APAC,IN,iPhone 13,iOS 17.2
+gd_04214,EU,DE,Galaxy A54,Android 12
+gd_04215,NAM,CA,Galaxy A54,Android 15
+gd_04216,APAC,ID,iPhone 14,iOS 16.4
+gd_04217,EU,FR,iPhone 13,iOS 17.2
+gd_04218,MEA,NG,iPhone 15,iOS 17.5
+gd_04219,APAC,JP,iPhone 15,iOS 18.1
+gd_04220,LATAM,MX,Pixel 8,Android 13
+gd_04221,EU,ES,iPhone 15,iOS 17.2
+gd_04222,LATAM,AR,Galaxy A54,Android 15
+gd_04223,NAM,CA,iPhone 15,iOS 17.2
+gd_04224,EU,UK,iPhone 14,iOS 17.2
+gd_04225,NAM,CA,Pixel 7,Android 15
+gd_04226,NAM,CA,iPhone 14,iOS 18.1
+gd_04227,MEA,NG,Pixel 7,Android 12
+gd_04228,APAC,JP,iPhone 13,iOS 18.1
+gd_04229,APAC,ID,iPhone 15,iOS 17.5
+gd_04230,APAC,JP,Redmi Note 12,Android 12
+gd_04231,APAC,JP,Galaxy S23,Android 14
+gd_04232,APAC,PH,iPhone 13,iOS 16.4
+gd_04233,LATAM,MX,Pixel 8,Android 15
+gd_04234,APAC,JP,iPhone 13,iOS 17.2
+gd_04235,APAC,PH,Galaxy S23,Android 15
+gd_04236,EU,ES,Galaxy S23,Android 15
+gd_04237,MEA,ZA,Pixel 7,Android 15
+gd_04238,NAM,CA,Galaxy A54,Android 13
+gd_04239,EU,UK,Galaxy A54,Android 15
+gd_04240,LATAM,AR,Galaxy A54,Android 14
+gd_04241,NAM,US,Redmi Note 12,Android 13
+gd_04242,NAM,US,Galaxy A54,Android 15
+gd_04243,EU,FR,iPhone 15,iOS 17.5
+gd_04244,EU,FR,Pixel 8,Android 14
+gd_04245,MEA,NG,Galaxy S23,Android 15
+gd_04246,LATAM,MX,Galaxy S23,Android 13
+gd_04247,EU,UK,iPhone 15,iOS 16.4
+gd_04248,MEA,AE,iPhone 14,iOS 17.2
+gd_04249,APAC,JP,iPhone 15,iOS 17.2
+gd_04250,LATAM,MX,Galaxy S23,Android 12
+gd_04251,NAM,US,iPhone 13,iOS 18.1
+gd_04252,EU,ES,Redmi Note 12,Android 14
+gd_04253,NAM,CA,iPhone 15,iOS 17.5
+gd_04254,NAM,US,iPhone 13,iOS 17.2
+gd_04255,APAC,IN,Pixel 7,Android 12
+gd_04256,NAM,US,iPhone 15,iOS 17.2
+gd_04257,APAC,IN,Pixel 8,Android 15
+gd_04258,APAC,JP,iPhone 13,iOS 16.4
+gd_04259,NAM,CA,iPhone 14,iOS 18.1
+gd_04260,EU,DE,Pixel 7,Android 15
+gd_04261,APAC,JP,Pixel 8,Android 12
+gd_04262,LATAM,AR,Redmi Note 12,Android 14
+gd_04263,EU,ES,iPhone 13,iOS 18.1
+gd_04264,MEA,AE,Galaxy A54,Android 14
+gd_04265,LATAM,MX,Galaxy A54,Android 13
+gd_04266,APAC,JP,Pixel 8,Android 12
+gd_04267,EU,ES,iPhone 13,iOS 16.4
+gd_04268,APAC,PH,Galaxy S23,Android 15
+gd_04269,LATAM,BR,iPhone 14,iOS 16.4
+gd_04270,EU,ES,iPhone 15,iOS 17.5
+gd_04271,MEA,AE,Pixel 8,Android 13
+gd_04272,LATAM,AR,Galaxy S23,Android 14
+gd_04273,EU,ES,Galaxy A54,Android 12
+gd_04274,APAC,PH,iPhone 13,iOS 18.1
+gd_04275,APAC,IN,iPhone 15,iOS 18.1
+gd_04276,APAC,IN,Redmi Note 12,Android 15
+gd_04277,LATAM,AR,iPhone 13,iOS 17.5
+gd_04278,NAM,US,Pixel 8,Android 14
+gd_04279,NAM,US,iPhone 15,iOS 16.4
+gd_04280,EU,DE,Redmi Note 12,Android 13
+gd_04281,MEA,AE,Pixel 7,Android 13
+gd_04282,EU,UK,Redmi Note 12,Android 13
+gd_04283,LATAM,BR,iPhone 13,iOS 18.1
+gd_04284,EU,DE,Pixel 8,Android 13
+gd_04285,EU,FR,iPhone 14,iOS 18.1
+gd_04286,LATAM,MX,Galaxy A54,Android 12
+gd_04287,APAC,PH,Pixel 8,Android 15
+gd_04288,EU,ES,Galaxy S23,Android 13
+gd_04289,NAM,US,Pixel 7,Android 13
+gd_04290,NAM,CA,Pixel 7,Android 15
+gd_04291,NAM,US,iPhone 15,iOS 17.2
+gd_04292,EU,DE,Pixel 8,Android 12
+gd_04293,APAC,ID,Galaxy A54,Android 13
+gd_04294,EU,FR,Galaxy A54,Android 13
+gd_04295,NAM,US,iPhone 15,iOS 17.2
+gd_04296,NAM,CA,Pixel 7,Android 14
+gd_04297,EU,DE,iPhone 15,iOS 17.2
+gd_04298,MEA,NG,iPhone 15,iOS 18.1
+gd_04299,EU,ES,Galaxy S23,Android 13
+gd_04300,NAM,CA,iPhone 13,iOS 17.5
+gd_04301,APAC,IN,iPhone 13,iOS 17.2
+gd_04302,MEA,NG,Galaxy S23,Android 13
+gd_04303,LATAM,MX,iPhone 13,iOS 17.5
+gd_04304,LATAM,MX,Pixel 7,Android 14
+gd_04305,MEA,AE,Galaxy S23,Android 15
+gd_04306,APAC,ID,iPhone 14,iOS 17.5
+gd_04307,MEA,ZA,Redmi Note 12,Android 13
+gd_04308,NAM,CA,iPhone 15,iOS 17.2
+gd_04309,LATAM,BR,Pixel 8,Android 15
+gd_04310,LATAM,MX,iPhone 13,iOS 17.2
+gd_04311,MEA,NG,Pixel 7,Android 15
+gd_04312,EU,UK,Pixel 8,Android 14
+gd_04313,LATAM,MX,iPhone 14,iOS 17.5
+gd_04314,NAM,CA,Redmi Note 12,Android 14
+gd_04315,APAC,PH,Redmi Note 12,Android 13
+gd_04316,EU,UK,Redmi Note 12,Android 13
+gd_04317,APAC,ID,iPhone 14,iOS 18.1
+gd_04318,APAC,IN,iPhone 14,iOS 17.2
+gd_04319,EU,FR,Galaxy A54,Android 13
+gd_04320,NAM,US,iPhone 13,iOS 16.4
+gd_04321,EU,ES,iPhone 14,iOS 17.5
+gd_04322,APAC,IN,iPhone 14,iOS 17.2
+gd_04323,APAC,PH,iPhone 14,iOS 16.4
+gd_04324,APAC,ID,iPhone 14,iOS 16.4
+gd_04325,NAM,CA,iPhone 14,iOS 16.4
+gd_04326,LATAM,BR,Pixel 7,Android 15
+gd_04327,APAC,ID,Galaxy A54,Android 14
+gd_04328,NAM,US,Redmi Note 12,Android 15
+gd_04329,EU,ES,iPhone 15,iOS 16.4
+gd_04330,EU,FR,Redmi Note 12,Android 15
+gd_04331,EU,ES,Galaxy S23,Android 12
+gd_04332,NAM,CA,Pixel 7,Android 14
+gd_04333,NAM,CA,Pixel 8,Android 14
+gd_04334,NAM,CA,iPhone 15,iOS 17.5
+gd_04335,NAM,CA,Pixel 7,Android 13
+gd_04336,NAM,CA,Galaxy S23,Android 13
+gd_04337,LATAM,AR,iPhone 13,iOS 18.1
+gd_04338,APAC,JP,iPhone 13,iOS 18.1
+gd_04339,EU,DE,iPhone 13,iOS 17.2
+gd_04340,APAC,JP,iPhone 13,iOS 17.2
+gd_04341,APAC,JP,Pixel 7,Android 15
+gd_04342,NAM,CA,Galaxy S23,Android 13
+gd_04343,NAM,CA,Galaxy A54,Android 12
+gd_04344,NAM,CA,Pixel 8,Android 13
+gd_04345,APAC,JP,iPhone 15,iOS 18.1
+gd_04346,EU,ES,iPhone 14,iOS 17.2
+gd_04347,EU,ES,Galaxy A54,Android 15
+gd_04348,APAC,PH,Galaxy S23,Android 15
+gd_04349,MEA,ZA,iPhone 15,iOS 17.2
+gd_04350,EU,ES,Redmi Note 12,Android 14
+gd_04351,APAC,ID,iPhone 15,iOS 18.1
+gd_04352,EU,ES,Galaxy S23,Android 13
+gd_04353,APAC,ID,iPhone 15,iOS 16.4
+gd_04354,APAC,ID,iPhone 15,iOS 18.1
+gd_04355,APAC,JP,iPhone 13,iOS 16.4
+gd_04356,NAM,CA,Redmi Note 12,Android 14
+gd_04357,EU,FR,iPhone 13,iOS 18.1
+gd_04358,LATAM,BR,iPhone 14,iOS 17.5
+gd_04359,EU,ES,Pixel 7,Android 13
+gd_04360,MEA,AE,Galaxy A54,Android 15
+gd_04361,EU,ES,iPhone 15,iOS 17.5
+gd_04362,EU,DE,Redmi Note 12,Android 13
+gd_04363,EU,FR,Pixel 7,Android 13
+gd_04364,EU,FR,iPhone 13,iOS 18.1
+gd_04365,LATAM,BR,Pixel 8,Android 14
+gd_04366,NAM,US,iPhone 13,iOS 17.2
+gd_04367,APAC,JP,Galaxy S23,Android 15
+gd_04368,APAC,PH,iPhone 13,iOS 18.1
+gd_04369,LATAM,AR,iPhone 14,iOS 16.4
+gd_04370,APAC,ID,Galaxy S23,Android 15
+gd_04371,MEA,AE,Galaxy S23,Android 14
+gd_04372,LATAM,BR,Redmi Note 12,Android 14
+gd_04373,EU,ES,iPhone 15,iOS 17.2
+gd_04374,LATAM,AR,Pixel 8,Android 14
+gd_04375,MEA,NG,Galaxy S23,Android 13
+gd_04376,NAM,US,Redmi Note 12,Android 15
+gd_04377,APAC,ID,iPhone 15,iOS 17.5
+gd_04378,EU,ES,Galaxy A54,Android 15
+gd_04379,APAC,JP,Pixel 7,Android 13
+gd_04380,NAM,US,iPhone 14,iOS 17.5
+gd_04381,APAC,JP,iPhone 15,iOS 17.2
+gd_04382,EU,FR,Pixel 7,Android 15
+gd_04383,APAC,ID,Galaxy S23,Android 13
+gd_04384,NAM,US,iPhone 14,iOS 16.4
+gd_04385,APAC,IN,iPhone 13,iOS 17.2
+gd_04386,EU,DE,Pixel 8,Android 14
+gd_04387,APAC,IN,iPhone 15,iOS 17.2
+gd_04388,EU,DE,iPhone 14,iOS 17.2
+gd_04389,NAM,US,Redmi Note 12,Android 12
+gd_04390,EU,DE,Galaxy S23,Android 14
+gd_04391,MEA,AE,iPhone 15,iOS 17.5
+gd_04392,NAM,US,Galaxy A54,Android 13
+gd_04393,APAC,IN,Redmi Note 12,Android 13
+gd_04394,NAM,CA,Pixel 8,Android 12
+gd_04395,APAC,ID,Pixel 8,Android 13
+gd_04396,NAM,CA,iPhone 13,iOS 17.2
+gd_04397,EU,FR,Pixel 8,Android 12
+gd_04398,EU,FR,iPhone 13,iOS 16.4
+gd_04399,NAM,US,Pixel 7,Android 13
+gd_04400,EU,ES,Pixel 8,Android 14
+gd_04401,EU,ES,Redmi Note 12,Android 14
+gd_04402,APAC,PH,iPhone 14,iOS 16.4
+gd_04403,MEA,AE,Redmi Note 12,Android 15
+gd_04404,EU,DE,iPhone 15,iOS 18.1
+gd_04405,MEA,ZA,iPhone 15,iOS 16.4
+gd_04406,EU,DE,Galaxy S23,Android 12
+gd_04407,NAM,CA,Redmi Note 12,Android 12
+gd_04408,NAM,US,iPhone 14,iOS 18.1
+gd_04409,EU,ES,Galaxy A54,Android 13
+gd_04410,EU,ES,Redmi Note 12,Android 12
+gd_04411,LATAM,MX,iPhone 13,iOS 17.2
+gd_04412,APAC,JP,Pixel 7,Android 12
+gd_04413,APAC,PH,iPhone 13,iOS 17.5
+gd_04414,EU,UK,iPhone 15,iOS 16.4
+gd_04415,EU,UK,iPhone 14,iOS 17.5
+gd_04416,APAC,IN,Pixel 8,Android 15
+gd_04417,NAM,CA,Galaxy A54,Android 12
+gd_04418,NAM,US,iPhone 13,iOS 17.5
+gd_04419,EU,UK,iPhone 13,iOS 17.5
+gd_04420,NAM,US,Galaxy S23,Android 14
+gd_04421,APAC,ID,Redmi Note 12,Android 13
+gd_04422,NAM,US,Galaxy A54,Android 14
+gd_04423,NAM,US,Galaxy A54,Android 12
+gd_04424,LATAM,BR,Galaxy A54,Android 15
+gd_04425,MEA,NG,Pixel 8,Android 13
+gd_04426,EU,ES,iPhone 14,iOS 18.1
+gd_04427,EU,UK,iPhone 15,iOS 17.5
+gd_04428,LATAM,MX,iPhone 15,iOS 16.4
+gd_04429,NAM,US,Galaxy S23,Android 14
+gd_04430,EU,DE,Pixel 7,Android 15
+gd_04431,NAM,US,Galaxy A54,Android 13
+gd_04432,EU,ES,iPhone 14,iOS 18.1
+gd_04433,MEA,NG,iPhone 14,iOS 17.2
+gd_04434,APAC,PH,Galaxy A54,Android 13
+gd_04435,MEA,ZA,iPhone 14,iOS 17.2
+gd_04436,APAC,PH,Galaxy S23,Android 12
+gd_04437,APAC,JP,iPhone 13,iOS 17.5
+gd_04438,APAC,IN,Pixel 7,Android 14
+gd_04439,APAC,ID,Galaxy S23,Android 15
+gd_04440,EU,ES,iPhone 15,iOS 17.2
+gd_04441,EU,ES,iPhone 15,iOS 17.5
+gd_04442,APAC,JP,Galaxy S23,Android 15
+gd_04443,NAM,US,iPhone 15,iOS 16.4
+gd_04444,EU,FR,Pixel 8,Android 12
+gd_04445,NAM,CA,iPhone 15,iOS 17.2
+gd_04446,APAC,IN,iPhone 14,iOS 18.1
+gd_04447,NAM,US,iPhone 13,iOS 16.4
+gd_04448,EU,UK,iPhone 13,iOS 17.2
+gd_04449,EU,UK,iPhone 15,iOS 18.1
+gd_04450,NAM,CA,iPhone 14,iOS 16.4
+gd_04451,MEA,ZA,Pixel 7,Android 14
+gd_04452,EU,UK,Redmi Note 12,Android 12
+gd_04453,EU,UK,iPhone 13,iOS 18.1
+gd_04454,NAM,CA,iPhone 14,iOS 18.1
+gd_04455,LATAM,MX,Galaxy A54,Android 14
+gd_04456,APAC,PH,Pixel 7,Android 14
+gd_04457,EU,DE,iPhone 15,iOS 16.4
+gd_04458,NAM,CA,Galaxy A54,Android 13
+gd_04459,APAC,PH,iPhone 15,iOS 18.1
+gd_04460,MEA,NG,Redmi Note 12,Android 14
+gd_04461,EU,FR,Redmi Note 12,Android 14
+gd_04462,NAM,US,Pixel 8,Android 13
+gd_04463,NAM,US,Pixel 8,Android 13
+gd_04464,NAM,CA,iPhone 13,iOS 17.2
+gd_04465,APAC,ID,Pixel 7,Android 14
+gd_04466,MEA,ZA,Galaxy A54,Android 13
+gd_04467,MEA,ZA,iPhone 13,iOS 17.5
+gd_04468,LATAM,MX,iPhone 14,iOS 17.2
+gd_04469,NAM,US,Galaxy S23,Android 12
+gd_04470,MEA,AE,iPhone 14,iOS 17.5
+gd_04471,EU,DE,Galaxy S23,Android 13
+gd_04472,EU,DE,iPhone 13,iOS 18.1
+gd_04473,APAC,IN,iPhone 13,iOS 17.2
+gd_04474,NAM,CA,iPhone 15,iOS 18.1
+gd_04475,LATAM,BR,Galaxy S23,Android 14
+gd_04476,MEA,AE,Galaxy S23,Android 14
+gd_04477,LATAM,AR,iPhone 14,iOS 17.5
+gd_04478,LATAM,AR,Pixel 8,Android 14
+gd_04479,EU,FR,iPhone 15,iOS 16.4
+gd_04480,NAM,CA,Pixel 8,Android 15
+gd_04481,LATAM,AR,Galaxy S23,Android 14
+gd_04482,APAC,JP,iPhone 15,iOS 16.4
+gd_04483,MEA,ZA,Pixel 8,Android 13
+gd_04484,NAM,CA,iPhone 15,iOS 18.1
+gd_04485,EU,ES,Galaxy A54,Android 15
+gd_04486,EU,FR,iPhone 13,iOS 17.2
+gd_04487,APAC,ID,Galaxy A54,Android 15
+gd_04488,LATAM,BR,Redmi Note 12,Android 14
+gd_04489,MEA,ZA,iPhone 13,iOS 17.5
+gd_04490,EU,DE,iPhone 15,iOS 18.1
+gd_04491,EU,ES,Pixel 7,Android 13
+gd_04492,NAM,CA,iPhone 13,iOS 17.2
+gd_04493,NAM,US,Redmi Note 12,Android 15
+gd_04494,EU,ES,iPhone 15,iOS 17.2
+gd_04495,APAC,ID,iPhone 15,iOS 17.2
+gd_04496,EU,DE,Galaxy A54,Android 12
+gd_04497,EU,ES,iPhone 13,iOS 18.1
+gd_04498,APAC,ID,iPhone 14,iOS 16.4
+gd_04499,LATAM,MX,Galaxy S23,Android 15
+gd_04500,NAM,CA,iPhone 13,iOS 17.2
+gd_04501,EU,FR,iPhone 14,iOS 16.4
+gd_04502,APAC,JP,Pixel 7,Android 12
+gd_04503,LATAM,MX,Pixel 7,Android 15
+gd_04504,LATAM,AR,iPhone 13,iOS 16.4
+gd_04505,NAM,US,iPhone 13,iOS 18.1
+gd_04506,APAC,ID,Pixel 7,Android 15
+gd_04507,LATAM,AR,Redmi Note 12,Android 15
+gd_04508,EU,DE,iPhone 15,iOS 17.2
+gd_04509,EU,UK,Galaxy S23,Android 12
+gd_04510,MEA,AE,Pixel 8,Android 14
+gd_04511,NAM,US,Pixel 7,Android 13
+gd_04512,APAC,JP,Redmi Note 12,Android 13
+gd_04513,LATAM,BR,Galaxy A54,Android 14
+gd_04514,NAM,US,iPhone 15,iOS 18.1
+gd_04515,APAC,PH,iPhone 14,iOS 16.4
+gd_04516,EU,UK,Pixel 7,Android 13
+gd_04517,LATAM,AR,Galaxy A54,Android 13
+gd_04518,LATAM,BR,Galaxy S23,Android 14
+gd_04519,LATAM,MX,Pixel 8,Android 15
+gd_04520,NAM,CA,iPhone 13,iOS 17.5
+gd_04521,APAC,PH,Pixel 7,Android 15
+gd_04522,MEA,ZA,iPhone 15,iOS 16.4
+gd_04523,APAC,IN,Pixel 7,Android 15
+gd_04524,APAC,PH,iPhone 15,iOS 17.2
+gd_04525,NAM,CA,Redmi Note 12,Android 13
+gd_04526,LATAM,MX,Pixel 7,Android 13
+gd_04527,NAM,US,Galaxy A54,Android 13
+gd_04528,EU,FR,Pixel 7,Android 15
+gd_04529,MEA,AE,Redmi Note 12,Android 12
+gd_04530,MEA,AE,iPhone 14,iOS 17.2
+gd_04531,MEA,ZA,Pixel 7,Android 12
+gd_04532,EU,DE,iPhone 15,iOS 17.5
+gd_04533,NAM,CA,Galaxy A54,Android 12
+gd_04534,EU,UK,iPhone 15,iOS 18.1
+gd_04535,NAM,CA,iPhone 14,iOS 16.4
+gd_04536,LATAM,MX,Redmi Note 12,Android 13
+gd_04537,APAC,JP,iPhone 14,iOS 16.4
+gd_04538,EU,ES,iPhone 14,iOS 17.5
+gd_04539,NAM,US,Pixel 8,Android 12
+gd_04540,EU,ES,Pixel 8,Android 15
+gd_04541,LATAM,BR,iPhone 14,iOS 17.5
+gd_04542,APAC,ID,iPhone 15,iOS 17.5
+gd_04543,NAM,US,iPhone 13,iOS 17.5
+gd_04544,NAM,CA,Galaxy S23,Android 12
+gd_04545,EU,DE,iPhone 13,iOS 17.2
+gd_04546,NAM,CA,Pixel 8,Android 12
+gd_04547,MEA,ZA,Galaxy A54,Android 14
+gd_04548,APAC,JP,iPhone 15,iOS 16.4
+gd_04549,NAM,CA,Pixel 7,Android 15
+gd_04550,LATAM,MX,Galaxy A54,Android 12
+gd_04551,EU,FR,Pixel 7,Android 13
+gd_04552,NAM,CA,Pixel 7,Android 12
+gd_04553,APAC,PH,Redmi Note 12,Android 15
+gd_04554,NAM,US,Pixel 7,Android 13
+gd_04555,EU,DE,Pixel 8,Android 15
+gd_04556,LATAM,MX,iPhone 13,iOS 17.5
+gd_04557,MEA,AE,iPhone 14,iOS 17.2
+gd_04558,EU,ES,Galaxy S23,Android 13
+gd_04559,APAC,JP,iPhone 15,iOS 17.2
+gd_04560,NAM,CA,iPhone 15,iOS 16.4
+gd_04561,APAC,IN,iPhone 15,iOS 17.2
+gd_04562,NAM,US,iPhone 14,iOS 17.5
+gd_04563,APAC,JP,iPhone 13,iOS 16.4
+gd_04564,NAM,US,Redmi Note 12,Android 13
+gd_04565,MEA,NG,Galaxy S23,Android 12
+gd_04566,LATAM,BR,iPhone 13,iOS 17.2
+gd_04567,EU,UK,iPhone 14,iOS 17.5
+gd_04568,LATAM,MX,Pixel 8,Android 15
+gd_04569,NAM,US,Pixel 8,Android 15
+gd_04570,APAC,PH,iPhone 14,iOS 16.4
+gd_04571,EU,ES,Galaxy A54,Android 12
+gd_04572,NAM,US,iPhone 13,iOS 17.5
+gd_04573,APAC,JP,iPhone 15,iOS 17.5
+gd_04574,EU,DE,Pixel 7,Android 12
+gd_04575,APAC,JP,Pixel 7,Android 15
+gd_04576,APAC,JP,Galaxy A54,Android 12
+gd_04577,NAM,CA,Pixel 7,Android 15
+gd_04578,NAM,CA,Galaxy A54,Android 14
+gd_04579,APAC,JP,Galaxy A54,Android 14
+gd_04580,APAC,ID,Galaxy S23,Android 14
+gd_04581,NAM,US,Galaxy S23,Android 14
+gd_04582,EU,FR,iPhone 15,iOS 17.5
+gd_04583,APAC,PH,Galaxy A54,Android 15
+gd_04584,APAC,JP,Galaxy A54,Android 15
+gd_04585,LATAM,AR,Pixel 7,Android 12
+gd_04586,EU,DE,Galaxy S23,Android 13
+gd_04587,APAC,IN,Pixel 7,Android 15
+gd_04588,APAC,JP,iPhone 13,iOS 17.2
+gd_04589,EU,UK,iPhone 15,iOS 16.4
+gd_04590,NAM,US,Galaxy S23,Android 15
+gd_04591,NAM,CA,Redmi Note 12,Android 12
+gd_04592,LATAM,MX,Redmi Note 12,Android 13
+gd_04593,NAM,CA,Pixel 7,Android 12
+gd_04594,APAC,JP,Redmi Note 12,Android 12
+gd_04595,APAC,ID,iPhone 15,iOS 16.4
+gd_04596,EU,FR,iPhone 13,iOS 17.5
+gd_04597,LATAM,MX,iPhone 14,iOS 16.4
+gd_04598,APAC,JP,iPhone 15,iOS 18.1
+gd_04599,NAM,CA,iPhone 13,iOS 16.4
+gd_04600,LATAM,MX,Pixel 7,Android 14
+gd_04601,APAC,JP,iPhone 14,iOS 17.5
+gd_04602,EU,FR,Redmi Note 12,Android 13
+gd_04603,APAC,IN,iPhone 13,iOS 16.4
+gd_04604,APAC,IN,iPhone 15,iOS 16.4
+gd_04605,EU,UK,iPhone 15,iOS 18.1
+gd_04606,MEA,ZA,Pixel 7,Android 14
+gd_04607,APAC,ID,Pixel 8,Android 14
+gd_04608,APAC,PH,Galaxy A54,Android 12
+gd_04609,NAM,CA,Galaxy S23,Android 12
+gd_04610,EU,ES,Pixel 8,Android 13
+gd_04611,EU,FR,Pixel 8,Android 13
+gd_04612,APAC,IN,Galaxy S23,Android 13
+gd_04613,APAC,ID,iPhone 15,iOS 16.4
+gd_04614,APAC,PH,iPhone 14,iOS 18.1
+gd_04615,NAM,CA,Redmi Note 12,Android 14
+gd_04616,APAC,PH,iPhone 15,iOS 18.1
+gd_04617,LATAM,MX,iPhone 14,iOS 17.2
+gd_04618,APAC,ID,Galaxy A54,Android 13
+gd_04619,APAC,JP,iPhone 14,iOS 17.5
+gd_04620,LATAM,BR,Galaxy A54,Android 12
+gd_04621,NAM,US,Redmi Note 12,Android 12
+gd_04622,APAC,IN,Galaxy A54,Android 13
+gd_04623,MEA,NG,Pixel 7,Android 15
+gd_04624,APAC,IN,Pixel 7,Android 13
+gd_04625,NAM,CA,Redmi Note 12,Android 15
+gd_04626,MEA,AE,iPhone 15,iOS 16.4
+gd_04627,NAM,CA,Galaxy S23,Android 14
+gd_04628,EU,UK,iPhone 13,iOS 18.1
+gd_04629,NAM,US,Redmi Note 12,Android 13
+gd_04630,EU,UK,iPhone 14,iOS 16.4
+gd_04631,EU,DE,Pixel 8,Android 12
+gd_04632,EU,FR,iPhone 14,iOS 16.4
+gd_04633,MEA,ZA,Pixel 8,Android 13
+gd_04634,EU,FR,iPhone 13,iOS 17.2
+gd_04635,APAC,PH,iPhone 13,iOS 17.2
+gd_04636,LATAM,BR,iPhone 15,iOS 16.4
+gd_04637,LATAM,BR,iPhone 13,iOS 17.5
+gd_04638,NAM,CA,Pixel 8,Android 15
+gd_04639,NAM,CA,Pixel 7,Android 15
+gd_04640,APAC,PH,iPhone 14,iOS 16.4
+gd_04641,LATAM,AR,Redmi Note 12,Android 15
+gd_04642,APAC,JP,Galaxy A54,Android 12
+gd_04643,NAM,US,iPhone 13,iOS 17.5
+gd_04644,APAC,JP,Galaxy S23,Android 15
+gd_04645,APAC,ID,iPhone 13,iOS 17.2
+gd_04646,APAC,PH,iPhone 14,iOS 17.2
+gd_04647,LATAM,BR,iPhone 13,iOS 17.2
+gd_04648,LATAM,BR,iPhone 14,iOS 17.2
+gd_04649,APAC,JP,iPhone 14,iOS 18.1
+gd_04650,APAC,PH,iPhone 15,iOS 17.2
+gd_04651,APAC,PH,iPhone 14,iOS 17.2
+gd_04652,APAC,JP,iPhone 15,iOS 17.5
+gd_04653,EU,DE,Pixel 7,Android 13
+gd_04654,APAC,ID,Redmi Note 12,Android 14
+gd_04655,APAC,PH,iPhone 15,iOS 16.4
+gd_04656,EU,UK,Galaxy A54,Android 13
+gd_04657,NAM,US,iPhone 15,iOS 16.4
+gd_04658,APAC,JP,Pixel 7,Android 15
+gd_04659,APAC,ID,iPhone 13,iOS 17.5
+gd_04660,EU,DE,Pixel 7,Android 14
+gd_04661,EU,ES,Galaxy A54,Android 14
+gd_04662,NAM,US,iPhone 14,iOS 17.5
+gd_04663,MEA,NG,iPhone 14,iOS 17.5
+gd_04664,LATAM,BR,iPhone 14,iOS 17.5
+gd_04665,APAC,ID,iPhone 14,iOS 18.1
+gd_04666,EU,UK,iPhone 14,iOS 18.1
+gd_04667,APAC,JP,Redmi Note 12,Android 13
+gd_04668,APAC,PH,iPhone 13,iOS 18.1
+gd_04669,MEA,NG,Redmi Note 12,Android 14
+gd_04670,NAM,US,iPhone 14,iOS 18.1
+gd_04671,NAM,CA,iPhone 14,iOS 17.5
+gd_04672,APAC,IN,iPhone 15,iOS 17.5
+gd_04673,NAM,CA,Galaxy S23,Android 13
+gd_04674,APAC,JP,iPhone 13,iOS 17.2
+gd_04675,LATAM,BR,iPhone 13,iOS 17.5
+gd_04676,NAM,US,iPhone 15,iOS 17.5
+gd_04677,EU,UK,Galaxy S23,Android 13
+gd_04678,APAC,JP,iPhone 14,iOS 17.2
+gd_04679,LATAM,MX,iPhone 15,iOS 18.1
+gd_04680,EU,UK,Pixel 7,Android 13
+gd_04681,NAM,CA,Pixel 7,Android 15
+gd_04682,APAC,PH,iPhone 14,iOS 18.1
+gd_04683,EU,UK,Redmi Note 12,Android 15
+gd_04684,APAC,JP,Pixel 7,Android 12
+gd_04685,APAC,ID,Galaxy A54,Android 14
+gd_04686,EU,DE,iPhone 15,iOS 17.2
+gd_04687,APAC,ID,Pixel 7,Android 15
+gd_04688,APAC,ID,iPhone 13,iOS 17.5
+gd_04689,NAM,US,iPhone 15,iOS 17.2
+gd_04690,APAC,IN,iPhone 13,iOS 16.4
+gd_04691,MEA,AE,Galaxy A54,Android 13
+gd_04692,APAC,JP,Galaxy A54,Android 13
+gd_04693,EU,DE,iPhone 13,iOS 17.2
+gd_04694,APAC,JP,Pixel 8,Android 15
+gd_04695,EU,UK,iPhone 14,iOS 17.5
+gd_04696,APAC,IN,Galaxy S23,Android 12
+gd_04697,APAC,PH,Redmi Note 12,Android 12
+gd_04698,NAM,US,Galaxy S23,Android 12
+gd_04699,EU,FR,Redmi Note 12,Android 13
+gd_04700,MEA,NG,Pixel 8,Android 15
+gd_04701,NAM,US,Pixel 8,Android 13
+gd_04702,LATAM,AR,Pixel 8,Android 15
+gd_04703,APAC,ID,Galaxy A54,Android 14
+gd_04704,APAC,PH,iPhone 13,iOS 17.5
+gd_04705,NAM,US,Redmi Note 12,Android 12
+gd_04706,NAM,US,iPhone 15,iOS 17.2
+gd_04707,NAM,CA,Redmi Note 12,Android 15
+gd_04708,APAC,IN,Redmi Note 12,Android 15
+gd_04709,MEA,AE,Pixel 7,Android 15
+gd_04710,LATAM,AR,Galaxy A54,Android 13
+gd_04711,NAM,CA,Galaxy S23,Android 14
+gd_04712,EU,UK,Galaxy A54,Android 14
+gd_04713,NAM,CA,iPhone 15,iOS 17.2
+gd_04714,MEA,ZA,iPhone 14,iOS 17.5
+gd_04715,NAM,US,Pixel 7,Android 12
+gd_04716,NAM,US,iPhone 15,iOS 18.1
+gd_04717,APAC,ID,Galaxy S23,Android 13
+gd_04718,APAC,IN,Galaxy S23,Android 13
+gd_04719,NAM,US,Galaxy S23,Android 15
+gd_04720,APAC,PH,Redmi Note 12,Android 14
+gd_04721,NAM,US,iPhone 14,iOS 16.4
+gd_04722,NAM,US,iPhone 13,iOS 17.5
+gd_04723,NAM,US,iPhone 15,iOS 17.5
+gd_04724,EU,FR,Galaxy A54,Android 13
+gd_04725,MEA,NG,iPhone 13,iOS 17.5
+gd_04726,APAC,ID,Galaxy S23,Android 15
+gd_04727,APAC,IN,iPhone 15,iOS 17.5
+gd_04728,EU,ES,iPhone 15,iOS 18.1
+gd_04729,APAC,JP,Pixel 8,Android 14
+gd_04730,MEA,NG,iPhone 14,iOS 17.5
+gd_04731,EU,DE,iPhone 15,iOS 16.4
+gd_04732,MEA,ZA,iPhone 14,iOS 17.5
+gd_04733,APAC,ID,iPhone 14,iOS 17.5
+gd_04734,APAC,ID,Pixel 7,Android 12
+gd_04735,NAM,CA,Pixel 7,Android 13
+gd_04736,APAC,JP,Galaxy A54,Android 12
+gd_04737,APAC,IN,iPhone 15,iOS 18.1
+gd_04738,MEA,AE,Galaxy A54,Android 12
+gd_04739,LATAM,MX,iPhone 15,iOS 17.2
+gd_04740,EU,FR,iPhone 15,iOS 17.2
+gd_04741,MEA,AE,Pixel 8,Android 12
+gd_04742,LATAM,MX,Galaxy S23,Android 14
+gd_04743,APAC,JP,Pixel 8,Android 12
+gd_04744,NAM,US,iPhone 13,iOS 16.4
+gd_04745,NAM,US,Galaxy S23,Android 15
+gd_04746,NAM,CA,iPhone 14,iOS 17.5
+gd_04747,NAM,CA,Redmi Note 12,Android 13
+gd_04748,MEA,AE,Pixel 8,Android 15
+gd_04749,NAM,CA,Pixel 8,Android 15
+gd_04750,APAC,IN,iPhone 13,iOS 16.4
+gd_04751,APAC,PH,iPhone 15,iOS 17.2
+gd_04752,APAC,PH,Galaxy A54,Android 13
+gd_04753,NAM,US,Pixel 8,Android 14
+gd_04754,APAC,IN,Redmi Note 12,Android 14
+gd_04755,APAC,JP,Galaxy A54,Android 12
+gd_04756,APAC,PH,iPhone 14,iOS 17.2
+gd_04757,NAM,US,Pixel 8,Android 13
+gd_04758,APAC,JP,Galaxy S23,Android 13
+gd_04759,NAM,CA,iPhone 13,iOS 18.1
+gd_04760,APAC,IN,Pixel 7,Android 13
+gd_04761,EU,FR,iPhone 15,iOS 17.2
+gd_04762,NAM,US,Pixel 8,Android 14
+gd_04763,LATAM,BR,iPhone 13,iOS 16.4
+gd_04764,NAM,US,Redmi Note 12,Android 14
+gd_04765,MEA,ZA,Redmi Note 12,Android 14
+gd_04766,LATAM,BR,Redmi Note 12,Android 13
+gd_04767,EU,ES,Pixel 7,Android 14
+gd_04768,EU,UK,Redmi Note 12,Android 15
+gd_04769,NAM,CA,iPhone 13,iOS 17.2
+gd_04770,MEA,ZA,Pixel 7,Android 12
+gd_04771,APAC,JP,Redmi Note 12,Android 13
+gd_04772,NAM,CA,Pixel 8,Android 15
+gd_04773,APAC,ID,Galaxy A54,Android 13
+gd_04774,NAM,US,Pixel 7,Android 12
+gd_04775,APAC,PH,Pixel 7,Android 12
+gd_04776,APAC,IN,iPhone 15,iOS 17.2
+gd_04777,NAM,CA,iPhone 14,iOS 17.5
+gd_04778,LATAM,AR,iPhone 15,iOS 18.1
+gd_04779,NAM,CA,Pixel 7,Android 15
+gd_04780,APAC,ID,Redmi Note 12,Android 14
+gd_04781,APAC,ID,Redmi Note 12,Android 13
+gd_04782,MEA,AE,iPhone 15,iOS 16.4
+gd_04783,EU,FR,Pixel 7,Android 13
+gd_04784,MEA,NG,iPhone 13,iOS 18.1
+gd_04785,EU,ES,Galaxy S23,Android 13
+gd_04786,LATAM,BR,iPhone 13,iOS 18.1
+gd_04787,NAM,US,Pixel 7,Android 13
+gd_04788,APAC,PH,iPhone 15,iOS 17.2
+gd_04789,NAM,US,iPhone 15,iOS 17.2
+gd_04790,MEA,AE,iPhone 15,iOS 17.2
+gd_04791,MEA,ZA,Redmi Note 12,Android 15
+gd_04792,EU,UK,iPhone 13,iOS 16.4
+gd_04793,APAC,ID,iPhone 15,iOS 17.5
+gd_04794,APAC,JP,iPhone 13,iOS 17.5
+gd_04795,EU,ES,Pixel 8,Android 14
+gd_04796,APAC,PH,iPhone 13,iOS 17.5
+gd_04797,APAC,IN,Pixel 8,Android 15
+gd_04798,APAC,IN,Galaxy A54,Android 15
+gd_04799,NAM,CA,Pixel 7,Android 13
+gd_04800,MEA,AE,iPhone 15,iOS 17.5
+gd_04801,NAM,US,Redmi Note 12,Android 12
+gd_04802,APAC,ID,Galaxy A54,Android 13
+gd_04803,NAM,CA,iPhone 13,iOS 16.4
+gd_04804,NAM,US,Galaxy S23,Android 14
+gd_04805,NAM,CA,iPhone 14,iOS 18.1
+gd_04806,EU,DE,Pixel 8,Android 14
+gd_04807,APAC,JP,Pixel 8,Android 12
+gd_04808,APAC,JP,Galaxy S23,Android 14
+gd_04809,APAC,JP,iPhone 15,iOS 16.4
+gd_04810,APAC,JP,iPhone 13,iOS 16.4
+gd_04811,NAM,US,iPhone 14,iOS 16.4
+gd_04812,NAM,US,Pixel 8,Android 14
+gd_04813,APAC,PH,Galaxy S23,Android 15
+gd_04814,APAC,IN,Pixel 7,Android 15
+gd_04815,APAC,JP,iPhone 15,iOS 17.5
+gd_04816,NAM,CA,iPhone 14,iOS 17.5
+gd_04817,LATAM,BR,iPhone 15,iOS 17.5
+gd_04818,NAM,US,Pixel 7,Android 14
+gd_04819,APAC,PH,iPhone 14,iOS 17.5
+gd_04820,NAM,US,Galaxy A54,Android 12
+gd_04821,APAC,IN,Galaxy A54,Android 13
+gd_04822,EU,UK,iPhone 13,iOS 17.5
+gd_04823,APAC,JP,iPhone 14,iOS 18.1
+gd_04824,NAM,CA,Pixel 7,Android 13
+gd_04825,APAC,IN,Galaxy S23,Android 14
+gd_04826,NAM,CA,iPhone 13,iOS 17.2
+gd_04827,APAC,JP,Pixel 7,Android 12
+gd_04828,NAM,US,iPhone 15,iOS 17.2
+gd_04829,NAM,US,iPhone 15,iOS 16.4
+gd_04830,APAC,ID,Redmi Note 12,Android 13
+gd_04831,NAM,US,iPhone 15,iOS 18.1
+gd_04832,NAM,US,iPhone 14,iOS 17.5
+gd_04833,LATAM,MX,iPhone 13,iOS 16.4
+gd_04834,LATAM,AR,Galaxy A54,Android 15
+gd_04835,LATAM,AR,Pixel 8,Android 14
+gd_04836,EU,FR,Pixel 7,Android 15
+gd_04837,APAC,ID,iPhone 15,iOS 16.4
+gd_04838,LATAM,BR,iPhone 14,iOS 16.4
+gd_04839,NAM,CA,iPhone 13,iOS 17.2
+gd_04840,APAC,IN,iPhone 14,iOS 16.4
+gd_04841,NAM,CA,iPhone 15,iOS 18.1
+gd_04842,MEA,NG,Galaxy S23,Android 13
+gd_04843,APAC,PH,iPhone 15,iOS 17.2
+gd_04844,EU,UK,iPhone 14,iOS 18.1
+gd_04845,EU,DE,Pixel 8,Android 12
+gd_04846,NAM,US,iPhone 13,iOS 17.5
+gd_04847,EU,FR,iPhone 13,iOS 18.1
+gd_04848,APAC,IN,Redmi Note 12,Android 12
+gd_04849,APAC,PH,Pixel 8,Android 15
+gd_04850,APAC,PH,iPhone 15,iOS 17.5
+gd_04851,NAM,US,iPhone 14,iOS 16.4
+gd_04852,APAC,ID,Galaxy S23,Android 14
+gd_04853,EU,DE,Galaxy A54,Android 12
+gd_04854,NAM,US,iPhone 14,iOS 18.1
+gd_04855,MEA,NG,Galaxy A54,Android 13
+gd_04856,APAC,PH,Redmi Note 12,Android 15
+gd_04857,APAC,ID,iPhone 15,iOS 17.2
+gd_04858,MEA,AE,Redmi Note 12,Android 14
+gd_04859,EU,DE,Pixel 7,Android 13
+gd_04860,MEA,ZA,Galaxy A54,Android 12
+gd_04861,APAC,ID,Galaxy A54,Android 14
+gd_04862,APAC,IN,iPhone 14,iOS 17.5
+gd_04863,NAM,CA,Pixel 8,Android 14
+gd_04864,NAM,CA,Pixel 7,Android 12
+gd_04865,EU,ES,Redmi Note 12,Android 15
+gd_04866,NAM,US,iPhone 15,iOS 18.1
+gd_04867,NAM,CA,Pixel 7,Android 13
+gd_04868,APAC,JP,iPhone 14,iOS 18.1
+gd_04869,APAC,JP,iPhone 14,iOS 18.1
+gd_04870,NAM,CA,iPhone 13,iOS 18.1
+gd_04871,APAC,ID,Galaxy S23,Android 15
+gd_04872,MEA,ZA,Redmi Note 12,Android 14
+gd_04873,APAC,IN,iPhone 13,iOS 17.2
+gd_04874,LATAM,MX,Galaxy A54,Android 14
+gd_04875,APAC,IN,Redmi Note 12,Android 12
+gd_04876,NAM,US,iPhone 14,iOS 16.4
+gd_04877,EU,UK,Pixel 7,Android 14
+gd_04878,MEA,ZA,iPhone 13,iOS 17.2
+gd_04879,APAC,IN,Pixel 7,Android 14
+gd_04880,LATAM,MX,iPhone 14,iOS 18.1
+gd_04881,MEA,AE,Galaxy A54,Android 15
+gd_04882,NAM,US,iPhone 13,iOS 18.1
+gd_04883,EU,UK,iPhone 14,iOS 16.4
+gd_04884,APAC,JP,Redmi Note 12,Android 14
+gd_04885,NAM,US,Pixel 8,Android 13
+gd_04886,APAC,JP,iPhone 15,iOS 17.5
+gd_04887,LATAM,MX,iPhone 13,iOS 17.2
+gd_04888,APAC,ID,Galaxy A54,Android 14
+gd_04889,EU,UK,Pixel 7,Android 14
+gd_04890,APAC,ID,iPhone 13,iOS 17.5
+gd_04891,NAM,US,Redmi Note 12,Android 13
+gd_04892,LATAM,MX,iPhone 14,iOS 17.2
+gd_04893,NAM,US,iPhone 14,iOS 17.2
+gd_04894,LATAM,AR,Galaxy S23,Android 13
+gd_04895,EU,DE,Pixel 8,Android 14
+gd_04896,EU,FR,Redmi Note 12,Android 15
+gd_04897,APAC,JP,iPhone 14,iOS 18.1
+gd_04898,NAM,CA,iPhone 13,iOS 17.2
+gd_04899,EU,ES,Redmi Note 12,Android 12
+gd_04900,LATAM,MX,Pixel 7,Android 13
+gd_04901,LATAM,AR,Redmi Note 12,Android 15
+gd_04902,NAM,US,iPhone 13,iOS 16.4
+gd_04903,APAC,PH,Pixel 7,Android 13
+gd_04904,LATAM,MX,Pixel 8,Android 12
+gd_04905,LATAM,MX,Galaxy A54,Android 12
+gd_04906,EU,DE,iPhone 14,iOS 16.4
+gd_04907,NAM,CA,iPhone 13,iOS 16.4
+gd_04908,MEA,ZA,Pixel 8,Android 12
+gd_04909,EU,FR,iPhone 13,iOS 17.2
+gd_04910,EU,UK,Galaxy A54,Android 12
+gd_04911,APAC,JP,iPhone 15,iOS 16.4
+gd_04912,NAM,US,Pixel 8,Android 14
+gd_04913,LATAM,MX,iPhone 15,iOS 17.5
+gd_04914,NAM,US,iPhone 14,iOS 18.1
+gd_04915,APAC,ID,iPhone 13,iOS 17.5
+gd_04916,MEA,AE,iPhone 13,iOS 18.1
+gd_04917,MEA,ZA,Redmi Note 12,Android 12
+gd_04918,MEA,AE,Redmi Note 12,Android 13
+gd_04919,LATAM,BR,Galaxy A54,Android 13
+gd_04920,EU,FR,Pixel 8,Android 15
+gd_04921,MEA,NG,iPhone 15,iOS 17.2
+gd_04922,MEA,AE,Galaxy A54,Android 14
+gd_04923,APAC,IN,Galaxy A54,Android 12
+gd_04924,EU,UK,iPhone 14,iOS 17.5
+gd_04925,NAM,CA,Galaxy S23,Android 15
+gd_04926,APAC,PH,Redmi Note 12,Android 13
+gd_04927,APAC,PH,iPhone 15,iOS 17.2
+gd_04928,EU,DE,iPhone 14,iOS 17.2
+gd_04929,EU,DE,Pixel 8,Android 13
+gd_04930,APAC,IN,Galaxy S23,Android 13
+gd_04931,NAM,US,iPhone 14,iOS 16.4
+gd_04932,MEA,NG,Galaxy A54,Android 13
+gd_04933,EU,DE,Pixel 8,Android 12
+gd_04934,NAM,US,Pixel 7,Android 15
+gd_04935,NAM,US,Redmi Note 12,Android 13
+gd_04936,LATAM,BR,Redmi Note 12,Android 15
+gd_04937,LATAM,AR,iPhone 13,iOS 16.4
+gd_04938,NAM,CA,Pixel 8,Android 14
+gd_04939,NAM,CA,iPhone 14,iOS 17.5
+gd_04940,EU,DE,Galaxy A54,Android 12
+gd_04941,NAM,CA,Galaxy A54,Android 15
+gd_04942,APAC,ID,Pixel 8,Android 14
+gd_04943,NAM,CA,iPhone 13,iOS 17.2
+gd_04944,APAC,IN,iPhone 14,iOS 17.2
+gd_04945,EU,FR,Pixel 8,Android 13
+gd_04946,EU,UK,Galaxy S23,Android 15
+gd_04947,EU,FR,Pixel 8,Android 12
+gd_04948,NAM,CA,iPhone 13,iOS 16.4
+gd_04949,NAM,US,iPhone 15,iOS 17.2
+gd_04950,NAM,CA,Galaxy A54,Android 13
+gd_04951,NAM,US,Pixel 8,Android 13
+gd_04952,MEA,AE,Galaxy S23,Android 15
+gd_04953,EU,UK,Galaxy S23,Android 12
+gd_04954,EU,FR,iPhone 13,iOS 18.1
+gd_04955,NAM,CA,iPhone 14,iOS 16.4
+gd_04956,APAC,ID,Galaxy S23,Android 14
+gd_04957,MEA,NG,Redmi Note 12,Android 15
+gd_04958,LATAM,MX,iPhone 14,iOS 16.4
+gd_04959,APAC,JP,iPhone 15,iOS 18.1
+gd_04960,LATAM,BR,iPhone 14,iOS 17.5
+gd_04961,EU,FR,Pixel 7,Android 13
+gd_04962,LATAM,AR,Pixel 8,Android 14
+gd_04963,LATAM,AR,iPhone 15,iOS 17.2
+gd_04964,NAM,CA,Pixel 8,Android 15
+gd_04965,EU,UK,iPhone 15,iOS 17.2
+gd_04966,NAM,CA,Galaxy A54,Android 14
+gd_04967,NAM,US,Galaxy A54,Android 13
+gd_04968,LATAM,BR,iPhone 15,iOS 17.2
+gd_04969,NAM,CA,Galaxy S23,Android 13
+gd_04970,APAC,PH,iPhone 14,iOS 17.5
+gd_04971,MEA,NG,iPhone 13,iOS 17.5
+gd_04972,EU,DE,iPhone 15,iOS 16.4
+gd_04973,EU,FR,Galaxy A54,Android 13
+gd_04974,APAC,JP,Pixel 7,Android 14
+gd_04975,LATAM,BR,Galaxy S23,Android 12
+gd_04976,NAM,CA,Galaxy S23,Android 14
+gd_04977,NAM,CA,iPhone 13,iOS 17.5
+gd_04978,APAC,IN,Pixel 7,Android 12
+gd_04979,MEA,NG,Pixel 7,Android 14
+gd_04980,EU,DE,iPhone 13,iOS 18.1
+gd_04981,EU,FR,Pixel 8,Android 12
+gd_04982,MEA,AE,iPhone 13,iOS 17.2
+gd_04983,NAM,US,Galaxy A54,Android 12
+gd_04984,NAM,US,Galaxy S23,Android 14
+gd_04985,APAC,JP,Pixel 7,Android 14
+gd_04986,NAM,CA,iPhone 13,iOS 17.5
+gd_04987,NAM,CA,Galaxy A54,Android 12
+gd_04988,APAC,ID,Redmi Note 12,Android 12
+gd_04989,APAC,PH,Redmi Note 12,Android 15
+gd_04990,APAC,ID,Galaxy A54,Android 14
+gd_04991,EU,FR,Pixel 8,Android 14
+gd_04992,APAC,ID,Galaxy A54,Android 14
+gd_04993,APAC,JP,iPhone 13,iOS 17.5
+gd_04994,LATAM,MX,iPhone 13,iOS 18.1
+gd_04995,LATAM,AR,iPhone 13,iOS 18.1
+gd_04996,APAC,ID,iPhone 13,iOS 18.1
+gd_04997,LATAM,MX,Pixel 8,Android 15
+gd_04998,LATAM,MX,Pixel 7,Android 15
+gd_04999,NAM,US,Redmi Note 12,Android 15
