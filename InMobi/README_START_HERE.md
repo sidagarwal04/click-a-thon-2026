@@ -38,7 +38,7 @@ Each row in `ad_events` is one ad request and what happened to it (`is_filled` â
 
 1. Spin up your team's **ClickHouse Cloud** service (using your event credits).
 2. Load the four files from `data/`.
-3. Read `metrics_glossary.md` so your metric formulas match how you'll be judged.
+3. Read [`metrics_glossary.md`](metrics_glossary.md) so your metric formulas match how you'll be judged.
 
 ## What you're building (in one line)
 

@@ -21,7 +21,7 @@ The solution is built from two complementary datasets:
 
 ## Data dictionary & integration
 
-Column definitions are documented in `dataset_details.md`. Use this file as the canonical reference for field names, data types, timestamps, identifiers, and business meaning.
+Column definitions are documented in [`dataset_details.md`](dataset_details.md). Use this file as the canonical reference for field names, data types, timestamps, identifiers, and business meaning.
 
 ## Problem statement
 
@@ -54,7 +54,7 @@ Understand the OTT use case and design a streaming solution for **foreground-onl
 
 ## Expected deliverables
 
-- Document the event and content schemas using `dataset_details.md`.
+- Document the event and content schemas using [`dataset_details.md`](dataset_details.md).
 - Define the real-time join and foreground-state logic.
 - Produce session-aware and session-independent aggregate tables.
 - Validate results against representative OTT viewing scenarios.

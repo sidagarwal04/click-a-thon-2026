@@ -79,4 +79,4 @@ Your system must answer, with working code and data, the questions this problem 
 Replay a live-event day: ingest the session stream → the concurrency curve builds in near real time as sessions open, heartbeat, and close → apply a filter (platform, country) and the minute-grain view answers instantly → optionally, ask a follow-up question in chat.
 
 ---
-*See `README_START_HERE.md` for what's in this package and how to load the data, and `dataset_details.md` for the data dictionary.*
+*See [`README_START_HERE.md`](README_START_HERE.md) for what's in this package and how to load the data, and [`dataset_details.md`](dataset_details.md) for the data dictionary.*

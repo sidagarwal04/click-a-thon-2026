@@ -27,7 +27,7 @@ Given a stream of metric/event data, your system should:
 ## What you are given (in this package)
 
 - A **synthetic ad-events dataset along with dimensions**: impressions, requests, fills, clicks, and revenue events across dimensions (app, device, OS, geo, advertiser, ad format), with realistic seasonality and noise. (~9M events, 5 weeks.)
-- A short **metrics glossary** (`metrics_glossary.md`): definitions and formulas for the key metrics (fill rate, eCPM, CTR, revenue), so every team computes them the same way.
+- A short **metrics glossary** ([`metrics_glossary.md`](metrics_glossary.md)): definitions and formulas for the key metrics (fill rate, eCPM, CTR, revenue), so every team computes them the same way.
 
 Anomalies have been deliberately planted in specific segments and time windows. The answer key stays private with the judges. You may develop and test against your own or public datasets as well, but evaluation runs on the provided data.
 
@@ -67,4 +67,4 @@ Anomalies have been deliberately planted in specific segments and time windows. 
 Replay an incident end to end: a metric drops → the system runs → a metric tree lights up green/amber/red → a plain-English diagnosis (*"revenue fell because fill rate dropped for Device X in Region Y; seasonality checked and ruled out"*) → optionally, ask a follow-up question in chat.
 
 ---
-*See `README_START_HERE.md` for what's in this package and how to load the data, and `metrics_glossary.md` for exact metric definitions.*
+*See [`README_START_HERE.md`](README_START_HERE.md) for what's in this package and how to load the data, and [`metrics_glossary.md`](metrics_glossary.md) for exact metric definitions.*
