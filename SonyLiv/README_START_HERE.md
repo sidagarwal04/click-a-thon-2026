@@ -16,8 +16,8 @@ Welcome! This package has everything you need to start building.
 
 The solution is built from two complementary datasets:
 
-- **Content data:** `ch-hackathon-content-data.csv` — metadata and content attributes.
-- **Raw events:** `ch-hackathon-raw-data.csv` — streaming activity at event level.
+- **Content data:** [`ch-hackathon-content-data.csv`](data/ch-hackathon-content-data.csv) — metadata and content attributes.
+- **Raw events:** [`ch-hackathon-raw-data.csv`](data/ch-hackathon-raw-data.csv) — streaming activity at event level.
 
 ## Data dictionary & integration
 

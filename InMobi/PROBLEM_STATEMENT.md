@@ -60,7 +60,7 @@ Anomalies have been deliberately planted in specific segments and time windows. 
 - **LLM choice is yours.** Any provider, your own keys, per the event guidelines. The economics favor the hinted architecture — ClickHouse computes, the LLM narrates. A system that streams raw events into an LLM will be slow, expensive, and prone to inventing numbers.
 - **Human-in-the-loop** is allowed during the build, but the unseen-incident diagnosis must come from your system, evidenced by the trace. A hand-written diagnosis without a matching trace scores nothing on that criterion.
 - **Out of scope.** Authentication, production deployment, alerting integrations (PagerDuty and friends), and polished frontends. Judges reward the investigation loop, not the scaffolding.
-- **Starting points.** The ClickHouse MCP server (https://github.com/ClickHouse/mcp-clickhouse) and the agent-framework examples (https://clickhouse.com/docs/use-cases/AI/MCP) get a system querying ClickHouse within the hour.
+- **Starting points.** The [ClickHouse MCP server](https://github.com/ClickHouse/mcp-clickhouse) and the [agent-framework examples](https://clickhouse.com/docs/use-cases/AI/MCP) get a system querying ClickHouse within the hour.
 
 ## Suggested demo
 

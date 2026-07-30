@@ -1,9 +1,9 @@
 # Dataset Details — SonyLIV Streaming Datasets
 ### ClickHouse Click-a-thon 2026 · "Real-Time Foreground-Only Concurrency"
 
-This page is the canonical data dictionary for the two SonyLIV datasets in `data/`: use it as the reference for field names, data types, timestamps, identifiers, and business meaning.
+This page is the canonical data dictionary for the two SonyLIV datasets in [`data/`](data/): use it as the reference for field names, data types, timestamps, identifiers, and business meaning.
 
-## Raw dataset — `ch-hackathon-raw-data.csv`
+## Raw dataset — [`ch-hackathon-raw-data.csv`](data/ch-hackathon-raw-data.csv)
 
 This table will be used to build further aggregated tables for calculating concurrency.
 
@@ -23,7 +23,7 @@ This table will be used to build further aggregated tables for calculating concu
 | `player_version` | Player version | Used as a filter dimension |
 | `session_start_epoch` | Time when the video session started | Can be used to derive the start time at any point of time (if needed) |
 
-## Content dataset — `ch-hackathon-content-data.csv`
+## Content dataset — [`ch-hackathon-content-data.csv`](data/ch-hackathon-content-data.csv)
 
 This table will be joined in real time with the raw table and used to fetch the metadata.
 

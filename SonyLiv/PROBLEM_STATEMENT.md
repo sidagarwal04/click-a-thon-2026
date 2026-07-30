@@ -72,7 +72,7 @@ Your system must answer, with working code and data, the questions this problem 
 - **Scale framing.** The provided dataset is a scaled-down proxy for a petabyte-class production problem. Judges will ask how your design behaves at 100x, so choices that only work at hackathon size (full rescans, per-minute explosion of all history) will be treated as what they are.
 - **Human-in-the-loop** is fine during the build. The unseen-day results must come from your pipeline, evidenced by query logs or traces. Hand-computed answers score nothing.
 - **Out of scope.** Authentication, production deployment, real dashboard products, and polished frontends. A minimal visualization of concurrency over time is enough to demo; judges reward the model and the serving layer.
-- **Starting points.** ClickHouse docs on materialized views and AggregatingMergeTree are directly relevant. The ClickHouse MCP server (https://github.com/ClickHouse/mcp-clickhouse) is preconfigured if you build a conversational layer.
+- **Starting points.** ClickHouse docs on [materialized views](https://clickhouse.com/docs/materialized-views) and [AggregatingMergeTree](https://clickhouse.com/docs/engines/table-engines/mergetree-family/aggregatingmergetree) are directly relevant. The [ClickHouse MCP server](https://github.com/ClickHouse/mcp-clickhouse) is preconfigured if you build a conversational layer.
 
 ## Suggested demo
 

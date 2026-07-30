@@ -37,14 +37,14 @@ Each row in `ad_events` is one ad request and what happened to it (`is_filled` �
 ## Get running in ~10 minutes
 
 1. Spin up your team's **ClickHouse Cloud** service (using your event credits).
-2. Load the four files from `data/`.
+2. Load the four files from [`data/`](data/).
 3. Read [`metrics_glossary.md`](metrics_glossary.md) so your metric formulas match how you'll be judged.
 
 ## What you're building (in one line)
 
 A system that notices when a key metric moves abnormally, **automatically investigates which segment caused it** (which device, region, app, advertiser, format), and writes a short plain-language explanation where **every number is real and computed** — ideally also saying what it ruled out.
 
-## Deliverables (see PROBLEM_STATEMENT.md for full detail)
+## Deliverables (see [PROBLEM_STATEMENT.md](PROBLEM_STATEMENT.md) for full detail)
 
 - Public GitHub repo (MIT / Apache-2.0), all code written during the 24-hour window
 - ≤500-word solution summary · ≤5-minute demo video · ≤15-slide pitch deck
