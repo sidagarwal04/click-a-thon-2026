@@ -28,6 +28,16 @@ A key business metric jumps or drops. An alert tells you *that* it moved — you
 | Data dictionary | [SonyLiv/dataset_details.md](SonyLiv/dataset_details.md) |
 | Data | [SonyLiv/data/](SonyLiv/data/) — ~905K streaming events + ~33K content titles |
 
+### [Atlys](Atlys/) — From feature spec to insight: agents that instrument, analyze, and explain
+
+Every new product feature needs instrumentation, schema design, and analysis — today that loop is manual and slow. Build a system of three agents on ClickHouse that collapses it: one turns a feature spec into production-ready table schemas, one analyzes the data and writes insights a product manager would act on, and one keeps the business context layer fresh as tables are added — all fully traced.
+
+| | |
+|---|---|
+| Start here | [Atlys/README_START_HERE.md](Atlys/README_START_HERE.md) |
+| Problem statement | [Atlys/PROBLEM_STATEMENT.md](Atlys/PROBLEM_STATEMENT.md) |
+| Data | *Coming soon — Atlys is yet to share the dataset* |
+
 ## Ground rules (both tracks)
 
 - **ClickHouse is the primary datastore and analytical engine.** Load the data into your team's own ClickHouse Cloud service, provisioned with your event credits.
