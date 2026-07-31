@@ -36,7 +36,9 @@ Every new product feature needs instrumentation, schema design, and analysis —
 |---|---|
 | Start here | [Atlys/README_START_HERE.md](Atlys/README_START_HERE.md) |
 | Problem statement | [Atlys/PROBLEM_STATEMENT.md](Atlys/PROBLEM_STATEMENT.md) |
-| Data | *Coming soon — Atlys is yet to share the dataset* |
+| Base context | [Atlys/base_context.md](Atlys/base_context.md) |
+| Data | [Atlys/data/](Atlys/data/) — 8 raw event tables (4-step conversion funnel + 4 supporting), ~2.5M rows |
+| Feature specs | [Atlys/specs/](Atlys/specs/) — 5 specs (1-page brief + raw NDJSON) |
 
 ## Ground rules (both tracks)
 
