@@ -96,7 +96,7 @@ As the table landscape expands, this agent must:
 
 ## Example scenario
 
-A new "Express Checkout" feature is launched. The Instrumentation Agent designs the `express_checkout_events` table. The Analytics Agent detects a 12% uplift in conversion but a 3% increase in payment failures on iOS. The Context Agent links this to a known "iOS WebKit OTP rendering" issue already documented in the base context. The tracing layer shows the full reasoning chain.
+A new "Express Checkout" feature is launched. The Instrumentation Agent designs the `express_checkout_events` table. The Analytics Agent detects a conversion uplift overall but a drop in checkout completion for iOS users in one region. The Context Agent links this to a known "iOS WebKit OTP autofill" issue already documented in the base context. The tracing layer shows the full reasoning chain.
 
 ---
-*See [`README_START_HERE.md`](README_START_HERE.md) for what's in this package. The dataset will be added here once Atlys shares it.*
+*See [`README_START_HERE.md`](README_START_HERE.md) for what's in this package.*
