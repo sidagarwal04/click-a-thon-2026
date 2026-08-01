@@ -40,7 +40,7 @@ Every new product feature needs instrumentation, schema design, and analysis —
 | Data | [Atlys/data/](Atlys/data/) — 8 raw event tables (4-step conversion funnel + 4 supporting), ~2.5M rows |
 | Feature specs | [Atlys/specs/](Atlys/specs/) — 5 specs (1-page brief + raw NDJSON) |
 
-## Ground rules (both tracks)
+## Ground rules (all tracks)
 
 - **ClickHouse is the primary datastore and analytical engine.** Load the data into your team's own ClickHouse Cloud service, provisioned with your event credits.
 - **Meaningfully integrate at least one of** [ClickStack](https://clickhouse.com/use-cases/observability) (observability), [Langfuse](https://langfuse.com) (LLM observability & analytics), or [LibreChat](https://www.librechat.ai) (conversational interface). Superficial inclusion won't count.
@@ -56,6 +56,12 @@ git clone https://github.com/sidagarwal04/click-a-thon-2026.git
 ```
 
 Already cloned without LFS? Run `git lfs install && git lfs pull` inside the repo.
+
+## Submitting your project
+
+Submissions are collected in a separate repository: **[click-a-thon-26-submissions](https://github.com/sidagarwal04/click-a-thon-26-submissions)**.
+
+In short: fork it, create a folder named after your team, add your source code, README (with a hosted demo link), architecture, 2–3 minute demo video, and pitch deck PDF, then open a pull request titled `[Submission] Your Team Name`. Each track also has its own submission guidelines in that repo ([Atlys](https://github.com/sidagarwal04/click-a-thon-26-submissions/blob/main/ATLYS_SUBMISSION_GUIDELINES.md) · [SonyLIV](https://github.com/sidagarwal04/click-a-thon-26-submissions/blob/main/SONYLIV_SUBMISSION_GUIDELINES.md) · [InMobi](https://github.com/sidagarwal04/click-a-thon-26-submissions/blob/main/INMOBI_SUBMISSION_GUIDELINES.md)) — read yours before submitting.
 
 ---
 
