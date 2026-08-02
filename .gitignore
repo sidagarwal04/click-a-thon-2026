@@ -1,0 +1,3 @@
+# SonyLIV unseen dataset is hosted on Google Drive (too large for Git LFS) —
+# keep the local copies out of git so they never hit the LFS quota.
+SonyLiv/unseen_data/*.csv
