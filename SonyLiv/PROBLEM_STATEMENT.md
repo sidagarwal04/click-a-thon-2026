@@ -29,10 +29,8 @@ Your system must answer, with working code and data, the questions this problem 
 ## What you will be given
 
 - A **synthetic session dataset provided by SonyLIV**: session boundaries (start/end), heartbeat events, playback-state markers (playing, paused, backgrounded, foregrounded), across dimensions (platform, country, content ID, video type)
-- A **benchmark query set**: the fixed concurrency questions your system will be evaluated on (peak and average concurrency at minute/hour/day grain, with dimension filters)
-- A **ground-truth answer key** for the benchmark queries stays private with the judges
 
-> **The unseen day.** An unseen evaluation dataset, a fresh day of session data from the same universe, will be released to all teams simultaneously in the final hours of the hackathon. The release time will be announced at kickoff; the data is the surprise, the timing is not. Your submission must include your system's answers to the benchmark queries on it, the query latencies, and evidence that they ran through your pipeline. **Build for the unseen day, not the data you tuned on.**
+> **The unseen day.** An unseen evaluation dataset, a fresh day of session data from the same universe, will be released to all teams simultaneously in the final hours of the hackathon. The release time will be announced at kickoff; the data is the surprise, the timing is not. Your submission must include your system's answers to the query latencies, and evidence that they ran through your pipeline. **Build for the unseen day, not the data you tuned on.**
 
 ## Requirements
 
