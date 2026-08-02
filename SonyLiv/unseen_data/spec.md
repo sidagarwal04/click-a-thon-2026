@@ -1,7 +1,7 @@
 # Unseen Evaluation Dataset — SonyLIV (SEALED)
 ### ClickHouse Click-a-thon 2026 · "Real-Time Foreground-Only Concurrency"
 
-This is the **unseen day** promised in [`PROBLEM_STATEMENT.md`](../PROBLEM_STATEMENT.md): a fresh day of session data from the same universe, released to all teams simultaneously. Run the benchmark queries on it through your pipeline — your submission must include the answers, the query latencies, and evidence that they ran through your pipeline. **No pipeline evidence, no credit.**
+This is the **unseen day** promised in [`PROBLEM_STATEMENT.md`](../PROBLEM_STATEMENT.md): a fresh day of session data from the same universe, released to all teams simultaneously. Run your concurrency queries on it through your pipeline — your submission must include the results, the query latencies, and evidence that they ran through your pipeline. **No pipeline evidence, no credit.**
 
 ## The dataset
 
@@ -61,7 +61,7 @@ This table will be joined in real time with the raw table and used to fetch the 
 
 Your system's output for this dataset, as specified in the problem statement:
 
-1. Your **answers to the benchmark queries** on this data
+1. Your system's **concurrency results** on this data — peak and average concurrency at minute, hour, and day grain, with dimension filters
 2. The **query latencies**
 3. **Evidence they ran through your pipeline** (query logs or traces)
 

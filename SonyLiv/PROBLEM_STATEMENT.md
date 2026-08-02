@@ -30,7 +30,7 @@ Your system must answer, with working code and data, the questions this problem 
 
 - A **synthetic session dataset provided by SonyLIV**: session boundaries (start/end), heartbeat events, playback-state markers (playing, paused, backgrounded, foregrounded), across dimensions (platform, country, content ID, video type)
 
-> **The unseen day.** An unseen evaluation dataset, a fresh day of session data from the same universe, will be released to all teams simultaneously in the final hours of the hackathon. The release time will be announced at kickoff; the data is the surprise, the timing is not. Your submission must include your system's answers to the query latencies, and evidence that they ran through your pipeline. **Build for the unseen day, not the data you tuned on.**
+> **The unseen day.** An unseen evaluation dataset, a fresh day of session data from the same universe, will be released to all teams simultaneously in the final hours of the hackathon. The release time will be announced at kickoff; the data is the surprise, the timing is not. Your submission must include your system's concurrency results on it — peak and average concurrency at minute, hour, and day grain, with dimension filters — along with the query latencies and evidence that they ran through your pipeline. **Build for the unseen day, not the data you tuned on.**
 
 ## Requirements
 
@@ -51,17 +51,17 @@ Your system must answer, with working code and data, the questions this problem 
 
 ## What "great" looks like
 
-- **Correct.** Concurrency excludes backgrounded and heartbeat-missing periods, and matches the ground truth on the benchmark queries.
+- **Correct.** Concurrency excludes backgrounded and heartbeat-missing periods, and the numbers hold up when judges spot-check them against the raw events.
 - **Fast.** Dashboard-grade latency on minute-grain queries with filters, reading from a serving layer, not recomputing overlap from raw history.
 - **Update-friendly.** Open sessions keep evolving as heartbeats or late arrivals come in during that period, and the served concurrency absorbs those updates incrementally, without a full rebuild.
 - **Explained.** The design decisions (representation, table layout, ordering keys, aggregation strategy) come with reasoning about the trade-offs, because this problem is won on trade-off thinking across ingestion, storage, aggregation, and serving.
 
 ## How you will be evaluated
 
-- **Correctness** — your benchmark query answers versus the private ground truth. Foreground-only means foreground-only: overcounting backgrounded time is the failure mode this whole problem exists to prevent.
-- **Query performance** — latency on the benchmark set at the provided data volume. Judges will look at what your queries read, not just how fast they return.
+- **Correctness** — judges will spot-check your concurrency numbers against the raw events. Foreground-only means foreground-only: overcounting backgrounded time is the failure mode this whole problem exists to prevent.
+- **Query performance** — latency of your concurrency queries at the provided data volume. Judges will look at what your queries read, not just how fast they return.
 - **Update handling** — sessions in the dataset include ones still open when the day ends and heartbeats that keep arriving. Judges will look at how your serving layer absorbs them: incrementally, or by recomputing?
-- **Design quality** — schema and representation choices, and the reasoning behind them. A team that can defend its trade-offs beats a team with a lucky benchmark.
+- **Design quality** — schema and representation choices, and the reasoning behind them. A team that can defend its trade-offs beats a team with lucky numbers.
 - **The unseen day** — your system's results on the sealed dataset carry significant weight in shortlisting and beyond. Every team gets the same input at the same time, so correctness and latency are directly comparable. **No pipeline evidence, no credit.**
 
 ## Notes & boundaries
